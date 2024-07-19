@@ -1,13 +1,13 @@
 Year,Source details,Reference area,Value
 2019,"ZIMSTAT, Labourforce Survey",,0.33
 2022,"Zimstat, 2022 PHC",,1.1
-2022,"Zimstat, 2022 PHC",Bulawayo,0.26
-2022,"Zimstat, 2022 PHC",Manicaland,1.24
-2022,"Zimstat, 2022 PHC",Mashonaland Central,1.35
-2022,"Zimstat, 2022 PHC",Masholanad East,1.37
-2022,"Zimstat, 2022 PHC",Mashonaland West,1.14
-2022,"Zimstat, 2022 PHC",Matabeland North,0.85
-2022,"Zimstat, 2022 PHC",Matabeland South,1.91
-2022,"Zimstat, 2022 PHC",Midlands,0.83
-2022,"Zimstat, 2022 PHC",Masvingo,0.26
-2022,"Zimstat, 2022 PHC",Harare,1.45
+2022,"Zimstat, 2022 PHC",ZW_BA,0.26
+2022,"Zimstat, 2022 PHC",ZW_MA,1.24
+2022,"Zimstat, 2022 PHC",ZW_MC,1.35
+2022,"Zimstat, 2022 PHC",ZW_ME,1.37
+2022,"Zimstat, 2022 PHC",ZW_MW,1.14
+2022,"Zimstat, 2022 PHC",ZW_MN,0.85
+2022,"Zimstat, 2022 PHC",ZW_MS,1.91
+2022,"Zimstat, 2022 PHC",ZW_MI,0.83
+2022,"Zimstat, 2022 PHC",ZW_MV,0.26
+2022,"Zimstat, 2022 PHC",ZW_HA,1.45

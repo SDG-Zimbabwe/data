@@ -1,33 +1,33 @@
-Year,Reference area,Sex,Value
+Year,REF_AREA,SEX,Value
 2023,,,20.1
-2023,,Male,18.2
-2023,,Female,22.8
-2023,Bulawayo,,22.0
-2023,Manicaland,,11.6
-2023,Mashonaland Central,,0.0
-2023,Masholanad East,,9.4
-2023,Mashonaland West,,6.0
-2023,Matabeland North,,0.0
-2023,Matabeland South,,0.0
-2023,Midlands,,9.4
-2023,Masvingo,,0.0
-2023,Harare,,0.0
-2023,Bulawayo,Male,0.0
-2023,Manicaland,Male,0.0
-2023,Mashonaland Central,Male,0.0
-2023,Masholanad East,Male,0.0
-2023,Mashonaland West,Male,8.6
-2023,Matabeland North,Male,0.0
-2023,Matabeland South,Male,0.0
-2023,Midlands,Male,0.0
-2023,Masvingo,Male,0.0
-2023,Harare,Male,0.0
-2023,Bulawayo,Female,37.5
-2023,Manicaland,Female,29.2
-2023,Mashonaland Central,Female,0.0
-2023,Masholanad East,Female,20.2
-2023,Mashonaland West,Female,0.0
-2023,Matabeland North,Female,0.0
-2023,Matabeland South,Female,0.0
-2023,Midlands,Female,18.8
-2023,Masvingo,Female,0.0
+2023,,M,18.2
+2023,,F,22.8
+2023,ZW_BA,,22.0
+2023,ZW_MA,,11.6
+2023,ZW_MC,,0.0
+2023,ZW_ME,,9.4
+2023,ZW_MW,,6.0
+2023,ZW_MN,,0.0
+2023,ZW_MS,,0.0
+2023,ZW_MI,,9.4
+2023,ZW_MV,,0.0
+2023,ZW_HA,,0.0
+2023,ZW_BA,M,0.0
+2023,ZW_MA,M,0.0
+2023,ZW_MC,M,0.0
+2023,ZW_ME,M,0.0
+2023,ZW_MW,M,8.6
+2023,ZW_MN,M,0.0
+2023,ZW_MS,M,0.0
+2023,ZW_MI,M,0.0
+2023,ZW_MV,M,0.0
+2023,ZW_HA,M,0.0
+2023,ZW_BA,F,37.5
+2023,ZW_MA,F,29.2
+2023,ZW_MC,F,0.0
+2023,ZW_ME,F,20.2
+2023,ZW_MW,F,0.0
+2023,ZW_MN,F,0.0
+2023,ZW_MS,F,0.0
+2023,ZW_MI,F,18.8
+2023,ZW_MV,F,0.0

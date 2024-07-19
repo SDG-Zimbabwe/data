@@ -28,17 +28,17 @@
             "title": "SOURCE_DETAIL"
           },
           {
-            "name": "Education level",
+            "name": "EDUCATION_LEV",
             "type": "string",
             "constraints": {
               "enum": [
-                "Pre-primary education",
-                "Primary education",
-                "Lower secondary education",
+                "ISCED11_02",
+                "ISCED11_1",
+                "ISCED11_2",
                 ""
               ]
             },
-            "title": "Education level"
+            "title": "EDUCATION_LEV"
           },
           {
             "name": "Value",

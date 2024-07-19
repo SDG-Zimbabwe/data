@@ -16,16 +16,16 @@
             "title": "Year"
           },
           {
-            "name": "SDG Series",
+            "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
-                "Adjusted gender parity index for participation rate in organized learning (one year before the official primary entry age), (ratio) [4.5.1]",
-                "Adjusted language test parity index for achieving a minimum proficiency level in reading and mathematics (ratio) [4.5.1]",
+                "SE_GPI_PTNPRE",
+                "SE_LGP_ACHI",
                 ""
               ]
             },
-            "title": "SDG Series"
+            "title": "Series"
           },
           {
             "name": "Value",

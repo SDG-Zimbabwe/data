@@ -28,7 +28,7 @@
             "title": "Source details"
           },
           {
-            "name": "Sex",
+            "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [

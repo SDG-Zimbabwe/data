@@ -1,13 +1,13 @@
 Year,Source details,Reference area,Value
 2019,"ZIMSTAT, MICS",,462
 2022,"Zimstat, 2022 PHC",,363
-2022,"Zimstat, 2022 PHC",Bulawayo,248
-2022,"Zimstat, 2022 PHC",Manicaland,248
-2022,"Zimstat, 2022 PHC",Mashonaland Central,292
-2022,"Zimstat, 2022 PHC",Masholanad East,401
-2022,"Zimstat, 2022 PHC",Mashonaland West,377
-2022,"Zimstat, 2022 PHC",Matabeland North,365
-2022,"Zimstat, 2022 PHC",Matabeland South,375
-2022,"Zimstat, 2022 PHC",Midlands,424
-2022,"Zimstat, 2022 PHC",Masvingo,377
-2022,"Zimstat, 2022 PHC",Harare,303
+2022,"Zimstat, 2022 PHC",ZW_BA,248
+2022,"Zimstat, 2022 PHC",ZW_MA,248
+2022,"Zimstat, 2022 PHC",ZW_MC,292
+2022,"Zimstat, 2022 PHC",ZW_ME,401
+2022,"Zimstat, 2022 PHC",ZW_MW,377
+2022,"Zimstat, 2022 PHC",ZW_MN,365
+2022,"Zimstat, 2022 PHC",ZW_MS,375
+2022,"Zimstat, 2022 PHC",ZW_MI,424
+2022,"Zimstat, 2022 PHC",ZW_MV,377
+2022,"Zimstat, 2022 PHC",ZW_HA,303

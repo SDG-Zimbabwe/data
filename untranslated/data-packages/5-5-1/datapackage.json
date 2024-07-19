@@ -26,11 +26,11 @@
             }
           },
           {
-            "name": "Age",
+            "name": "AGE",
             "type": "string",
             "constraints": {
               "enum": [
-                "20 to 24 years old",
+                "Y20T24",
                 ""
               ]
             }

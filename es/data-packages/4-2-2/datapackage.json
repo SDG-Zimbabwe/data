@@ -28,15 +28,15 @@
             "title": "SOURCE_DETAIL"
           },
           {
-            "name": "Sex",
+            "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "Male",
+                "M",
                 ""
               ]
             },
-            "title": "Sex"
+            "title": "SEX"
           },
           {
             "name": "Value",

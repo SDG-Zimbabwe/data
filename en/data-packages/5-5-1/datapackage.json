@@ -28,7 +28,7 @@
             "title": "Source details"
           },
           {
-            "name": "Age",
+            "name": "AGE",
             "type": "string",
             "constraints": {
               "enum": [

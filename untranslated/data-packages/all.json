@@ -17,11 +17,11 @@
             "type": "integer"
           },
           {
-            "name": "Sex",
+            "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "Male",
+                "M",
                 ""
               ]
             }
@@ -49,12 +49,12 @@
             "type": "integer"
           },
           {
-            "name": "Sex",
+            "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "Male",
-                "Female",
+                "M",
+                "F",
                 ""
               ]
             }
@@ -357,20 +357,20 @@
             }
           },
           {
-            "name": "Reference area",
+            "name": "REF_AREA",
             "type": "string",
             "constraints": {
               "enum": [
-                "Bulawayo",
-                "Manicaland",
-                "Mashonaland Central",
-                "Masholanad East",
-                "Mashonaland West",
-                "Matabeland North",
-                "Matabeland South",
-                "Midlands",
-                "Masvingo",
-                "Harare",
+                "ZW_BA",
+                "ZW_MA",
+                "ZW_MC",
+                "ZW_ME",
+                "ZW_MW",
+                "ZW_MN",
+                "ZW_MS",
+                "ZW_MI",
+                "ZW_MV",
+                "ZW_HA",
                 ""
               ]
             }
@@ -442,20 +442,20 @@
             }
           },
           {
-            "name": "Reference area",
+            "name": "REF_AREA",
             "type": "string",
             "constraints": {
               "enum": [
-                "Bulawayo",
-                "Manicaland",
-                "Mashonaland Central",
-                "Masholanad East",
-                "Mashonaland West",
-                "Matabeland North",
-                "Matabeland South",
-                "Midlands",
-                "Masvingo",
-                "Harare",
+                "ZW_BA",
+                "ZW_MA",
+                "ZW_MC",
+                "ZW_ME",
+                "ZW_MW",
+                "ZW_MN",
+                "ZW_MS",
+                "ZW_MI",
+                "ZW_MV",
+                "ZW_HA",
                 ""
               ]
             }
@@ -494,20 +494,20 @@
             }
           },
           {
-            "name": "Reference area",
+            "name": "REF_AREA",
             "type": "string",
             "constraints": {
               "enum": [
-                "Bulawayo",
-                "Manicaland",
-                "Mashonaland Central",
-                "Masholanad East",
-                "Mashonaland West",
-                "Matabeland North",
-                "Matabeland South",
-                "Midlands",
-                "Masvingo",
-                "Harare",
+                "ZW_BA",
+                "ZW_MA",
+                "ZW_MC",
+                "ZW_ME",
+                "ZW_MW",
+                "ZW_MN",
+                "ZW_MS",
+                "ZW_MI",
+                "ZW_MV",
+                "ZW_HA",
                 ""
               ]
             }
@@ -711,13 +711,13 @@
             "type": "integer"
           },
           {
-            "name": "SDG Series",
+            "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
-                "Proportion of the target population who received 3 doses of diphtheria-tetanus-pertussis (DTP3) vaccine [3.b.1]",
-                "Proportion of the target population who received a 3rd dose of pneumococcal conjugate (PCV3) vaccine [3.b.1]",
-                "Proportion of the target population who received measles-containing-vaccine second-dose (MCV2) [3.b.1]",
+                "SH_ACS_DTP3",
+                "SH_ACS_PCV3",
+                "SH_ACS_MCV2",
                 ""
               ]
             }
@@ -823,11 +823,11 @@
             }
           },
           {
-            "name": "Sex",
+            "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "Male",
+                "M",
                 ""
               ]
             }
@@ -877,23 +877,23 @@
             "type": "integer"
           },
           {
-            "name": "Sex",
+            "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "Female",
-                "Male",
+                "F",
+                "M",
                 ""
               ]
             }
           },
           {
-            "name": "Age",
+            "name": "AGE",
             "type": "string",
             "constraints": {
               "enum": [
-                "15 to 24 years old",
-                "15 to 49 years old",
+                "Y15T24",
+                "Y15T49",
                 ""
               ]
             }
@@ -921,12 +921,12 @@
             "type": "integer"
           },
           {
-            "name": "SDG Series",
+            "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
-                "Adjusted gender parity index for participation rate in organized learning (one year before the official primary entry age), (ratio) [4.5.1]",
-                "Adjusted language test parity index for achieving a minimum proficiency level in reading and mathematics (ratio) [4.5.1]",
+                "SE_GPI_PTNPRE",
+                "SE_LGP_ACHI",
                 ""
               ]
             }
@@ -987,13 +987,13 @@
             }
           },
           {
-            "name": "Education level",
+            "name": "EDUCATION_LEV",
             "type": "string",
             "constraints": {
               "enum": [
-                "Pre-primary education",
-                "Primary education",
-                "Lower secondary education",
+                "ISCED11_02",
+                "ISCED11_1",
+                "ISCED11_2",
                 ""
               ]
             }
@@ -1065,11 +1065,11 @@
             }
           },
           {
-            "name": "Age",
+            "name": "AGE",
             "type": "string",
             "constraints": {
               "enum": [
-                "20 to 24 years old",
+                "Y20T24",
                 ""
               ]
             }
@@ -1185,12 +1185,12 @@
             }
           },
           {
-            "name": "Sex",
+            "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "Female",
-                "Male",
+                "F",
+                "M",
                 ""
               ]
             }
@@ -1449,31 +1449,31 @@
             "type": "integer"
           },
           {
-            "name": "Reference area",
+            "name": "REF_AREA",
             "type": "string",
             "constraints": {
               "enum": [
-                "Bulawayo",
-                "Manicaland",
-                "Mashonaland Central",
-                "Masholanad East",
-                "Mashonaland West",
-                "Matabeland North",
-                "Matabeland South",
-                "Midlands",
-                "Masvingo",
-                "Harare",
+                "ZW_BA",
+                "ZW_MA",
+                "ZW_MC",
+                "ZW_ME",
+                "ZW_MW",
+                "ZW_MN",
+                "ZW_MS",
+                "ZW_MI",
+                "ZW_MV",
+                "ZW_HA",
                 ""
               ]
             }
           },
           {
-            "name": "Sex",
+            "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "Male",
-                "Female",
+                "M",
+                "F",
                 ""
               ]
             }
@@ -1501,41 +1501,41 @@
             "type": "integer"
           },
           {
-            "name": "Reference area",
+            "name": "REF_AREA",
             "type": "string",
             "constraints": {
               "enum": [
-                "Harare",
-                "Bulawayo",
-                "Manicaland",
-                "Mashonaland Central",
-                "Masholanad East",
-                "Mashonaland West",
-                "Matabeland North",
-                "Matabeland South",
-                "Midlands",
-                "Masvingo",
+                "ZW_HA",
+                "ZW_BA",
+                "ZW_MA",
+                "ZW_MC",
+                "ZW_ME",
+                "ZW_MW",
+                "ZW_MN",
+                "ZW_MS",
+                "ZW_MI",
+                "ZW_MV",
                 ""
               ]
             }
           },
           {
-            "name": "Sex",
+            "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "Female",
-                "Male",
+                "F",
+                "M",
                 ""
               ]
             }
           },
           {
-            "name": "Age",
+            "name": "AGE",
             "type": "string",
             "constraints": {
               "enum": [
-                "15 to 24 years old",
+                "Y15T24",
                 ""
               ]
             }
@@ -1827,12 +1827,12 @@
             "type": "integer"
           },
           {
-            "name": "Sex",
+            "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "Female",
-                "Male",
+                "F",
+                "M",
                 ""
               ]
             }
@@ -1860,12 +1860,12 @@
             "type": "integer"
           },
           {
-            "name": "Sex",
+            "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "Female",
-                "Male",
+                "F",
+                "M",
                 ""
               ]
             }
@@ -1926,20 +1926,20 @@
             }
           },
           {
-            "name": "Reference area",
+            "name": "REF_AREA",
             "type": "string",
             "constraints": {
               "enum": [
-                "Bulawayo",
-                "Manicaland",
-                "Mashonaland Central",
-                "Masholanad East",
-                "Mashonaland West",
-                "Matabeland North",
-                "Matabeland South",
-                "Midlands",
-                "Masvingo",
-                "Harare",
+                "ZW_BA",
+                "ZW_MA",
+                "ZW_MC",
+                "ZW_ME",
+                "ZW_MW",
+                "ZW_MN",
+                "ZW_MS",
+                "ZW_MI",
+                "ZW_MV",
+                "ZW_HA",
                 ""
               ]
             }
@@ -2165,12 +2165,12 @@
             "type": "integer"
           },
           {
-            "name": "Sex",
+            "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "Female",
-                "Male",
+                "F",
+                "M",
                 ""
               ]
             }
@@ -2242,12 +2242,12 @@
             "type": "integer"
           },
           {
-            "name": "Sex",
+            "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "Female",
-                "Male",
+                "F",
+                "M",
                 ""
               ]
             }
@@ -2407,30 +2407,30 @@
             }
           },
           {
-            "name": "Reference area",
+            "name": "REF_AREA",
             "type": "string",
             "constraints": {
               "enum": [
-                "Bulawayo",
-                "Manicaland",
-                "Mashonaland Central",
-                "Masholanad East",
-                "Mashonaland West",
-                "Matabeland North",
-                "Matabeland South",
-                "Midlands",
-                "Masvingo",
-                "Harare",
+                "ZW_BA",
+                "ZW_MA",
+                "ZW_MC",
+                "ZW_ME",
+                "ZW_MW",
+                "ZW_MN",
+                "ZW_MS",
+                "ZW_MI",
+                "ZW_MV",
+                "ZW_HA",
                 ""
               ]
             }
           },
           {
-            "name": "Sex",
+            "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "Female",
+                "F",
                 ""
               ]
             }

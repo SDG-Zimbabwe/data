@@ -1,13 +1,13 @@
-Year,SOURCE_DETAIL,Reference area,Sex,Value
-2014,ZIMSTAT,,Female,16.4
+Year,SOURCE_DETAIL,REF_AREA,SEX,Value
+2014,ZIMSTAT,,F,16.4
 2020,"ZIMSTAT, ICT Survey",,,29.3
-2020,"ZIMSTAT, ICT Survey",Bulawayo,,60.3
-2020,"ZIMSTAT, ICT Survey",Manicaland,,17.8
-2020,"ZIMSTAT, ICT Survey",Mashonaland Central,,15.6
-2020,"ZIMSTAT, ICT Survey",Masholanad East,,21.7
-2020,"ZIMSTAT, ICT Survey",Mashonaland West,,22.8
-2020,"ZIMSTAT, ICT Survey",Matabeland North,,22.0
-2020,"ZIMSTAT, ICT Survey",Matabeland South,,34.4
-2020,"ZIMSTAT, ICT Survey",Midlands,,25.0
-2020,"ZIMSTAT, ICT Survey",Masvingo,,20.0
-2020,"ZIMSTAT, ICT Survey",Harare,,53.8
+2020,"ZIMSTAT, ICT Survey",ZW_BA,,60.3
+2020,"ZIMSTAT, ICT Survey",ZW_MA,,17.8
+2020,"ZIMSTAT, ICT Survey",ZW_MC,,15.6
+2020,"ZIMSTAT, ICT Survey",ZW_ME,,21.7
+2020,"ZIMSTAT, ICT Survey",ZW_MW,,22.8
+2020,"ZIMSTAT, ICT Survey",ZW_MN,,22.0
+2020,"ZIMSTAT, ICT Survey",ZW_MS,,34.4
+2020,"ZIMSTAT, ICT Survey",ZW_MI,,25.0
+2020,"ZIMSTAT, ICT Survey",ZW_MV,,20.0
+2020,"ZIMSTAT, ICT Survey",ZW_HA,,53.8
