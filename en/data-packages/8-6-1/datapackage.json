@@ -20,16 +20,16 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "ZW_HA",
-                "ZW_BA",
-                "ZW_MA",
-                "ZW_MC",
-                "ZW_ME",
-                "ZW_MW",
-                "ZW_MN",
-                "ZW_MS",
-                "ZW_MI",
-                "ZW_MV",
+                "Harare",
+                "Bulawayo",
+                "Manicaland",
+                "Mashonaland Central",
+                "Masholanad East",
+                "Mashonaland West",
+                "Matabeland North",
+                "Matabeland South",
+                "Midlands",
+                "Masvingo",
                 ""
               ]
             },

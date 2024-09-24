@@ -1,13 +1,13 @@
 Year,Source details,Reference area,GeoCode,Value
 2019,"ZIMSTAT, MICS",,,462
 2022,"Zimstat, 2022 PHC",,,363
-2022,"Zimstat, 2022 PHC",ZW_BA,ZW_BA,248
-2022,"Zimstat, 2022 PHC",ZW_MA,ZW_MA,248
-2022,"Zimstat, 2022 PHC",ZW_MC,ZW_MC,292
-2022,"Zimstat, 2022 PHC",ZW_ME,ZW_ME,401
-2022,"Zimstat, 2022 PHC",ZW_MW,ZW_MW,377
-2022,"Zimstat, 2022 PHC",ZW_MN,ZW_MN,365
-2022,"Zimstat, 2022 PHC",ZW_MS,ZW_MS,375
-2022,"Zimstat, 2022 PHC",ZW_MI,ZW_MI,424
-2022,"Zimstat, 2022 PHC",ZW_MV,ZW_MV,377
-2022,"Zimstat, 2022 PHC",ZW_HA,ZW_HA,303
+2022,"Zimstat, 2022 PHC",Bulawayo,ZW_BA,248
+2022,"Zimstat, 2022 PHC",Manicaland,ZW_MA,248
+2022,"Zimstat, 2022 PHC",Mashonaland Central,ZW_MC,292
+2022,"Zimstat, 2022 PHC",Masholanad East,ZW_ME,401
+2022,"Zimstat, 2022 PHC",Mashonaland West,ZW_MW,377
+2022,"Zimstat, 2022 PHC",Matabeland North,ZW_MN,365
+2022,"Zimstat, 2022 PHC",Matabeland South,ZW_MS,375
+2022,"Zimstat, 2022 PHC",Midlands,ZW_MI,424
+2022,"Zimstat, 2022 PHC",Masvingo,ZW_MV,377
+2022,"Zimstat, 2022 PHC",Harare,ZW_HA,303
