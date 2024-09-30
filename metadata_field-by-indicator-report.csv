@@ -6,7 +6,7 @@ Indicator,Reporting status,UN custodian agency,Non-statistical,Show map,Geograph
 #1-4-1,complete,"United Nations Human Settlements Programme (UN-Habitat)
 WHO/UNICEF Joint Monitoring Programme for Water Supply, Sanitation and Hygiene (1.4.1a, b and c)",,,,,line
 #1-4-2,notstarted,UN-Habitat and World Bank,,,,,line
-#1-5-1,notstarted,United Nations Office for Disaster Reduction (UNISDR),,True,,,line
+#1-5-1,notstarted,United Nations Office for Disaster Reduction (UNISDR),,,,,line
 #1-5-2,notstarted,United Nations Office for Disaster Reduction (UNISDR),,,,,line
 #1-5-3,complete,United Nations Office for Disaster Reduction (UNISDR),,,,,line
 #1-5-4,notstarted,United Nations Office for Disaster Reduction (UNISDR),,,,,line
@@ -280,7 +280,7 @@ United Nations Statistics Division (UNSD)",,,,,line
 #8-10-1,notstarted,International Monetary Fund (STAFI - Financial Access Survey Team) ,,,,,line
 #8-10-2,complete,World Bank ,,,,,line
 #8-2-1,complete,International Labour Organization (ILO) ,,,,,line
-#8-3-1,complete,International Labour Organization (ILO),,True,,Percentage (%),line
+#8-3-1,complete,International Labour Organization (ILO),,,,Percentage (%),line
 #8-4-1,notstarted,United Nations Environment Programme (UNEP),,,,,line
 #8-4-2,notstarted,United Nations Environment Programme (UNEP),,,,,line
 #8-5-1,notstarted,International Labour Organization (ILO),,,,,line
