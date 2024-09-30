@@ -43,6 +43,8 @@ inputs:
     dsd: 'LocalRegistry.xml'
     dimension_map:
       REF_AREA|ZW: ''
+      UNIT_MEASURE: Units
+      SERIES: Series
     drop_dimensions:
       - FREQ
       - REPORTING_TYPE
@@ -50,23 +52,16 @@ inputs:
       - TIME_PERIOD
     import_series_attributes: true
     import_observation_attributes: true
+    import_codes: true
   - class: InputWordMeta
     path_pattern: meta/*-*.docm
   - class: InputYamlMeta
-    path_pattern: meta/*-*.yml
+    path_pattern: indicator-config/*-*.yml
     git: false
   - class: InputYamlMeta
     # This describes the meta files, relative to the "src_dir" indicated above.
     path_pattern: meta/*-*.yml
-    # This specifies whether or not to use Git to calculate the "last updated"
-    # dates for data files.
-    git: true
-    # This specifies an alternate folder to look in for Git-versioned data files,
-    # when calculating the "last updated" dates for data files. This defaults to
-    # "data" (the folder where the data files actually exist.) Most sites will not
-    # need to change this setting. It is intended for sites where the data needs
-    # to be "built" before being processed by sdg-build.
-    git_data_dir: data
+    git: false
   - class: InputSdmxMeta
     meta_suffix: __GLOBAL
 
@@ -83,7 +78,7 @@ translations:
   # This pulls in translations from a Git repository.
   - class: TranslationInputSdgTranslations
     source: https://github.com/open-sdg/sdg-translations.git
-    tag: 2.2.0
+    tag: 2.3.0
   # This pulls in translations from a local 'translations' folder.
   - class: TranslationInputYaml
     source: translations
@@ -104,12 +99,14 @@ reporting_status_extra_fields: []
 # below and adjust if you would like to use the Open SDG mapping functionality.
 # Note that the GeoJSON files can either be remote (as in the example below) or
 # local, relative to the src_dir specified above.
-#map_layers:
-#  - geojson_file: https://geoportal1-ons.opendata.arcgis.com/datasets/4fcca2a47fed4bfaa1793015a18537ac_4.geojson
-#    name_property: rgn17nm
-#    id_property: rgn17cd
-#    output_subfolder: regions
-#    filename_prefix: indicator_
+map_layers:
+  - geojson_file: geojsons/National_By_District.geojson
+    name_property: ADM1_EN
+    id_property: ADM1_PCODE
+    output_subfolder: regions
+    filename_prefix: indicator_
+    exclude_columns:
+      - REF_AREA
 
 # Documentation settings
 # ----------------------
