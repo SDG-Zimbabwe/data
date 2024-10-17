@@ -16,6 +16,18 @@
             "title": "Year"
           },
           {
+            "name": "SOURCE_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "ZRP",
+                "TSCZ/ZRP statistics",
+                ""
+              ]
+            },
+            "title": "Source details"
+          },
+          {
             "name": "Value",
             "type": "integer",
             "title": "Value"

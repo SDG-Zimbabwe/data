@@ -16,6 +16,18 @@
             "title": "Year"
           },
           {
+            "name": "SOURCE_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Zimstat_ICDS_2017",
+                "Ministry Report",
+                ""
+              ]
+            },
+            "title": "Source details"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"

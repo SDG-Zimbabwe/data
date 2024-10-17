@@ -16,6 +16,18 @@
             "title": "Year"
           },
           {
+            "name": "SOURCE_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Zimstat_MICS_2019",
+                "ZACC case files",
+                ""
+              ]
+            },
+            "title": "Source details"
+          },
+          {
             "name": "SEX",
             "type": "string",
             "constraints": {

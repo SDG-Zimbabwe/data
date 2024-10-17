@@ -16,6 +16,19 @@
             "title": "Año"
           },
           {
+            "name": "SOURCE_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "ZIMSTAT, National Accounts",
+                "ZIMSTAT, MoPSLSF",
+                "Reserve_Bank_Of_Zimbabwe",
+                ""
+              ]
+            },
+            "title": "SOURCE_DETAIL"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"

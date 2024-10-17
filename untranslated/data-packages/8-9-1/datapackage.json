@@ -15,6 +15,18 @@
             "type": "integer"
           },
           {
+            "name": "SOURCE_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "ZIMSTAT, National Accounts",
+                "ZIMSTAT, MoPSLSF",
+                "Reserve_Bank_Of_Zimbabwe",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Value",
             "type": "number"
           }

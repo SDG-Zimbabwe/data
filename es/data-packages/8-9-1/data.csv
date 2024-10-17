@@ -1,3 +1,9 @@
-Year,Value
-2019,2.5
-2021,1.4
+Year,SOURCE_DETAIL,Value
+2019,"ZIMSTAT, National Accounts",2.5
+2021,"ZIMSTAT, National Accounts",2.5
+2022,"ZIMSTAT, National Accounts",5.2
+2023,"ZIMSTAT, National Accounts",5.7
+2022,"ZIMSTAT, MoPSLSF",2.5
+2023,"ZIMSTAT, MoPSLSF",3.0
+2021,Reserve_Bank_Of_Zimbabwe,6.0
+2022,Reserve_Bank_Of_Zimbabwe,5.0

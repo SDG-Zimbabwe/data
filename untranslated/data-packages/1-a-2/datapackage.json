@@ -15,6 +15,18 @@
             "type": "integer"
           },
           {
+            "name": "SOURCE_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "ZIMSTAT_National Accounts Department_2018",
+                "ZIMSTAT_National Accounts Department",
+                "MOFEDIP",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Value",
             "type": "number"
           }

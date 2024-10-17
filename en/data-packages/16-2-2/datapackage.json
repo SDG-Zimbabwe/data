@@ -16,8 +16,20 @@
             "title": "Year"
           },
           {
+            "name": "SOURCE_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "MoHACH",
+                "ZRP Crime Statistics",
+                ""
+              ]
+            },
+            "title": "Source details"
+          },
+          {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Value"
           }
         ]

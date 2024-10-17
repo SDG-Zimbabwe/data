@@ -16,6 +16,20 @@
             "title": "Año"
           },
           {
+            "name": "SOURCE_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "ZIMSTAT_National Accounts Department_2018",
+                "Zimbabwe Embassys Mission reports, UNGA, ECOSOC, WTO, World Tourism Organisation, AFDB",
+                "IMCM Meeting Minutes, MoHACH",
+                "National Migration Policy",
+                ""
+              ]
+            },
+            "title": "SOURCE_DETAIL"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"

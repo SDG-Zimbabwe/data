@@ -15,6 +15,17 @@
             "type": "integer"
           },
           {
+            "name": "SOURCE_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Zimstat, Labour Fource Q3",
+                "Zimstat",
+                ""
+              ]
+            }
+          },
+          {
             "name": "REF_AREA",
             "type": "string",
             "constraints": {

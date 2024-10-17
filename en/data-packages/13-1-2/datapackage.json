@@ -16,8 +16,20 @@
             "title": "Year"
           },
           {
+            "name": "SOURCE_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Zimbabwe_CivilProtection Unit_2018",
+                "MOFEDIP",
+                ""
+              ]
+            },
+            "title": "Source details"
+          },
+          {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Value"
           }
         ]

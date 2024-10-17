@@ -1,3 +1,5 @@
-Year,Sex,Value
-2019,Female,40.5
-2019,Male,38.2
+Year,Source details,Sex,Value
+2019,Zimstat_MICS_2019,Female,40.5
+2019,Zimstat_MICS_2019,Male,38.2
+2023,,,23.0
+2022,ZACC case files,,32000000000.0

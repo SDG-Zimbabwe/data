@@ -16,6 +16,18 @@
             "title": "Year"
           },
           {
+            "name": "SOURCE_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Zimstat, Labour Fource Q3",
+                "Zimstat",
+                ""
+              ]
+            },
+            "title": "Source details"
+          },
+          {
             "name": "REF_AREA",
             "type": "string",
             "constraints": {
