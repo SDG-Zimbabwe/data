@@ -16,6 +16,18 @@
             "title": "Year"
           },
           {
+            "name": "SOURCE_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Zimstat_MICS_2019",
+                "EMIS",
+                ""
+              ]
+            },
+            "title": "Source details"
+          },
+          {
             "name": "Series",
             "type": "string",
             "constraints": {

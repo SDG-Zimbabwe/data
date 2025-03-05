@@ -16,6 +16,18 @@
             "title": "Año"
           },
           {
+            "name": "SOURCE_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Zimstat_ICDS_2017",
+                "EMIS",
+                ""
+              ]
+            },
+            "title": "SOURCE_DETAIL"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"

@@ -15,6 +15,17 @@
             "type": "integer"
           },
           {
+            "name": "SOURCE_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Zimstat_ICDS_2017",
+                "EMIS",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Value",
             "type": "number"
           }
