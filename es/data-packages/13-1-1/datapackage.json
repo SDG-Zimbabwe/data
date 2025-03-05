@@ -16,25 +16,13 @@
             "title": "Año"
           },
           {
-            "name": "SOURCE_DETAIL",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "ZIMVAC 2024",
-                "MLGPWNH",
-                ""
-              ]
-            },
-            "title": "SOURCE_DETAIL"
-          },
-          {
             "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
                 "VC_DSR_DAFF",
-                "VC_DSR_MISS",
                 "VC_DSR_MMHN",
+                "VC_DSR_MISS",
                 ""
               ]
             },

@@ -16,6 +16,18 @@
             "title": "Año"
           },
           {
+            "name": "SOURCE_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Ministry of Health and Child Care",
+                "Zimstat_MICS_2019",
+                ""
+              ]
+            },
+            "title": "SOURCE_DETAIL"
+          },
+          {
             "name": "Series",
             "type": "string",
             "constraints": {
