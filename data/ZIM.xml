@@ -2,9 +2,9 @@
 <!--Created with SDMX Converter v10.6.2-->
 <message:StructureSpecificData xmlns:ss="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/data/structurespecific" xmlns:footer="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/message/footer" xmlns:ns1="urn:sdmx:org.sdmx.infomodel.datastructure.DataStructure=ZW01:SDG(1.0):ObsLevelDim:TIME_PERIOD" xmlns:message="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/message" xmlns:common="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/common" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xml="http://www.w3.org/XML/1998/namespace">
   <message:Header>
-    <message:ID>IREF1741117713160</message:ID>
+    <message:ID>IREF1741184660533</message:ID>
     <message:Test>false</message:Test>
-    <message:Prepared>2025-03-04T00:00:00Z</message:Prepared>
+    <message:Prepared>2025-03-05T00:00:00Z</message:Prepared>
     <message:Sender id="BIS"/>
     <message:Structure structureID="ZW01_SDG_1_0" namespace="urn:sdmx:org.sdmx.infomodel.datastructure.DataStructure=ZW01:SDG(1.0):ObsLevelDim:TIME_PERIOD" dimensionAtObservation="TIME_PERIOD">
       <common:Structure>
@@ -333,10 +333,15 @@
   </Series>
   <Series FREQ="A" REPORTING_TYPE="N" SERIES="SE_LGP_ACHI" REF_AREA="ZW" SEX="_T" AGE="_T" URBANISATION="_T" INCOME_WEALTH_QUANTILE="_T" EDUCATION_LEV="_T" OCCUPATION="_T" CUST_BREAKDOWN="_T" COMPOSITE_BREAKDOWN="_T" DISABILITY_STATUS="_T" ACTIVITY="_T" PRODUCT="_T" UNIT_MEASURE="PT">
     <Obs TIME_PERIOD="2019" OBS_VALUE="1.19" OBS_STATUS="A" UNIT_MULT="0" NATURE="_X" TIME_DETAIL="2019" SOURCE_DETAIL="Zimstat_MICS_2019"/>
+    <Obs TIME_PERIOD="2020" OBS_VALUE="1.02" OBS_STATUS="A" UNIT_MULT="0" NATURE="_X" TIME_DETAIL="2020" SOURCE_DETAIL="EMIS"/>
+    <Obs TIME_PERIOD="2021" OBS_VALUE="1.02" OBS_STATUS="A" UNIT_MULT="0" NATURE="_X" TIME_DETAIL="2021" SOURCE_DETAIL="EMIS"/>
+    <Obs TIME_PERIOD="2022" OBS_VALUE="1.03" OBS_STATUS="A" UNIT_MULT="0" NATURE="_X" TIME_DETAIL="2022" SOURCE_DETAIL="EMIS"/>
+    <Obs TIME_PERIOD="2023" OBS_VALUE="1.04" OBS_STATUS="A" UNIT_MULT="0" NATURE="_X" TIME_DETAIL="2023" SOURCE_DETAIL="EMIS"/>
+    <Obs TIME_PERIOD="2024" OBS_VALUE="1.05" OBS_STATUS="A" UNIT_MULT="0" NATURE="_X" TIME_DETAIL="2024" SOURCE_DETAIL="EMIS"/>
   </Series>
   <Series FREQ="A" REPORTING_TYPE="N" SERIES="SE_ADT_FUNS" REF_AREA="ZW" SEX="_T" AGE="_T" URBANISATION="_T" INCOME_WEALTH_QUANTILE="_T" EDUCATION_LEV="_T" OCCUPATION="_T" CUST_BREAKDOWN="_T" COMPOSITE_BREAKDOWN="_T" DISABILITY_STATUS="_T" ACTIVITY="_T" PRODUCT="_T" UNIT_MEASURE="PT">
     <Obs TIME_PERIOD="2017" OBS_VALUE="94.3" OBS_STATUS="A" UNIT_MULT="0" NATURE="_X" TIME_DETAIL="2017" SOURCE_DETAIL="Zimstat_ICDS_2017"/>
-    <Obs TIME_PERIOD="2024" OBS_VALUE="75" OBS_STATUS="A" UNIT_MULT="0" NATURE="_X" TIME_DETAIL="2024" SOURCE_DETAIL="Zimstat_ICDS_2017"/>
+    <Obs TIME_PERIOD="2024" OBS_VALUE="75" OBS_STATUS="A" UNIT_MULT="0" NATURE="_X" TIME_DETAIL="2024" SOURCE_DETAIL="EMIS"/>
   </Series>
   <Series FREQ="A" REPORTING_TYPE="N" SERIES="SE_GCEDESD_NEP" REF_AREA="ZW" SEX="_T" AGE="_T" URBANISATION="_T" INCOME_WEALTH_QUANTILE="_T" EDUCATION_LEV="_T" OCCUPATION="_T" CUST_BREAKDOWN="_T" COMPOSITE_BREAKDOWN="_T" DISABILITY_STATUS="_T" ACTIVITY="_T" PRODUCT="_T" UNIT_MEASURE="PT">
     <Obs TIME_PERIOD="2024" OBS_VALUE="100" OBS_STATUS="A" UNIT_MULT="0" NATURE="_X" TIME_DETAIL="2024" SOURCE_DETAIL="Ministry of Primary and Secondary Education_EMIS_2019"/>
