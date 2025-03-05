@@ -15,17 +15,6 @@
             "type": "integer"
           },
           {
-            "name": "SOURCE_DETAIL",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Zimstat_ICDS_2017",
-                "Ministry of Primary and Secondary Education_EMIS_2019",
-                ""
-              ]
-            }
-          },
-          {
             "name": "Value",
             "type": "number"
           }

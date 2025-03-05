@@ -16,18 +16,6 @@
             "title": "Year"
           },
           {
-            "name": "SOURCE_DETAIL",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "ZIMSTAT",
-                "Constitution",
-                ""
-              ]
-            },
-            "title": "Source details"
-          },
-          {
             "name": "Value",
             "type": "number",
             "title": "Value"

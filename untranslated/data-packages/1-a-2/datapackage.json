@@ -21,7 +21,6 @@
               "enum": [
                 "ZIMSTAT_National Accounts Department_2018",
                 "ZIMSTAT_National Accounts Department",
-                "MOFEDIP",
                 ""
               ]
             }

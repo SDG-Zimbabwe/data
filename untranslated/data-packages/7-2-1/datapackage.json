@@ -21,7 +21,6 @@
               "enum": [
                 "MOEPD",
                 "MOEPD/Zimstat",
-                "ZERA, ZESA",
                 ""
               ]
             }

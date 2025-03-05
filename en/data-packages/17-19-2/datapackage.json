@@ -12,12 +12,37 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Year"
           },
           {
+            "name": "SOURCE_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "ZimStat; PHC 2022",
+                "ZIMSTAT",
+                ""
+              ]
+            },
+            "title": "Source details"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "SG_REG_BRTH90",
+                "SG_REG_CENSUS",
+                "SG_REG_DETH75N",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Value"
           }
         ]

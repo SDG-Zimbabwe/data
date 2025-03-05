@@ -20,14 +20,25 @@
             "constraints": {
               "enum": [
                 "Zimbabwe_CivilProtection Unit_2018",
-                "MOFEDIP",
+                "Government of Zimbabwe",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "SG_DSR_LGRGSR",
+                "SG_DSR_LEGREG",
                 ""
               ]
             }
           },
           {
             "name": "Value",
-            "type": "number"
+            "type": "integer"
           }
         ]
       }

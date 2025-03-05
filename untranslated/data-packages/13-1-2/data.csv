@@ -1,4 +1,3 @@
-Year,SOURCE_DETAIL,Value
-2014,Zimbabwe_CivilProtection Unit_2018,1.0
-2022,MOFEDIP,0.029
-2023,MOFEDIP,0.033
+Year,SOURCE_DETAIL,Series,Value
+2014,Zimbabwe_CivilProtection Unit_2018,SG_DSR_LGRGSR,1
+2024,Government of Zimbabwe,SG_DSR_LEGREG,1

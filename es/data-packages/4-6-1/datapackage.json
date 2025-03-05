@@ -16,18 +16,6 @@
             "title": "Año"
           },
           {
-            "name": "SOURCE_DETAIL",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Zimstat_ICDS_2017",
-                "Ministry of Primary and Secondary Education_EMIS_2019",
-                ""
-              ]
-            },
-            "title": "SOURCE_DETAIL"
-          },
-          {
             "name": "Value",
             "type": "number",
             "title": "Value"
