@@ -25,8 +25,9 @@ indicator_number: '3.9.2'
 national_geographical_coverage: ''
 page_content: ''
 permalink: ''
+placeholder: notapplicable
 precision: []
-reporting_status: notstarted
+reporting_status: complete
 sort: ''
 standalone: false
 tags: []
