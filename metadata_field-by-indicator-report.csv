@@ -77,7 +77,7 @@ UNESCO Institute for Statistics (UNESCO-UIS)",,,,,line
 #16-10-2,complete,"United Nations Educational, Scientific and Cultural Organization (UNESCO)",,,,,line
 #16-2-1,complete,United Nations Children&apos;s Fund (UNICEF),,,,,line
 #16-2-2,complete,United Nations Office on Drugs and Crime (UNODC),,,,,line
-#16-2-3,notstarted,United Nations Children&apos;s Fund (UNICEF),,,,,line
+#16-2-3,complete,United Nations Children&apos;s Fund (UNICEF),,,,,line
 #16-3-1,complete,United Nations Office on Drugs and Crime (UNODC),,,,,line
 #16-3-2,complete,United Nations Office on Drugs and Crime (UNODC),,,,,line
 #16-4-1,complete,United Nations Office on Drugs and Crime (UNODC) and United Nations Conference on Trade and Development (UNCTAD),,,,,line
@@ -102,15 +102,15 @@ United Nations Development Programme (UNDP)",,,,,line
 United Nations Development Programme (UNDP)",,,,,line
 #17-17-1,notstarted,World Bank,,,,,line
 #17-18-1,complete,Open Data Watch (ODW),,,,,line
-#17-18-2,notstarted,Partnership in Statistics for Development in the 21st Century (PARIS21),,,,,line
-#17-18-3,notstarted,Partnership in Statistics for Development in the 21st Century (PARIS21),,,,,line
+#17-18-2,complete,Partnership in Statistics for Development in the 21st Century (PARIS21),,,,,line
+#17-18-3,complete,Partnership in Statistics for Development in the 21st Century (PARIS21),,,,,line
 #17-19-1,notstarted,Partnership in Statistics for Development in the 21st Century (PARIS21),,,,,line
-#17-19-2,notstarted,"United Nations Statistics Division (UNSD), Department of Economic and Social Affairs, United Nations (UN DESA)",,,,,line
+#17-19-2,complete,"United Nations Statistics Division (UNSD), Department of Economic and Social Affairs, United Nations (UN DESA)",,,,,line
 #17-3-1,complete,International Forum on TOSSD (independent entity hosted by the OECD) and UNCTAD,,,,,line
 #17-3-2,complete,World Bank (WB),,,,,line
 #17-4-1,complete,World Bank (WB),,,,,line
 #17-5-1,complete,United Nations Conference on Trade and Development (UNCTAD),,,,,line
-#17-6-1,notstarted,International Telecommunication Union (ITU),,,,,line
+#17-6-1,complete,International Telecommunication Union (ITU),,,,,line
 #17-8-1,complete,International Telecommunication Union (ITU),,,,,line
 #17-9-1,complete,Organisation for Economic Co-operation and Development (OECD),,,,,line
 #2-1-2,complete,Food and Agriculture Organisation of the United Nations (FAO),,,,,line
@@ -151,7 +151,7 @@ United Nations Population Fund (UNFPA)",,,,,line
 #3-b-3,complete,World Health Organization (WHO),,,,,line
 #3-d-1,complete,World Health Organization (WHO),,,,,line
 #4-1-1,complete,UNESCO Institute of Statistics (UIS),,,,,line
-#4-1-2,notstarted,UNESCO Institute for Statistics (UIS),,,,,line
+#4-1-2,complete,UNESCO Institute for Statistics (UIS),,,,,line
 #4-2-1,complete,United Nations Children&apos;s Fund (UNICEF),,,,,line
 #4-2-2,complete,UNESCO Institute for Statistics (UIS),,,,,line
 #4-3-1,complete,UNESCO Institute for Statistics (UIS),,,,,line
