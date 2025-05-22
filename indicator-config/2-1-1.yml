@@ -25,9 +25,9 @@ indicator_number: '2.1.1'
 national_geographical_coverage: ''
 page_content: ''
 permalink: ''
-placeholder: notapplicable
+placeholder: 
 precision: []
-reporting_status: complete
+reporting_status: notapplicable
 sort: ''
 standalone: false
 tags: []
