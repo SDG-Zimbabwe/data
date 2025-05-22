@@ -19,8 +19,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Ministry of Primary and Secondary Education_EMIS_2019",
-                "Ministry of Primary and Secondary Education_EMIS_2020",
+                "Min_primany_secondary_EMIS_2019",
+                "Min_primany_secondary_EMIS_2020",
+                "Min_primany_secondary_EMIS_2021",
                 ""
               ]
             }

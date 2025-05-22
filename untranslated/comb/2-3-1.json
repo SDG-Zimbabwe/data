@@ -1,1 +1,1 @@
-{"data":{"Year":[2015],"Value":[0.28]},"edges":[]}
+{"data":{"Year":[2023,2024,2015,2023,2024],"SOURCE_DETAIL":["CLAFA_2024","CLAFA_2024","ZimLac","ZimLac","ZimLac"],"Series":["PD_AGR_LSFP","PD_AGR_LSFP","PD_AGR_SSFP","PD_AGR_SSFP","PD_AGR_SSFP"],"Value":[103449445.0,86396065.0,0.28,116.0,88.0]},"edges":[]}

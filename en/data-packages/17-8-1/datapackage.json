@@ -20,8 +20,8 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "GOZ",
                 "ZIMSTAT",
-                "ZIMSTAT, ICT Survey",
                 ""
               ]
             },
@@ -33,15 +33,15 @@
             "constraints": {
               "enum": [
                 "Bulawayo",
+                "Harare",
                 "Manicaland",
                 "Mashonaland Central",
                 "Masholanad East",
-                "Mashonaland West",
+                "Midlands",
                 "Matabeland North",
                 "Matabeland South",
-                "Midlands",
                 "Masvingo",
-                "Harare",
+                "Mashonaland West",
                 ""
               ]
             },

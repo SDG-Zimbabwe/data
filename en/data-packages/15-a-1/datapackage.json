@@ -12,20 +12,8 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "number",
             "title": "Year"
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "DC_ODA_BDVL",
-                "DC_ODA_BDVDL",
-                ""
-              ]
-            },
-            "title": "Series"
           },
           {
             "name": "Value",

@@ -12,32 +12,8 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "number",
             "title": "Año"
-          },
-          {
-            "name": "SOURCE_DETAIL",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Presidential Flash Appeal 2024 (Absolute)",
-                "world bank",
-                ""
-              ]
-            },
-            "title": "SOURCE_DETAIL"
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "VC_DSR_AGLH",
-                "VC_DSR_GDPLS",
-                ""
-              ]
-            },
-            "title": "Series"
           },
           {
             "name": "Value",

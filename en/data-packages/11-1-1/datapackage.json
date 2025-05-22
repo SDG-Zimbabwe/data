@@ -20,8 +20,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "ZIMSTAT, Labourforce Survey",
-                "Zimstat, 2022 PHC",
+                "Minutes_of_meetings_Workshop_Reports_Master_and_Local_Plans_Documents",
+                "Zimstat_2022_PHC",
                 ""
               ]
             },
@@ -33,15 +33,15 @@
             "constraints": {
               "enum": [
                 "Bulawayo",
+                "Harare",
                 "Manicaland",
                 "Mashonaland Central",
                 "Masholanad East",
-                "Mashonaland West",
+                "Midlands",
                 "Matabeland North",
                 "Matabeland South",
-                "Midlands",
                 "Masvingo",
-                "Harare",
+                "Mashonaland West",
                 ""
               ]
             },

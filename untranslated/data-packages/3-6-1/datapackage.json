@@ -15,17 +15,6 @@
             "type": "integer"
           },
           {
-            "name": "SOURCE_DETAIL",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "ZRP",
-                "TSCZ/ZRP statistics",
-                ""
-              ]
-            }
-          },
-          {
             "name": "Value",
             "type": "integer"
           }

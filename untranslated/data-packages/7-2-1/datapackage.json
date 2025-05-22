@@ -15,17 +15,6 @@
             "type": "integer"
           },
           {
-            "name": "SOURCE_DETAIL",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "MOEPD",
-                "MOEPD/Zimstat",
-                ""
-              ]
-            }
-          },
-          {
             "name": "Value",
             "type": "number"
           }

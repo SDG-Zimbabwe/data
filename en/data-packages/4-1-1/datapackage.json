@@ -16,20 +16,6 @@
             "title": "Year"
           },
           {
-            "name": "SOURCE_DETAIL",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Zimstat ,Education report",
-                "Zimstat , Education report",
-                "Zimstat ,2022 PHC",
-                "EMIS",
-                ""
-              ]
-            },
-            "title": "Source details"
-          },
-          {
             "name": "Value",
             "type": "number",
             "title": "Value"

@@ -15,6 +15,28 @@
             "type": "integer"
           },
           {
+            "name": "SOURCE_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "CLAFA_2024",
+                "ZimLac",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "PD_AGR_LSFP",
+                "PD_AGR_SSFP",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Value",
             "type": "number"
           }

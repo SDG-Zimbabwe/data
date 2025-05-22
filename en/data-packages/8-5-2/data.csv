@@ -1,33 +1,37 @@
 Year,Reference area,Sex,GeoCode,Value
-2023,,,,20.1
-2023,,Male,,18.2
+2019,,,,19.1
+2023,,,,20.7
+2024,,,,20.5
 2023,,Female,,22.8
-2023,Bulawayo,,ZW_BA,22.0
-2023,Manicaland,,ZW_MA,11.6
-2023,Mashonaland Central,,ZW_MC,0.0
-2023,Masholanad East,,ZW_ME,9.4
-2023,Mashonaland West,,ZW_MW,6.0
-2023,Matabeland North,,ZW_MN,0.0
-2023,Matabeland South,,ZW_MS,0.0
-2023,Midlands,,ZW_MI,9.4
-2023,Masvingo,,ZW_MV,0.0
-2023,Harare,,ZW_HA,0.0
+2024,,Female,,22.5
+2023,,Male,,19.2
+2024,,Male,,19.4
+2023,Bulawayo,,ZW_BA,22.016668167203555
+2023,Bulawayo,Female,ZW_BA,37.487781641499545
 2023,Bulawayo,Male,ZW_BA,0.0
-2023,Manicaland,Male,ZW_MA,0.0
-2023,Mashonaland Central,Male,ZW_MC,0.0
-2023,Masholanad East,Male,ZW_ME,0.0
-2023,Mashonaland West,Male,ZW_MW,8.6
-2023,Matabeland North,Male,ZW_MN,0.0
-2023,Matabeland South,Male,ZW_MS,0.0
-2023,Midlands,Male,ZW_MI,0.0
-2023,Masvingo,Male,ZW_MV,0.0
+2023,Harare,,ZW_HA,0.0
 2023,Harare,Male,ZW_HA,0.0
-2023,Bulawayo,Female,ZW_BA,37.5
-2023,Manicaland,Female,ZW_MA,29.2
+2023,Manicaland,,ZW_MA,11.572668772977703
+2023,Manicaland,Female,ZW_MA,29.20078406414178
+2023,Manicaland,Male,ZW_MA,0.0
+2023,Mashonaland Central,,ZW_MC,0.0
 2023,Mashonaland Central,Female,ZW_MC,0.0
-2023,Masholanad East,Female,ZW_ME,20.2
-2023,Mashonaland West,Female,ZW_MW,0.0
+2023,Mashonaland Central,Male,ZW_MC,0.0
+2023,Masholanad East,,ZW_ME,9.393069621868705
+2023,Masholanad East,Female,ZW_ME,20.206243830147734
+2023,Masholanad East,Male,ZW_ME,0.0
+2023,Midlands,,ZW_MI,9.39086718263322
+2023,Midlands,Female,ZW_MI,18.817845632421022
+2023,Midlands,Male,ZW_MI,0.0
+2023,Matabeland North,,ZW_MN,0.0
 2023,Matabeland North,Female,ZW_MN,0.0
+2023,Matabeland North,Male,ZW_MN,0.0
+2023,Matabeland South,,ZW_MS,0.0
 2023,Matabeland South,Female,ZW_MS,0.0
-2023,Midlands,Female,ZW_MI,18.8
+2023,Matabeland South,Male,ZW_MS,0.0
+2023,Masvingo,,ZW_MV,0.0
 2023,Masvingo,Female,ZW_MV,0.0
+2023,Masvingo,Male,ZW_MV,0.0
+2023,Mashonaland West,,ZW_MW,6.043063438707879
+2023,Mashonaland West,Female,ZW_MW,0.0
+2023,Mashonaland West,Male,ZW_MW,8.573055589970597

@@ -16,20 +16,6 @@
             "title": "Año"
           },
           {
-            "name": "SOURCE_DETAIL",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "ZIMSTAT, MICS",
-                "Zimstat, 2022 PHC",
-                "The constitution of Zimbabwe and the PARIS principles( comply with standards of the NHRIs)",
-                "Bill tracker, Justice",
-                ""
-              ]
-            },
-            "title": "SOURCE_DETAIL"
-          },
-          {
             "name": "Value",
             "type": "number",
             "title": "Value"

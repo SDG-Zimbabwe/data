@@ -12,36 +12,12 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "number",
             "title": "Year"
           },
           {
-            "name": "SOURCE_DETAIL",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Zimbabwe_CivilProtection Unit_2018",
-                "Government of Zimbabwe",
-                ""
-              ]
-            },
-            "title": "Source details"
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "SG_DSR_LGRGSR",
-                "SG_DSR_LEGREG",
-                ""
-              ]
-            },
-            "title": "Series"
-          },
-          {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Value"
           }
         ]

@@ -15,17 +15,6 @@
             "type": "integer"
           },
           {
-            "name": "SOURCE_DETAIL",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "ZIMSTAT_National Accounts Department_2018",
-                "RBZ",
-                ""
-              ]
-            }
-          },
-          {
             "name": "Value",
             "type": "number"
           }

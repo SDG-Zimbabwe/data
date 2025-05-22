@@ -21,15 +21,15 @@
             "constraints": {
               "enum": [
                 "Bulawayo",
+                "Harare",
                 "Manicaland",
                 "Mashonaland Central",
                 "Masholanad East",
-                "Mashonaland West",
+                "Midlands",
                 "Matabeland North",
                 "Matabeland South",
-                "Midlands",
                 "Masvingo",
-                "Harare",
+                "Mashonaland West",
                 ""
               ]
             },
@@ -40,8 +40,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Male",
                 "Female",
+                "Male",
                 ""
               ]
             },

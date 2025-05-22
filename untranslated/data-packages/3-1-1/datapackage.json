@@ -15,31 +15,20 @@
             "type": "integer"
           },
           {
-            "name": "SOURCE_DETAIL",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "ZIMSTAT, MICS",
-                "Zimstat, 2022 PHC",
-                ""
-              ]
-            }
-          },
-          {
             "name": "REF_AREA",
             "type": "string",
             "constraints": {
               "enum": [
                 "ZW_BA",
+                "ZW_HA",
                 "ZW_MA",
                 "ZW_MC",
                 "ZW_ME",
-                "ZW_MW",
+                "ZW_MI",
                 "ZW_MN",
                 "ZW_MS",
-                "ZW_MI",
                 "ZW_MV",
-                "ZW_HA",
+                "ZW_MW",
                 ""
               ]
             }

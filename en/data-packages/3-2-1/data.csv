@@ -1,13 +1,13 @@
-Year,Source details,Reference area,GeoCode,Value
-2019,"ZIMSTAT, MICS",,,65.0
-2022,"ZIMSTAT,2022 PHC",,,39.8
-2022,"ZIMSTAT,2022 PHC",Bulawayo,ZW_BA,27.8
-2022,"ZIMSTAT,2022 PHC",Manicaland,ZW_MA,50.8
-2022,"ZIMSTAT,2022 PHC",Mashonaland Central,ZW_MC,41.6
-2022,"ZIMSTAT,2022 PHC",Masholanad East,ZW_ME,47.5
-2022,"ZIMSTAT,2022 PHC",Mashonaland West,ZW_MW,36.3
-2022,"ZIMSTAT,2022 PHC",Matabeland North,ZW_MN,30.2
-2022,"ZIMSTAT,2022 PHC",Matabeland South,ZW_MS,26.5
-2022,"ZIMSTAT,2022 PHC",Midlands,ZW_MI,41.7
-2022,"ZIMSTAT,2022 PHC",Masvingo,ZW_MV,41.5
-2022,"ZIMSTAT,2022 PHC",Harare,ZW_HA,32.5
+Year,Reference area,GeoCode,Value
+2019,,,65.0
+2022,,,39.7
+2022,Bulawayo,ZW_BA,27.8
+2022,Harare,ZW_HA,32.5
+2022,Manicaland,ZW_MA,50.8
+2022,Mashonaland Central,ZW_MC,41.6
+2022,Masholanad East,ZW_ME,47.5
+2022,Midlands,ZW_MI,41.7
+2022,Matabeland North,ZW_MN,30.2
+2022,Matabeland South,ZW_MS,26.5
+2022,Masvingo,ZW_MV,41.5
+2022,Mashonaland West,ZW_MW,36.3

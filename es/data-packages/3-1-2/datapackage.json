@@ -16,18 +16,6 @@
             "title": "Año"
           },
           {
-            "name": "SOURCE_DETAIL",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "ZDHS",
-                "Zimstat_MICS_2019",
-                ""
-              ]
-            },
-            "title": "SOURCE_DETAIL"
-          },
-          {
             "name": "Value",
             "type": "integer",
             "title": "Value"

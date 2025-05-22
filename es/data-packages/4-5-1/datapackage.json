@@ -16,18 +16,6 @@
             "title": "Año"
           },
           {
-            "name": "SOURCE_DETAIL",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Zimstat_MICS_2019",
-                "EMIS",
-                ""
-              ]
-            },
-            "title": "SOURCE_DETAIL"
-          },
-          {
             "name": "Series",
             "type": "string",
             "constraints": {

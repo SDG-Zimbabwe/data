@@ -20,7 +20,7 @@
             "constraints": {
               "enum": [
                 "Zimstat_MICS_2019",
-                "Zimstat, 2022 PHC",
+                "Zimstat_2022_PHC",
                 ""
               ]
             }

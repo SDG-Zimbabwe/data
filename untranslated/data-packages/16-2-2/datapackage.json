@@ -15,17 +15,6 @@
             "type": "integer"
           },
           {
-            "name": "SOURCE_DETAIL",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "MoHACH",
-                "ZRP Crime Statistics",
-                ""
-              ]
-            }
-          },
-          {
             "name": "Value",
             "type": "number"
           }

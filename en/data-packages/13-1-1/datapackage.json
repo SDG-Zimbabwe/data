@@ -16,21 +16,8 @@
             "title": "Year"
           },
           {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "VC_DSR_DAFF",
-                "VC_DSR_MMHN",
-                "VC_DSR_MISS",
-                ""
-              ]
-            },
-            "title": "Series"
-          },
-          {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Value"
           }
         ]

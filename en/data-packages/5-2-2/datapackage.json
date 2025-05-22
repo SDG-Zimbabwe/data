@@ -12,20 +12,8 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "number",
             "title": "Year"
-          },
-          {
-            "name": "SOURCE_DETAIL",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Zimstat",
-                "Zimstat(MICS)",
-                ""
-              ]
-            },
-            "title": "Source details"
           },
           {
             "name": "Value",

@@ -19,8 +19,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "ZIMSTAT, ICT Survey",
-                "Zimstat, 2022 PHC",
+                "ZIMSTAT",
+                "Zimstat_2022_PHC",
                 ""
               ]
             }

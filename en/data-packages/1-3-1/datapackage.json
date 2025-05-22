@@ -16,20 +16,8 @@
             "title": "Year"
           },
           {
-            "name": "SOURCE_DETAIL",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "ZIMSTAT_Labourforce and Child Labour Report_2014",
-                "ZIMLAC",
-                ""
-              ]
-            },
-            "title": "Source details"
-          },
-          {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Value"
           }
         ]

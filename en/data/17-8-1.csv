@@ -1,13 +1,14 @@
 Year,Source details,Reference area,Sex,GeoCode,Value
+2020,GOZ,,,,29.3
+2023,GOZ,,,,22.0
 2014,ZIMSTAT,,Female,,16.4
-2020,"ZIMSTAT, ICT Survey",,,,29.3
-2020,"ZIMSTAT, ICT Survey",Bulawayo,,ZW_BA,60.3
-2020,"ZIMSTAT, ICT Survey",Manicaland,,ZW_MA,17.8
-2020,"ZIMSTAT, ICT Survey",Mashonaland Central,,ZW_MC,15.6
-2020,"ZIMSTAT, ICT Survey",Masholanad East,,ZW_ME,21.7
-2020,"ZIMSTAT, ICT Survey",Mashonaland West,,ZW_MW,22.8
-2020,"ZIMSTAT, ICT Survey",Matabeland North,,ZW_MN,22.0
-2020,"ZIMSTAT, ICT Survey",Matabeland South,,ZW_MS,34.4
-2020,"ZIMSTAT, ICT Survey",Midlands,,ZW_MI,25.0
-2020,"ZIMSTAT, ICT Survey",Masvingo,,ZW_MV,20.0
-2020,"ZIMSTAT, ICT Survey",Harare,,ZW_HA,53.8
+2020,ZIMSTAT,Bulawayo,,ZW_BA,60.3
+2020,ZIMSTAT,Harare,,ZW_HA,53.8
+2020,ZIMSTAT,Manicaland,,ZW_MA,17.8
+2020,ZIMSTAT,Mashonaland Central,,ZW_MC,15.6
+2020,ZIMSTAT,Masholanad East,,ZW_ME,21.7
+2020,ZIMSTAT,Midlands,,ZW_MI,25.0
+2020,ZIMSTAT,Matabeland North,,ZW_MN,22.0
+2020,ZIMSTAT,Matabeland South,,ZW_MS,34.4
+2020,ZIMSTAT,Masvingo,,ZW_MV,20.0
+2020,ZIMSTAT,Mashonaland West,,ZW_MW,22.8

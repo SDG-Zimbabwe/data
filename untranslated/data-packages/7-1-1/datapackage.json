@@ -15,17 +15,6 @@
             "type": "integer"
           },
           {
-            "name": "SOURCE_DETAIL",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "ZIMSTAT,ZESA",
-                "Zimstat, 2022 PHC",
-                ""
-              ]
-            }
-          },
-          {
             "name": "Value",
             "type": "number"
           }

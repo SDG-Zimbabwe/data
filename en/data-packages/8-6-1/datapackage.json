@@ -20,8 +20,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Zimstat, Labour Fource Q3",
-                "Zimstat",
+                "ZIMSTAT",
+                "Zimstat_QLFS",
                 ""
               ]
             },
@@ -32,16 +32,16 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Harare",
                 "Bulawayo",
+                "Harare",
                 "Manicaland",
                 "Mashonaland Central",
                 "Masholanad East",
-                "Mashonaland West",
+                "Midlands",
                 "Matabeland North",
                 "Matabeland South",
-                "Midlands",
                 "Masvingo",
+                "Mashonaland West",
                 ""
               ]
             },
