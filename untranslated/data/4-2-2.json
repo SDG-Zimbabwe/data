@@ -1,1 +1,1 @@
-{"Year":[2019,2022],"SOURCE_DETAIL":["Zimstat_MICS_2019","Zimstat_2022_PHC"],"SEX":[null,"M"],"Value":[81,67]}
+{"Year":[2019,2022],"OBS_STATUS":["A","A"],"UNIT_MULT":["0","0"],"SOURCE_DETAIL":["Zimstat_MICS_2019","Zimstat_2022_PHC"],"Series":["SE_PRE_PARTN","SE_PRE_PARTN"],"REF_AREA":[null,null],"SEX":[null,"M"],"Units":["PT","PT"],"GeoCode":[null,null],"Value":[81,67]}

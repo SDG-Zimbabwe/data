@@ -1,4 +1,4 @@
-Year,Value
-2019,14.2
-2020,12.6
-2021,11.7
+Year,Observation status,Unit multiplier,Source details,Series,Reference area,Units,GeoCode,Value
+2019,Normal value,Units,ZIMSTAT_National_Accounts,NV_IND_MANF,,PT,,14.2
+2020,Normal value,Units,ZIMSTAT_National_Accounts,NV_IND_MANF,,PT,,12.6
+2021,Normal value,Units,ZIMSTAT_National_Accounts,NV_IND_MANF,,PT,,11.7

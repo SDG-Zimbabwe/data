@@ -1,2 +1,2 @@
-Year,Value
-2023,7.14
+Year,Observation status,Unit multiplier,Source details,Series,Reference area,Units,GeoCode,Value
+2023,Normal value,Units,MoHACH,VC_IHR_PSRC,,PER_100000_POP,,7.14

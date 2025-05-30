@@ -1,1 +1,1 @@
-{"Year":[2019,2019],"Sex":["Female","Male"],"Value":[25.2,25.9]}
+{"Year":[2019,2019],"Observation status":["Normal value","Normal value"],"Unit multiplier":["Units","Units"],"Source details":["Zimstat_MICS_2019","Zimstat_MICS_2019"],"Series":["VC_VOV_DCMN","VC_VOV_DCMN"],"Reference area":[null,null],"Sex":["Female","Male"],"Units":["PT","PT"],"GeoCode":[null,null],"Value":[25.2,25.9]}

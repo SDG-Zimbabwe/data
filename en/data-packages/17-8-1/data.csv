@@ -1,14 +1,14 @@
-Year,Source details,Reference area,Sex,GeoCode,Value
-2020,GOZ,,,,29.3
-2023,GOZ,,,,22.0
-2014,ZIMSTAT,,Female,,16.4
-2020,ZIMSTAT,Bulawayo,,ZW_BA,60.3
-2020,ZIMSTAT,Harare,,ZW_HA,53.8
-2020,ZIMSTAT,Manicaland,,ZW_MA,17.8
-2020,ZIMSTAT,Mashonaland Central,,ZW_MC,15.6
-2020,ZIMSTAT,Masholanad East,,ZW_ME,21.7
-2020,ZIMSTAT,Midlands,,ZW_MI,25.0
-2020,ZIMSTAT,Matabeland North,,ZW_MN,22.0
-2020,ZIMSTAT,Matabeland South,,ZW_MS,34.4
-2020,ZIMSTAT,Masvingo,,ZW_MV,20.0
-2020,ZIMSTAT,Mashonaland West,,ZW_MW,22.8
+Year,Observation status,Unit multiplier,Source details,Series,Reference area,Sex,Units,GeoCode,Value
+2020,Normal value,Units,GOZ,IT_USE_II99,,,PT,,29.3
+2023,Normal value,Units,GOZ,IT_USE_II99,,,PT,,22.0
+2014,Normal value,Units,ZIMSTAT,IT_USE_II99,,Female,PT,,16.4
+2020,Normal value,Units,ZIMSTAT,IT_USE_II99,Bulawayo,,PT,ZW_BA,60.3
+2020,Normal value,Units,ZIMSTAT,IT_USE_II99,Harare,,PT,ZW_HA,53.8
+2020,Normal value,Units,ZIMSTAT,IT_USE_II99,Manicaland,,PT,ZW_MA,17.8
+2020,Normal value,Units,ZIMSTAT,IT_USE_II99,Mashonaland Central,,PT,ZW_MC,15.6
+2020,Normal value,Units,ZIMSTAT,IT_USE_II99,Masholanad East,,PT,ZW_ME,21.7
+2020,Normal value,Units,ZIMSTAT,IT_USE_II99,Midlands,,PT,ZW_MI,25.0
+2020,Normal value,Units,ZIMSTAT,IT_USE_II99,Matabeland North,,PT,ZW_MN,22.0
+2020,Normal value,Units,ZIMSTAT,IT_USE_II99,Matabeland South,,PT,ZW_MS,34.4
+2020,Normal value,Units,ZIMSTAT,IT_USE_II99,Masvingo,,PT,ZW_MV,20.0
+2020,Normal value,Units,ZIMSTAT,IT_USE_II99,Mashonaland West,,PT,ZW_MW,22.8

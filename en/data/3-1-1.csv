@@ -1,13 +1,13 @@
-Year,Reference area,GeoCode,Value
-2019,,,462
-2022,,,362
-2022,Bulawayo,ZW_BA,248
-2022,Harare,ZW_HA,303
-2022,Manicaland,ZW_MA,248
-2022,Mashonaland Central,ZW_MC,292
-2022,Masholanad East,ZW_ME,401
-2022,Midlands,ZW_MI,424
-2022,Matabeland North,ZW_MN,365
-2022,Matabeland South,ZW_MS,375
-2022,Masvingo,ZW_MV,377
-2022,Mashonaland West,ZW_MW,377
+Year,Observation status,Unit multiplier,Source details,Series,Reference area,Units,GeoCode,Value
+2019,Normal value,Units,Zimstat_2022_PHC,SH_STA_MORT,,PER_1000_LIVE_BIRTHS,,462
+2022,Normal value,Units,Zimstat_2022_PHC,SH_STA_MORT,,PER_1000_LIVE_BIRTHS,,362
+2022,Normal value,Units,Zimstat_2022_PHC,SH_STA_MORT,Bulawayo,PER_1000_LIVE_BIRTHS,ZW_BA,248
+2022,Normal value,Units,Zimstat_2022_PHC,SH_STA_MORT,Harare,PER_1000_LIVE_BIRTHS,ZW_HA,303
+2022,Normal value,Units,Zimstat_2022_PHC,SH_STA_MORT,Manicaland,PER_1000_LIVE_BIRTHS,ZW_MA,248
+2022,Normal value,Units,Zimstat_2022_PHC,SH_STA_MORT,Mashonaland Central,PER_1000_LIVE_BIRTHS,ZW_MC,292
+2022,Normal value,Units,Zimstat_2022_PHC,SH_STA_MORT,Masholanad East,PER_1000_LIVE_BIRTHS,ZW_ME,401
+2022,Normal value,Units,Zimstat_2022_PHC,SH_STA_MORT,Midlands,PER_1000_LIVE_BIRTHS,ZW_MI,424
+2022,Normal value,Units,Zimstat_2022_PHC,SH_STA_MORT,Matabeland North,PER_1000_LIVE_BIRTHS,ZW_MN,365
+2022,Normal value,Units,Zimstat_2022_PHC,SH_STA_MORT,Matabeland South,PER_1000_LIVE_BIRTHS,ZW_MS,375
+2022,Normal value,Units,Zimstat_2022_PHC,SH_STA_MORT,Masvingo,PER_1000_LIVE_BIRTHS,ZW_MV,377
+2022,Normal value,Units,Zimstat_2022_PHC,SH_STA_MORT,Mashonaland West,PER_1000_LIVE_BIRTHS,ZW_MW,377

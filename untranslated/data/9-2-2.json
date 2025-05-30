@@ -1,1 +1,1 @@
-{"Year":[2014,2017],"Value":[4.0,1.2]}
+{"Year":[2014,2017],"OBS_STATUS":["A","A"],"UNIT_MULT":["0","0"],"SOURCE_DETAIL":["Zimstat_ICDS_2017","Zimstat_ICDS_2017"],"Series":["SL_TLF_MANF_19ICLS","SL_TLF_MANF_19ICLS"],"REF_AREA":[null,null],"Units":["PT","PT"],"GeoCode":[null,null],"Value":[4.0,1.2]}

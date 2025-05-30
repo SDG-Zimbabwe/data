@@ -1,1 +1,1 @@
-{"Year":[2019,2019],"Sex":["Female","Male"],"Value":[47.9,82.8]}
+{"Year":[2019,2019],"Observation status":["Normal value","Normal value"],"Unit multiplier":["Units","Units"],"Source details":["Zimstat_MICS_2019","Zimstat_MICS_2019"],"Series":["VC_SNS_WALN","VC_SNS_WALN"],"Reference area":[null,null],"Sex":["Female","Male"],"Units":["PT","PT"],"GeoCode":[null,null],"Value":[47.9,82.8]}

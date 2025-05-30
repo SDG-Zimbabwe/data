@@ -1,1 +1,1 @@
-{"Year":[2015,2020],"Value":[24.0,10.45]}
+{"Year":[2015,2020],"OBS_STATUS":["A","A"],"UNIT_MULT":["0","0"],"SOURCE_DETAIL":["National_Health_Accounts","National_Health_Accounts"],"Series":["_L_ZW_030802","_L_ZW_030802"],"REF_AREA":[null,null],"Units":["PT","PT"],"GeoCode":[null,null],"Value":[24.0,10.45]}

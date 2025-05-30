@@ -1,1 +1,1 @@
-{"Year":[2017,2019],"Sex":[null,"Male"],"Value":[30.4,38.3]}
+{"Year":[2017,2019],"Observation status":["Normal value","Normal value"],"Unit multiplier":["Units","Units"],"Source details":["world_bank","world_bank"],"Series":["SI_POV_DAY1","SI_POV_DAY1"],"Reference area":[null,null],"Sex":[null,"Male"],"Units":["PT","PT"],"GeoCode":[null,null],"Value":[30.4,38.3]}

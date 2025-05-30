@@ -1,2 +1,2 @@
-Year,Value
-2015,48
+Year,OBS_STATUS,UNIT_MULT,SOURCE_DETAIL,Series,REF_AREA,AGE,Units,GeoCode,Value
+2015,A,0,Reserve_Bank_Of_Zimbabwe,FB_BNK_ACCSS,,Y_GE15,PT,,48

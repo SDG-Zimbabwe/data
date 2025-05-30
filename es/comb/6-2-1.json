@@ -1,1 +1,1 @@
-{"data":{"Year":[2019,2022,2023,2024],"Value":[64.2,68.7,78.4,81.0]},"edges":[]}
+{"data":{"Year":[2019,2022,2023,2024],"OBS_STATUS":["A","A","A","A"],"UNIT_MULT":["0","0","0","0"],"SOURCE_DETAIL":["WASH_Coordination_Unit","WASH_Coordination_Unit","WASH_Coordination_Unit","WASH_Coordination_Unit"],"Series":["SH_SAN_DEFECT","SH_SAN_DEFECT","SH_SAN_DEFECT","SH_SAN_DEFECT"],"REF_AREA":[null,null,null,null],"Units":["PT","PT","PT","PT"],"GeoCode":[null,null,null,null],"Value":[64.2,68.7,78.4,81.0]},"edges":{"From":["OBS_STATUS","UNIT_MULT"],"To":["UNIT_MULT","SOURCE_DETAIL"]}}

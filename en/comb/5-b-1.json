@@ -1,1 +1,1 @@
-{"data":{"Year":[2019,2022],"Source details":["ZIMSTAT","Zimstat_2022_PHC"],"Sex":["Female","Male"],"Value":[72.5,87.0]},"edges":{"From":["Source details"],"To":["Sex"]}}
+{"data":{"Year":[2019,2022],"Observation status":["Normal value","Normal value"],"Unit multiplier":["Units","Units"],"Source details":["ZIMSTAT","Zimstat_2022_PHC"],"Series":["IT_MOB_OWN","IT_MOB_OWN"],"Reference area":[null,null],"Sex":["Female","Male"],"Units":["PT","PT"],"GeoCode":[null,null],"Value":[72.5,87.0]},"edges":{"From":["Source details"],"To":["Sex"]}}

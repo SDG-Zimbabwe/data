@@ -1,1 +1,1 @@
-{"data":{"Year":[2022,2023],"Value":[3.1,1.1]},"edges":[]}
+{"data":{"Year":[2022,2023],"OBS_STATUS":["A","A"],"UNIT_MULT":["0","0"],"SOURCE_DETAIL":["MOFEDIP","MOFEDIP"],"Series":["SD_XPD_MNPO","SD_XPD_MNPO"],"REF_AREA":[null,null],"Units":["PT","PT"],"GeoCode":[null,null],"Value":[3.1,1.1]},"edges":{"From":["OBS_STATUS","UNIT_MULT"],"To":["UNIT_MULT","SOURCE_DETAIL"]}}

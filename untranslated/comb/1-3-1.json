@@ -1,1 +1,1 @@
-{"data":{"Year":[2014,2023,2024],"Value":[5.0,37.1,44.4]},"edges":[]}
+{"data":{"Year":[2014,2023,2024],"OBS_STATUS":["A","A","A"],"UNIT_MULT":["0","0","0"],"SOURCE_DETAIL":["ZIMSTAT_Labourforce_Report","ZIMSTAT_Labourforce_Report","ZIMSTAT_Labourforce_Report"],"Series":["SI_COV_BENFTS","SI_COV_BENFTS","SI_COV_BENFTS"],"REF_AREA":[null,null,null],"Units":["PT","PT","PT"],"GeoCode":[null,null,null],"Value":[5.0,37.1,44.4]},"edges":{"From":["OBS_STATUS","UNIT_MULT"],"To":["UNIT_MULT","SOURCE_DETAIL"]}}

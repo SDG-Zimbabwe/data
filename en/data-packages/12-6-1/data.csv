@@ -1,2 +1,2 @@
-Year,Value
-2015,6
+Year,Observation status,Unit multiplier,Source details,Series,Reference area,Units,GeoCode,Value
+2015,Normal value,Units,EMA,EN_SCP_FRMN,,NUMBER,,6

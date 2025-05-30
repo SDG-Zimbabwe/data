@@ -1,2 +1,2 @@
-Year,Value
-2024,100
+Year,OBS_STATUS,UNIT_MULT,SOURCE_DETAIL,Series,REF_AREA,Units,GeoCode,Value
+2024,A,0,Zimbabwe_Embassys_Mission_reports_UNGA,SG_INT_MBRDEV,,PT,,100

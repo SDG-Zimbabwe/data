@@ -1,4 +1,4 @@
-Year,Source details,Education level,Value
-2019,Min_primany_secondary_EMIS_2019,Pre-primary education,58.8
-2019,Min_primany_secondary_EMIS_2020,Primary education,97.1
-2019,Min_primany_secondary_EMIS_2021,Lower secondary education,85.5
+Year,Observation status,Unit multiplier,Source details,Series,Reference area,Education level,Units,GeoCode,Value
+2019,Normal value,Units,Min_primany_secondary_EMIS_2019,SE_TRA_GRDL,,Pre-primary education,PT,,58.8
+2019,Normal value,Units,Min_primany_secondary_EMIS_2020,SE_TRA_GRDL,,Primary education,PT,,97.1
+2019,Normal value,Units,Min_primany_secondary_EMIS_2021,SE_TRA_GRDL,,Lower secondary education,PT,,85.5

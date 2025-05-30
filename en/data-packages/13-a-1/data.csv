@@ -1,2 +1,2 @@
-Year,Value
-2023,226000
+Year,Observation status,Unit multiplier,Source details,Series,Reference area,Units,GeoCode,Value
+2023,Normal value,Units,CMMD_reports,DC_CLC_100B,,CON_USD,,226000

@@ -1,1 +1,1 @@
-{"Year":[2017,2019],"Value":[9.1,1.2]}
+{"Year":[2017,2019],"Observation status":["Normal value","Normal value"],"Unit multiplier":["Units","Units"],"Source details":["Zimstat_QLFS","Zimstat_QLFS"],"Series":["SL_TLF_CHLDEC","SL_TLF_CHLDEC"],"Reference area":[null,null],"Age":["5 to 17 years old","5 to 17 years old"],"Units":["PT","PT"],"GeoCode":[null,null],"Value":[9.1,1.2]}

@@ -1,1 +1,1 @@
-{"data":{"Year":[2014],"Value":[24]},"edges":[]}
+{"data":{"Year":[2014],"OBS_STATUS":["A"],"UNIT_MULT":["0"],"SOURCE_DETAIL":["MoSMED"],"Series":["NV_IND_SSIS"],"REF_AREA":[null],"Units":["PT"],"GeoCode":[null],"Value":[24]},"edges":{"From":["OBS_STATUS","UNIT_MULT"],"To":["UNIT_MULT","SOURCE_DETAIL"]}}

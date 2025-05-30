@@ -1,1 +1,1 @@
-{"Year":[2023,2019,2019],"Source details":["ZACC_case_files","Zimstat_MICS_2019","Zimstat_MICS_2019"],"Sex":[null,"Female","Male"],"Value":[23.0,40.5,38.2]}
+{"Year":[2023,2019,2019],"Observation status":["Normal value","Normal value","Normal value"],"Unit multiplier":["Units","Units","Units"],"Source details":["ZACC_case_files","Zimstat_MICS_2019","Zimstat_MICS_2019"],"Series":["VC_PRR_ROBB","VC_PRR_ROBB","VC_PRR_ROBB"],"Reference area":[null,null,null],"Sex":[null,"Female","Male"],"Units":["PT","PT","PT"],"GeoCode":[null,null,null],"Value":[23.0,40.5,38.2]}

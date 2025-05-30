@@ -1,1 +1,1 @@
-{"data":{"Year":[2023,2024],"Value":[5147,7437]},"edges":[]}
+{"data":{"Year":[2023,2024],"Observation status":["Normal value","Normal value"],"Unit multiplier":["Units","Units"],"Source details":["Drug_and_Substance_abuse_reports_surveys","Drug_and_Substance_abuse_reports_surveys"],"Series":["SH_SUD_TREAT","SH_SUD_TREAT"],"Reference area":[null,null],"Units":["NUMBER","NUMBER"],"GeoCode":[null,null],"Value":[5147,7437]},"edges":[]}

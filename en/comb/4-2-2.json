@@ -1,1 +1,1 @@
-{"data":{"Year":[2019,2022],"Source details":["Zimstat_MICS_2019","Zimstat_2022_PHC"],"Sex":[null,"Male"],"Value":[81,67]},"edges":{"From":["Source details"],"To":["Sex"]}}
+{"data":{"Year":[2019,2022],"Observation status":["Normal value","Normal value"],"Unit multiplier":["Units","Units"],"Source details":["Zimstat_MICS_2019","Zimstat_2022_PHC"],"Series":["SE_PRE_PARTN","SE_PRE_PARTN"],"Reference area":[null,null],"Sex":[null,"Male"],"Units":["PT","PT"],"GeoCode":[null,null],"Value":[81,67]},"edges":{"From":["Source details"],"To":["Sex"]}}

@@ -1,2 +1,2 @@
-Year,Value
-2015,50
+Year,Observation status,Unit multiplier,Source details,Series,Reference area,Units,GeoCode,Value
+2015,Normal value,Units,FCZ,AG_LND_FRST,,PT,,50

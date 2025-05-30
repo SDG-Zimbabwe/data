@@ -1,1 +1,1 @@
-{"data":{"Year":[2019,2019,2019],"Series":["SH_ACS_DTP3","SH_ACS_MCV2","SH_ACS_PCV3"],"Value":[91.0,68.4,90.6]},"edges":[]}
+{"data":{"Year":[2019,2019,2019],"Observation status":["Normal value","Normal value","Normal value"],"Unit multiplier":["Units","Units","Units"],"Source details":["Zimstat_MICS_2019","Zimstat_MICS_2019","Zimstat_MICS_2019"],"Series":["SH_ACS_DTP3","SH_ACS_MCV2","SH_ACS_PCV3"],"Reference area":[null,null,null],"Units":["PT","PT","PT"],"GeoCode":[null,null,null],"Value":[91.0,68.4,90.6]},"edges":[]}

@@ -1,1 +1,1 @@
-{"Year":[2015,2019],"Value":[26.8,23.5]}
+{"Year":[2015,2019],"Observation status":["Normal value","Normal value"],"Unit multiplier":["Units","Units"],"Source details":["Zimstat_MICS_2019","Zimstat_MICS_2019"],"Series":["SH_STA_STNT","SH_STA_STNT"],"Reference area":[null,null],"Units":["PT","PT"],"GeoCode":[null,null],"Value":[26.8,23.5]}

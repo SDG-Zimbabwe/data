@@ -1,4 +1,4 @@
-Year,Value
-2014,5.0
-2023,37.1
-2024,44.4
+Year,Observation status,Unit multiplier,Source details,Series,Reference area,Units,GeoCode,Value
+2014,Normal value,Units,ZIMSTAT_Labourforce_Report,SI_COV_BENFTS,,PT,,5.0
+2023,Normal value,Units,ZIMSTAT_Labourforce_Report,SI_COV_BENFTS,,PT,,37.1
+2024,Normal value,Units,ZIMSTAT_Labourforce_Report,SI_COV_BENFTS,,PT,,44.4

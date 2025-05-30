@@ -1,2 +1,2 @@
-Year,Value
-2024,100
+Year,Observation status,Unit multiplier,Source details,Series,Reference area,Units,GeoCode,Value
+2024,Normal value,Units,EMA,SE_GCEDESD_NEP,,PT,,100

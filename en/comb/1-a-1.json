@@ -1,1 +1,1 @@
-{"data":{"Year":[2022,2023],"Value":[0.029,0.033]},"edges":[]}
+{"data":{"Year":[2022,2023],"Observation status":["Normal value","Normal value"],"Unit multiplier":["Units","Units"],"Source details":["MOFEDIP","MOFEDIP"],"Series":["DC_ODA_POVG","DC_ODA_POVG"],"Reference area":[null,null],"Units":["NUMBER","NUMBER"],"GeoCode":[null,null],"Value":[0.029,0.033]},"edges":[]}

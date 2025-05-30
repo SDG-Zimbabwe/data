@@ -1,4 +1,4 @@
-Year,Value
-2019,14.2
-2020,12.6
-2021,11.7
+Year,OBS_STATUS,UNIT_MULT,SOURCE_DETAIL,Series,REF_AREA,Units,GeoCode,Value
+2019,A,0,ZIMSTAT_National_Accounts,NV_IND_MANF,,PT,,14.2
+2020,A,0,ZIMSTAT_National_Accounts,NV_IND_MANF,,PT,,12.6
+2021,A,0,ZIMSTAT_National_Accounts,NV_IND_MANF,,PT,,11.7

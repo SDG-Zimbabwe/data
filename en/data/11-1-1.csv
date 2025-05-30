@@ -1,15 +1,15 @@
-Year,Source details,Reference area,GeoCode,Value
-2019,Minutes_of_meetings_Workshop_Reports_Master_and_Local_Plans_Documents,,,0.33
-2022,Minutes_of_meetings_Workshop_Reports_Master_and_Local_Plans_Documents,,,1.1
-2023,Minutes_of_meetings_Workshop_Reports_Master_and_Local_Plans_Documents,,,80.0
-2024,Minutes_of_meetings_Workshop_Reports_Master_and_Local_Plans_Documents,,,90.0
-2022,Zimstat_2022_PHC,Bulawayo,ZW_BA,0.26
-2022,Zimstat_2022_PHC,Harare,ZW_HA,1.45
-2022,Zimstat_2022_PHC,Manicaland,ZW_MA,1.24
-2022,Zimstat_2022_PHC,Mashonaland Central,ZW_MC,1.35
-2022,Zimstat_2022_PHC,Masholanad East,ZW_ME,1.37
-2022,Zimstat_2022_PHC,Midlands,ZW_MI,0.83
-2022,Zimstat_2022_PHC,Matabeland North,ZW_MN,0.85
-2022,Zimstat_2022_PHC,Matabeland South,ZW_MS,1.91
-2022,Zimstat_2022_PHC,Masvingo,ZW_MV,0.26
-2022,Zimstat_2022_PHC,Mashonaland West,ZW_MW,1.14
+Year,Observation status,Unit multiplier,Source details,Series,Reference area,Units,GeoCode,Value
+2019,Normal value,Units,Minutes_of_meetings_Workshop_Reports_Master_and_Local_Plans_Documents,EN_LND_SLUM,,PT,,0.33
+2022,Normal value,Units,Minutes_of_meetings_Workshop_Reports_Master_and_Local_Plans_Documents,EN_LND_SLUM,,PT,,1.1
+2023,Normal value,Units,Minutes_of_meetings_Workshop_Reports_Master_and_Local_Plans_Documents,EN_LND_SLUM,,PT,,80.0
+2024,Normal value,Units,Minutes_of_meetings_Workshop_Reports_Master_and_Local_Plans_Documents,EN_LND_SLUM,,PT,,90.0
+2022,Normal value,Units,Zimstat_2022_PHC,EN_LND_SLUM,Bulawayo,PT,ZW_BA,0.26
+2022,Normal value,Units,Zimstat_2022_PHC,EN_LND_SLUM,Harare,PT,ZW_HA,1.45
+2022,Normal value,Units,Zimstat_2022_PHC,EN_LND_SLUM,Manicaland,PT,ZW_MA,1.24
+2022,Normal value,Units,Zimstat_2022_PHC,EN_LND_SLUM,Mashonaland Central,PT,ZW_MC,1.35
+2022,Normal value,Units,Zimstat_2022_PHC,EN_LND_SLUM,Masholanad East,PT,ZW_ME,1.37
+2022,Normal value,Units,Zimstat_2022_PHC,EN_LND_SLUM,Midlands,PT,ZW_MI,0.83
+2022,Normal value,Units,Zimstat_2022_PHC,EN_LND_SLUM,Matabeland North,PT,ZW_MN,0.85
+2022,Normal value,Units,Zimstat_2022_PHC,EN_LND_SLUM,Matabeland South,PT,ZW_MS,1.91
+2022,Normal value,Units,Zimstat_2022_PHC,EN_LND_SLUM,Masvingo,PT,ZW_MV,0.26
+2022,Normal value,Units,Zimstat_2022_PHC,EN_LND_SLUM,Mashonaland West,PT,ZW_MW,1.14

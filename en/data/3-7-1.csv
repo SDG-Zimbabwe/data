@@ -1,4 +1,4 @@
-Year,Value
-2015,86.0
-2021,87.5
-2023,84.6
+Year,Observation status,Unit multiplier,Source details,Series,Reference area,Sex,Age,Units,GeoCode,Value
+2015,Normal value,Units,MOHCC,SH_FPL_MTMM,,Female,15 to 49 years old,PT,,86.0
+2021,Normal value,Units,MOHCC,SH_FPL_MTMM,,Female,15 to 49 years old,PT,,87.5
+2023,Normal value,Units,MOHCC,SH_FPL_MTMM,,Female,15 to 49 years old,PT,,84.6

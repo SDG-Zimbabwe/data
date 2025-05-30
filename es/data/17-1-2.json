@@ -1,1 +1,1 @@
-{"Year":[2019,2021,2022,2023],"Value":[90,88,97,95]}
+{"Year":[2019,2021,2022,2023],"OBS_STATUS":["A","A","A","A"],"UNIT_MULT":["0","0","0","0"],"SOURCE_DETAIL":["MoFED","MoFED","MoFED","MoFED"],"Series":["GC_GOB_TAXD","GC_GOB_TAXD","GC_GOB_TAXD","GC_GOB_TAXD"],"REF_AREA":[null,null,null,null],"Units":["PT","PT","PT","PT"],"GeoCode":[null,null,null,null],"Value":[90,88,97,95]}

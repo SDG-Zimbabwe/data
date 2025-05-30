@@ -16,6 +16,28 @@
             "title": "Año"
           },
           {
+            "name": "OBS_STATUS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "A",
+                ""
+              ]
+            },
+            "title": "OBS_STATUS"
+          },
+          {
+            "name": "UNIT_MULT",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "0",
+                ""
+              ]
+            },
+            "title": "UNIT_MULT"
+          },
+          {
             "name": "SOURCE_DETAIL",
             "type": "string",
             "constraints": {
@@ -26,6 +48,17 @@
               ]
             },
             "title": "SOURCE_DETAIL"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "EN_LND_SLUM",
+                ""
+              ]
+            },
+            "title": "Series"
           },
           {
             "name": "REF_AREA",
@@ -46,6 +79,17 @@
               ]
             },
             "title": "REF_AREA"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "PT",
+                ""
+              ]
+            },
+            "title": "Units"
           },
           {
             "name": "GeoCode",

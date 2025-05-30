@@ -1,4 +1,4 @@
-Year,Value
-2015,15.0
-2019,5.5
-2023,39.0
+Year,Observation status,Unit multiplier,Source details,Series,Reference area,Sex,Age,Units,GeoCode,Value
+2015,Normal value,Units,ZIMSTAT,VC_VAW_MARR,,Female,15 years old and over,PT,,15.0
+2019,Normal value,Units,ZIMSTAT,VC_VAW_MARR,,Female,15 years old and over,PT,,5.5
+2023,Normal value,Units,ZIMSTAT,VC_VAW_MARR,,Female,15 years old and over,PT,,39.0

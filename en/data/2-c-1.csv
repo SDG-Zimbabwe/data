@@ -1,5 +1,5 @@
-Year,Value
-2018,14.848767279016856
-2019,356.3626491087545
-2020,601.0040849131195
-2021,105.7989077004689
+Year,Observation status,Unit multiplier,Source details,Series,Reference area,Units,GeoCode,Value
+2018,Normal value,Units,ZIMSTAT_Prices_Department,AG_FPA_COMM,,PT,,14.848767279016856
+2019,Normal value,Units,ZIMSTAT_Prices_Department,AG_FPA_COMM,,PT,,356.3626491087545
+2020,Normal value,Units,ZIMSTAT_Prices_Department,AG_FPA_COMM,,PT,,601.0040849131195
+2021,Normal value,Units,ZIMSTAT_Prices_Department,AG_FPA_COMM,,PT,,105.7989077004689

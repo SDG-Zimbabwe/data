@@ -1,1 +1,1 @@
-{"data":{"Year":[2017,2024],"Value":[37.2,25.0]},"edges":[]}
+{"data":{"Year":[2017,2024],"Observation status":["Normal value","Normal value"],"Unit multiplier":["Units","Units"],"Source details":["MHTEISTD","MHTEISTD"],"Series":["SE_ADT_EDUCTRN","SE_ADT_EDUCTRN"],"Reference area":[null,null],"Units":["PT","PT"],"GeoCode":[null,null],"Value":[37.2,25.0]},"edges":[]}

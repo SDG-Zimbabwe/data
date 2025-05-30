@@ -1,1 +1,1 @@
-{"Year":[2019,2020,2021],"Value":[14.2,12.6,11.7]}
+{"Year":[2019,2020,2021],"Observation status":["Normal value","Normal value","Normal value"],"Unit multiplier":["Units","Units","Units"],"Source details":["ZIMSTAT_National_Accounts","ZIMSTAT_National_Accounts","ZIMSTAT_National_Accounts"],"Series":["NV_IND_MANF","NV_IND_MANF","NV_IND_MANF"],"Reference area":[null,null,null],"Units":["PT","PT","PT"],"GeoCode":[null,null,null],"Value":[14.2,12.6,11.7]}

@@ -1,5 +1,5 @@
-Year,Value
-2019,64.2
-2022,68.7
-2023,78.4
-2024,81.0
+Year,Observation status,Unit multiplier,Source details,Series,Reference area,Units,GeoCode,Value
+2019,Normal value,Units,WASH_Coordination_Unit,SH_SAN_DEFECT,,PT,,64.2
+2022,Normal value,Units,WASH_Coordination_Unit,SH_SAN_DEFECT,,PT,,68.7
+2023,Normal value,Units,WASH_Coordination_Unit,SH_SAN_DEFECT,,PT,,78.4
+2024,Normal value,Units,WASH_Coordination_Unit,SH_SAN_DEFECT,,PT,,81.0

@@ -1,2 +1,2 @@
-Year,Value
-2014,96
+Year,OBS_STATUS,UNIT_MULT,SOURCE_DETAIL,Series,REF_AREA,Units,GeoCode,Value
+2014,A,0,Zimstat_ICT_Survey_2014,IT_MOB_2GNTWK,,PT,,96

@@ -1,6 +1,6 @@
-Year,Source details,Series,Value
-2023,CLAFA_2024,PD_AGR_LSFP,103449445.0
-2024,CLAFA_2024,PD_AGR_LSFP,86396065.0
-2015,ZimLac,PD_AGR_SSFP,0.28
-2023,ZimLac,PD_AGR_SSFP,116.0
-2024,ZimLac,PD_AGR_SSFP,88.0
+Year,Observation status,Unit multiplier,Source details,Series,Reference area,Units,GeoCode,Value
+2023,Normal value,Units,CLAFA_2024,PD_AGR_LSFP,,CON_USD,,103449445.0
+2024,Normal value,Units,CLAFA_2024,PD_AGR_LSFP,,CON_USD,,86396065.0
+2015,Normal value,Units,ZimLac,PD_AGR_SSFP,,CON_USD,,0.28
+2023,Normal value,Units,ZimLac,PD_AGR_SSFP,,CON_USD,,116.0
+2024,Normal value,Units,ZimLac,PD_AGR_SSFP,,CON_USD,,88.0

@@ -1,2 +1,2 @@
-Year,Value
-2020,4.37
+Year,Observation status,Unit multiplier,Source details,Series,Reference area,Units,GeoCode,Value
+2020,Normal value,Units,FAO_Aquastats_survey_2020,ER_H2O_WUEYST,,PT,,4.37

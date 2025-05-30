@@ -1,1 +1,1 @@
-{"Year":[2017,2019],"Value":[9.1,1.2]}
+{"Year":[2017,2019],"OBS_STATUS":["A","A"],"UNIT_MULT":["0","0"],"SOURCE_DETAIL":["Zimstat_QLFS","Zimstat_QLFS"],"Series":["SL_TLF_CHLDEC","SL_TLF_CHLDEC"],"REF_AREA":[null,null],"AGE":["Y5T17","Y5T17"],"Units":["PT","PT"],"GeoCode":[null,null],"Value":[9.1,1.2]}

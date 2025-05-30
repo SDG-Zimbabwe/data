@@ -1,5 +1,5 @@
-Year,Value
-2019,2.5
-2021,2.5
-2022,5.2
-2023,5.7
+Year,Observation status,Unit multiplier,Source details,Series,Reference area,Units,GeoCode,Value
+2019,Normal value,Units,ZIMSTAT_National_Accounts,ST_GDP_ZS,,PT,,2.5
+2021,Normal value,Units,ZIMSTAT_National_Accounts,ST_GDP_ZS,,PT,,2.5
+2022,Normal value,Units,ZIMSTAT_National_Accounts,ST_GDP_ZS,,PT,,5.2
+2023,Normal value,Units,ZIMSTAT_National_Accounts,ST_GDP_ZS,,PT,,5.7

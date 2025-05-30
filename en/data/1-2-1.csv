@@ -1,4 +1,4 @@
-Year,Sex,Value
-2017,,70.5
-2017,Female,70.7
-2017,Male,70.5
+Year,Observation status,Unit multiplier,Source details,Series,Reference area,Sex,Units,GeoCode,Value
+2017,Normal value,Units,Zimstat_Poverty_Report_2017,SI_POV_NAHC,,,PT,,70.5
+2017,Normal value,Units,Zimstat_Poverty_Report_2017,SI_POV_NAHC,,Female,PT,,70.7
+2017,Normal value,Units,Zimstat_Poverty_Report_2017,SI_POV_NAHC,,Male,PT,,70.5

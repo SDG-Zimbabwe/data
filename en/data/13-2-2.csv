@@ -1,2 +1,2 @@
-Year,Value
-2023,37.98
+Year,Observation status,Unit multiplier,Source details,Series,Reference area,Units,GeoCode,Value
+2023,Normal value,Units,UNDP,EN_ATM_GHGT_NAIP,,PT,,37.98
