@@ -9,7 +9,7 @@
 # languages. Each build is in its own subfolder - one for each language.
 languages:
   - en
-  - es
+  
 # Destination directory
 # ---------------------
 # This identifies a directory to hold the "built" files. The default is '_site'.
@@ -170,7 +170,7 @@ indicator_options:
     - SERIES
     - COMMENT_TS
     - DATA_LAST_UPDATE
-    - TIME_PERIOD
+    - TIME_DETAIL
   series_column: SERIES
   unit_column: UNIT_MEASURE
   observation_attributes:
