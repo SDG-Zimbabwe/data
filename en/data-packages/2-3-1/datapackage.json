@@ -52,13 +52,6 @@
           {
             "name": "Series",
             "type": "string",
-            "constraints": {
-              "enum": [
-                "PD_AGR_LSFP",
-                "PD_AGR_SSFP",
-                ""
-              ]
-            },
             "title": "Series"
           },
           {
@@ -74,12 +67,6 @@
           {
             "name": "Units",
             "type": "string",
-            "constraints": {
-              "enum": [
-                "CON_USD",
-                ""
-              ]
-            },
             "title": "Units"
           },
           {

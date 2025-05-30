@@ -51,12 +51,6 @@
           {
             "name": "Series",
             "type": "string",
-            "constraints": {
-              "enum": [
-                "SM_POP_REFG_OR",
-                ""
-              ]
-            },
             "title": "Series"
           },
           {
@@ -72,12 +66,6 @@
           {
             "name": "Units",
             "type": "string",
-            "constraints": {
-              "enum": [
-                "PT",
-                ""
-              ]
-            },
             "title": "Units"
           },
           {

@@ -52,12 +52,6 @@
           {
             "name": "Series",
             "type": "string",
-            "constraints": {
-              "enum": [
-                "SE_PRE_PARTN",
-                ""
-              ]
-            },
             "title": "Series"
           },
           {
@@ -84,12 +78,6 @@
           {
             "name": "Units",
             "type": "string",
-            "constraints": {
-              "enum": [
-                "PT",
-                ""
-              ]
-            },
             "title": "Units"
           },
           {

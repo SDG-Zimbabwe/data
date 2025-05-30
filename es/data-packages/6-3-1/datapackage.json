@@ -52,13 +52,6 @@
           {
             "name": "Series",
             "type": "string",
-            "constraints": {
-              "enum": [
-                "EN_WWT_TREATR",
-                "EN_WWT_WWDS",
-                ""
-              ]
-            },
             "title": "Series"
           },
           {
@@ -74,13 +67,6 @@
           {
             "name": "Units",
             "type": "string",
-            "constraints": {
-              "enum": [
-                "PT",
-                "CON_USD",
-                ""
-              ]
-            },
             "title": "Units"
           },
           {

@@ -47,13 +47,7 @@
           },
           {
             "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "SE_PRE_PARTN",
-                ""
-              ]
-            }
+            "type": "string"
           },
           {
             "name": "REF_AREA",
@@ -76,13 +70,7 @@
           },
           {
             "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "PT",
-                ""
-              ]
-            }
+            "type": "string"
           },
           {
             "name": "GeoCode",

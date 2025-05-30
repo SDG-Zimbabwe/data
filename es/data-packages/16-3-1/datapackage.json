@@ -52,12 +52,6 @@
           {
             "name": "Series",
             "type": "string",
-            "constraints": {
-              "enum": [
-                "VC_PRR_ROBB",
-                ""
-              ]
-            },
             "title": "Series"
           },
           {
@@ -85,12 +79,6 @@
           {
             "name": "Units",
             "type": "string",
-            "constraints": {
-              "enum": [
-                "PT",
-                ""
-              ]
-            },
             "title": "Units"
           },
           {

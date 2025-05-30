@@ -51,12 +51,6 @@
           {
             "name": "Series",
             "type": "string",
-            "constraints": {
-              "enum": [
-                "SL_TLF_UEMDIS_19ICLS",
-                ""
-              ]
-            },
             "title": "Series"
           },
           {
@@ -94,12 +88,6 @@
           {
             "name": "Units",
             "type": "string",
-            "constraints": {
-              "enum": [
-                "PT",
-                ""
-              ]
-            },
             "title": "Units"
           },
           {

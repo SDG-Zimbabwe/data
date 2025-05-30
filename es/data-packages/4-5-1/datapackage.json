@@ -51,13 +51,6 @@
           {
             "name": "Series",
             "type": "string",
-            "constraints": {
-              "enum": [
-                "SE_GPI_PTNPRE",
-                "SE_LGP_ACHI",
-                ""
-              ]
-            },
             "title": "Series"
           },
           {
@@ -73,12 +66,6 @@
           {
             "name": "Units",
             "type": "string",
-            "constraints": {
-              "enum": [
-                "IX",
-                ""
-              ]
-            },
             "title": "Units"
           },
           {

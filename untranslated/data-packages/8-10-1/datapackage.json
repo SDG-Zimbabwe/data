@@ -46,14 +46,7 @@
           },
           {
             "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "FB_ATM_TOTL",
-                "FB_CBK_BRCH",
-                ""
-              ]
-            }
+            "type": "string"
           },
           {
             "name": "REF_AREA",
@@ -66,13 +59,7 @@
           },
           {
             "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "PT",
-                ""
-              ]
-            }
+            "type": "string"
           },
           {
             "name": "GeoCode",

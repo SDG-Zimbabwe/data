@@ -51,12 +51,6 @@
           {
             "name": "Series",
             "type": "string",
-            "constraints": {
-              "enum": [
-                "EG_FEC_RNEW",
-                ""
-              ]
-            },
             "title": "Series"
           },
           {
@@ -72,12 +66,6 @@
           {
             "name": "Units",
             "type": "string",
-            "constraints": {
-              "enum": [
-                "PT",
-                ""
-              ]
-            },
             "title": "Units"
           },
           {

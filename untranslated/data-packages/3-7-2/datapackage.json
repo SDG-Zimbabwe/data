@@ -46,13 +46,7 @@
           },
           {
             "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "SP_DYN_ADKL",
-                ""
-              ]
-            }
+            "type": "string"
           },
           {
             "name": "REF_AREA",
@@ -85,13 +79,7 @@
           },
           {
             "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "PER_1000_POP",
-                ""
-              ]
-            }
+            "type": "string"
           },
           {
             "name": "GeoCode",

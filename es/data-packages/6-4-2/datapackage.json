@@ -51,12 +51,6 @@
           {
             "name": "Series",
             "type": "string",
-            "constraints": {
-              "enum": [
-                "ER_H2O_STRESS",
-                ""
-              ]
-            },
             "title": "Series"
           },
           {
@@ -72,12 +66,6 @@
           {
             "name": "Units",
             "type": "string",
-            "constraints": {
-              "enum": [
-                "PT",
-                ""
-              ]
-            },
             "title": "Units"
           },
           {

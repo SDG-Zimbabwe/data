@@ -51,12 +51,6 @@
           {
             "name": "Series",
             "type": "string",
-            "constraints": {
-              "enum": [
-                "DC_ODA_POVG",
-                ""
-              ]
-            },
             "title": "Series"
           },
           {
@@ -72,12 +66,6 @@
           {
             "name": "Units",
             "type": "string",
-            "constraints": {
-              "enum": [
-                "NUMBER",
-                ""
-              ]
-            },
             "title": "Units"
           },
           {

@@ -46,13 +46,7 @@
           },
           {
             "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "SH_STA_MORT",
-                ""
-              ]
-            }
+            "type": "string"
           },
           {
             "name": "REF_AREA",
@@ -75,13 +69,7 @@
           },
           {
             "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "PER_1000_LIVE_BIRTHS",
-                ""
-              ]
-            }
+            "type": "string"
           },
           {
             "name": "GeoCode",

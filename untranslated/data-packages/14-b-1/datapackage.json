@@ -46,13 +46,7 @@
           },
           {
             "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "ER_REG_SSFRAR",
-                ""
-              ]
-            }
+            "type": "string"
           },
           {
             "name": "REF_AREA",
@@ -65,13 +59,7 @@
           },
           {
             "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "BOOL",
-                ""
-              ]
-            }
+            "type": "string"
           },
           {
             "name": "GeoCode",

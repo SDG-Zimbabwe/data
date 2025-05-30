@@ -46,13 +46,7 @@
           },
           {
             "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "DC_CLC_100B",
-                ""
-              ]
-            }
+            "type": "string"
           },
           {
             "name": "REF_AREA",
@@ -65,13 +59,7 @@
           },
           {
             "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "CON_USD",
-                ""
-              ]
-            }
+            "type": "string"
           },
           {
             "name": "GeoCode",

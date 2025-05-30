@@ -51,13 +51,6 @@
           {
             "name": "Series",
             "type": "string",
-            "constraints": {
-              "enum": [
-                "FB_ATM_TOTL",
-                "FB_CBK_BRCH",
-                ""
-              ]
-            },
             "title": "Series"
           },
           {
@@ -73,12 +66,6 @@
           {
             "name": "Units",
             "type": "string",
-            "constraints": {
-              "enum": [
-                "PT",
-                ""
-              ]
-            },
             "title": "Units"
           },
           {

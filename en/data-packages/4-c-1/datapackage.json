@@ -53,12 +53,6 @@
           {
             "name": "Series",
             "type": "string",
-            "constraints": {
-              "enum": [
-                "SE_TRA_GRDL",
-                ""
-              ]
-            },
             "title": "Series"
           },
           {
@@ -87,12 +81,6 @@
           {
             "name": "Units",
             "type": "string",
-            "constraints": {
-              "enum": [
-                "PT",
-                ""
-              ]
-            },
             "title": "Units"
           },
           {
