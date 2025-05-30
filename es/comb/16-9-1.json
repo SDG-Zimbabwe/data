@@ -1,1 +1,0 @@
-{"data":{"Year":[2019,2022],"OBS_STATUS":["A","A"],"UNIT_MULT":["0","0"],"SOURCE_DETAIL":["Zimstat_2022_PHC","Zimstat_2022_PHC"],"Series":["SG_REG_BRTH","SG_REG_BRTH"],"REF_AREA":[null,null],"Units":["PT","PT"],"GeoCode":[null,null],"Value":[48.7,19.1]},"edges":{"From":["OBS_STATUS","UNIT_MULT"],"To":["UNIT_MULT","SOURCE_DETAIL"]}}

@@ -1,1 +1,0 @@
-{"data":{"Year":[2014],"OBS_STATUS":["A"],"UNIT_MULT":["0"],"SOURCE_DETAIL":["Zimstat_ICT_Survey_2014"],"Series":["IT_MOB_2GNTWK"],"REF_AREA":[null],"Units":["PT"],"GeoCode":[null],"Value":[96]},"edges":{"From":["OBS_STATUS","UNIT_MULT"],"To":["UNIT_MULT","SOURCE_DETAIL"]}}

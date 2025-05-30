@@ -1,1 +1,0 @@
-{"data":{"Year":[2019],"OBS_STATUS":["A"],"UNIT_MULT":["0"],"SOURCE_DETAIL":["ZIMSTAT"],"Series":["SP_LGL_LNDAGSEC"],"REF_AREA":[null],"Units":["PT"],"GeoCode":[null],"Value":[44.9]},"edges":{"From":["OBS_STATUS","UNIT_MULT"],"To":["UNIT_MULT","SOURCE_DETAIL"]}}
