@@ -49,9 +49,15 @@
             "title": "Source details"
           },
           {
-            "name": "Series",
+            "name": "SERIES",
             "type": "string",
-            "title": "Series"
+            "constraints": {
+              "enum": [
+                "Death rate due to road traffic injuries [3.6.1]",
+                ""
+              ]
+            },
+            "title": "SDG Series"
           },
           {
             "name": "REF_AREA",
@@ -64,9 +70,15 @@
             "title": "Reference area"
           },
           {
-            "name": "Units",
+            "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "Units"
+            "constraints": {
+              "enum": [
+                "Per 100,000 population",
+                ""
+              ]
+            },
+            "title": "Unit of measure"
           },
           {
             "name": "GeoCode",

@@ -1,2 +1,2 @@
-Year,Observation status,Unit multiplier,Source details,Series,Reference area,Units,GeoCode,Value
-2023,Normal value,Units,MOFEDIP,AG_PRD_FIESMS,,PT,,26
+Year,Observation status,Unit multiplier,Source details,SERIES,Reference area,UNIT_MEASURE,GeoCode,Value
+2023,Normal value,Units,MOFEDIP,Prevalence of moderate or severe food insecurity in the population [2.1.2],,Percent,,26

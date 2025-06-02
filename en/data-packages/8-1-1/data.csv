@@ -1,5 +1,5 @@
-Year,Observation status,Unit multiplier,Source details,Series,Reference area,Units,GeoCode,Value
-2019,Normal value,Units,MoFED,NY_GDP_PCAP,,PT,,-6.1
-2021,Normal value,Units,MoFED,NY_GDP_PCAP,,PT,,7.4
-2022,Normal value,Units,MoFED,NY_GDP_PCAP,,PT,,6.5
-2023,Normal value,Units,MoFED,NY_GDP_PCAP,,PT,,5.3
+Year,Observation status,Unit multiplier,Source details,SERIES,Reference area,UNIT_MEASURE,GeoCode,Value
+2019,Normal value,Units,MoFED,Annual growth rate of real GDP per capita [8.1.1],,Percent,,-6.1
+2021,Normal value,Units,MoFED,Annual growth rate of real GDP per capita [8.1.1],,Percent,,7.4
+2022,Normal value,Units,MoFED,Annual growth rate of real GDP per capita [8.1.1],,Percent,,6.5
+2023,Normal value,Units,MoFED,Annual growth rate of real GDP per capita [8.1.1],,Percent,,5.3

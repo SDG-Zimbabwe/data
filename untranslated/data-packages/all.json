@@ -47,8 +47,14 @@
             }
           },
           {
-            "name": "Series",
-            "type": "string"
+            "name": "SERIES",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "_L_ZW_030802",
+                ""
+              ]
+            }
           },
           {
             "name": "REF_AREA",
@@ -60,8 +66,14 @@
             }
           },
           {
-            "name": "Units",
-            "type": "string"
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "PT",
+                ""
+              ]
+            }
           },
           {
             "name": "GeoCode",
@@ -120,8 +132,14 @@
             }
           },
           {
-            "name": "Series",
-            "type": "string"
+            "name": "SERIES",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "AG_FPA_COMM",
+                ""
+              ]
+            }
           },
           {
             "name": "REF_AREA",
@@ -133,8 +151,14 @@
             }
           },
           {
-            "name": "Units",
-            "type": "string"
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "PT",
+                ""
+              ]
+            }
           },
           {
             "name": "GeoCode",
@@ -193,8 +217,14 @@
             }
           },
           {
-            "name": "Series",
-            "type": "string"
+            "name": "SERIES",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "AG_LND_FRST",
+                ""
+              ]
+            }
           },
           {
             "name": "REF_AREA",
@@ -206,8 +236,14 @@
             }
           },
           {
-            "name": "Units",
-            "type": "string"
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "PT",
+                ""
+              ]
+            }
           },
           {
             "name": "GeoCode",
@@ -266,8 +302,14 @@
             }
           },
           {
-            "name": "Series",
-            "type": "string"
+            "name": "SERIES",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "AG_LND_SUST",
+                ""
+              ]
+            }
           },
           {
             "name": "REF_AREA",
@@ -279,8 +321,14 @@
             }
           },
           {
-            "name": "Units",
-            "type": "string"
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "NUMBER",
+                ""
+              ]
+            }
           },
           {
             "name": "GeoCode",
@@ -339,8 +387,14 @@
             }
           },
           {
-            "name": "Series",
-            "type": "string"
+            "name": "SERIES",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "AG_PRD_FIESMS",
+                ""
+              ]
+            }
           },
           {
             "name": "REF_AREA",
@@ -352,8 +406,14 @@
             }
           },
           {
-            "name": "Units",
-            "type": "string"
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "PT",
+                ""
+              ]
+            }
           },
           {
             "name": "GeoCode",
@@ -412,8 +472,14 @@
             }
           },
           {
-            "name": "Series",
-            "type": "string"
+            "name": "SERIES",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "BX_TRF_PWKR",
+                ""
+              ]
+            }
           },
           {
             "name": "REF_AREA",
@@ -425,8 +491,14 @@
             }
           },
           {
-            "name": "Units",
-            "type": "string"
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "PT",
+                ""
+              ]
+            }
           },
           {
             "name": "GeoCode",
@@ -485,8 +557,14 @@
             }
           },
           {
-            "name": "Series",
-            "type": "string"
+            "name": "SERIES",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "DC_CLC_100B",
+                ""
+              ]
+            }
           },
           {
             "name": "REF_AREA",
@@ -498,8 +576,14 @@
             }
           },
           {
-            "name": "Units",
-            "type": "string"
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "CON_USD",
+                ""
+              ]
+            }
           },
           {
             "name": "GeoCode",
@@ -558,8 +642,14 @@
             }
           },
           {
-            "name": "Series",
-            "type": "string"
+            "name": "SERIES",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "DC_ODA_POVG",
+                ""
+              ]
+            }
           },
           {
             "name": "REF_AREA",
@@ -571,8 +661,14 @@
             }
           },
           {
-            "name": "Units",
-            "type": "string"
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "NUMBER",
+                ""
+              ]
+            }
           },
           {
             "name": "GeoCode",
@@ -631,8 +727,14 @@
             }
           },
           {
-            "name": "Series",
-            "type": "string"
+            "name": "SERIES",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "DT_TDS_DECT",
+                ""
+              ]
+            }
           },
           {
             "name": "REF_AREA",
@@ -644,8 +746,14 @@
             }
           },
           {
-            "name": "Units",
-            "type": "string"
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "PT",
+                ""
+              ]
+            }
           },
           {
             "name": "GeoCode",
@@ -704,8 +812,14 @@
             }
           },
           {
-            "name": "Series",
-            "type": "string"
+            "name": "SERIES",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "EG_ACS_ELEC",
+                ""
+              ]
+            }
           },
           {
             "name": "REF_AREA",
@@ -717,8 +831,14 @@
             }
           },
           {
-            "name": "Units",
-            "type": "string"
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "PT",
+                ""
+              ]
+            }
           },
           {
             "name": "GeoCode",
@@ -777,8 +897,14 @@
             }
           },
           {
-            "name": "Series",
-            "type": "string"
+            "name": "SERIES",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "EG_EGY_CLEAN",
+                ""
+              ]
+            }
           },
           {
             "name": "REF_AREA",
@@ -790,8 +916,14 @@
             }
           },
           {
-            "name": "Units",
-            "type": "string"
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "PT",
+                ""
+              ]
+            }
           },
           {
             "name": "GeoCode",
@@ -850,8 +982,14 @@
             }
           },
           {
-            "name": "Series",
-            "type": "string"
+            "name": "SERIES",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "EG_EGY_PRIM",
+                ""
+              ]
+            }
           },
           {
             "name": "REF_AREA",
@@ -863,8 +1001,14 @@
             }
           },
           {
-            "name": "Units",
-            "type": "string"
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "NUMBER",
+                ""
+              ]
+            }
           },
           {
             "name": "GeoCode",
@@ -923,8 +1067,14 @@
             }
           },
           {
-            "name": "Series",
-            "type": "string"
+            "name": "SERIES",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "EG_FEC_RNEW",
+                ""
+              ]
+            }
           },
           {
             "name": "REF_AREA",
@@ -936,8 +1086,14 @@
             }
           },
           {
-            "name": "Units",
-            "type": "string"
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "PT",
+                ""
+              ]
+            }
           },
           {
             "name": "GeoCode",
@@ -996,8 +1152,14 @@
             }
           },
           {
-            "name": "Series",
-            "type": "string"
+            "name": "SERIES",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "EG_IFF_RANDN",
+                ""
+              ]
+            }
           },
           {
             "name": "REF_AREA",
@@ -1009,8 +1171,14 @@
             }
           },
           {
-            "name": "Units",
-            "type": "string"
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "CON_USD",
+                ""
+              ]
+            }
           },
           {
             "name": "GeoCode",
@@ -1069,8 +1237,14 @@
             }
           },
           {
-            "name": "Series",
-            "type": "string"
+            "name": "SERIES",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "EG_TBA_H2CO",
+                ""
+              ]
+            }
           },
           {
             "name": "REF_AREA",
@@ -1082,8 +1256,14 @@
             }
           },
           {
-            "name": "Units",
-            "type": "string"
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "PT",
+                ""
+              ]
+            }
           },
           {
             "name": "GeoCode",
@@ -1142,8 +1322,14 @@
             }
           },
           {
-            "name": "Series",
-            "type": "string"
+            "name": "SERIES",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "EN_ATM_GHGT_NAIP",
+                ""
+              ]
+            }
           },
           {
             "name": "REF_AREA",
@@ -1155,8 +1341,14 @@
             }
           },
           {
-            "name": "Units",
-            "type": "string"
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "PT",
+                ""
+              ]
+            }
           },
           {
             "name": "GeoCode",
@@ -1215,8 +1407,14 @@
             }
           },
           {
-            "name": "Series",
-            "type": "string"
+            "name": "SERIES",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "EN_H2O_WBAMBQ",
+                ""
+              ]
+            }
           },
           {
             "name": "REF_AREA",
@@ -1228,8 +1426,14 @@
             }
           },
           {
-            "name": "Units",
-            "type": "string"
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "PT",
+                ""
+              ]
+            }
           },
           {
             "name": "GeoCode",
@@ -1288,8 +1492,14 @@
             }
           },
           {
-            "name": "Series",
-            "type": "string"
+            "name": "SERIES",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "EN_LND_CNSPOP",
+                ""
+              ]
+            }
           },
           {
             "name": "REF_AREA",
@@ -1301,8 +1511,14 @@
             }
           },
           {
-            "name": "Units",
-            "type": "string"
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "PT",
+                ""
+              ]
+            }
           },
           {
             "name": "GeoCode",
@@ -1362,8 +1578,14 @@
             }
           },
           {
-            "name": "Series",
-            "type": "string"
+            "name": "SERIES",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "EN_LND_SLUM",
+                ""
+              ]
+            }
           },
           {
             "name": "REF_AREA",
@@ -1385,8 +1607,14 @@
             }
           },
           {
-            "name": "Units",
-            "type": "string"
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "PT",
+                ""
+              ]
+            }
           },
           {
             "name": "GeoCode",
@@ -1445,8 +1673,14 @@
             }
           },
           {
-            "name": "Series",
-            "type": "string"
+            "name": "SERIES",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "EN_NAA_PLAN",
+                ""
+              ]
+            }
           },
           {
             "name": "REF_AREA",
@@ -1458,8 +1692,14 @@
             }
           },
           {
-            "name": "Units",
-            "type": "string"
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "BOOL",
+                ""
+              ]
+            }
           },
           {
             "name": "GeoCode",
@@ -1518,8 +1758,14 @@
             }
           },
           {
-            "name": "Series",
-            "type": "string"
+            "name": "SERIES",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "EN_NAA_PLAN_DV",
+                ""
+              ]
+            }
           },
           {
             "name": "REF_AREA",
@@ -1531,8 +1777,14 @@
             }
           },
           {
-            "name": "Units",
-            "type": "string"
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "BOOL",
+                ""
+              ]
+            }
           },
           {
             "name": "GeoCode",
@@ -1591,8 +1843,14 @@
             }
           },
           {
-            "name": "Series",
-            "type": "string"
+            "name": "SERIES",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "EN_RSRV_MNWAC",
+                ""
+              ]
+            }
           },
           {
             "name": "REF_AREA",
@@ -1604,8 +1862,14 @@
             }
           },
           {
-            "name": "Units",
-            "type": "string"
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "PT",
+                ""
+              ]
+            }
           },
           {
             "name": "GeoCode",
@@ -1664,8 +1928,14 @@
             }
           },
           {
-            "name": "Series",
-            "type": "string"
+            "name": "SERIES",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "EN_SCP_FRMN",
+                ""
+              ]
+            }
           },
           {
             "name": "REF_AREA",
@@ -1677,8 +1947,14 @@
             }
           },
           {
-            "name": "Units",
-            "type": "string"
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "NUMBER",
+                ""
+              ]
+            }
           },
           {
             "name": "GeoCode",
@@ -1737,8 +2013,14 @@
             }
           },
           {
-            "name": "Series",
-            "type": "string"
+            "name": "SERIES",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "EN_URB_OPENSP",
+                ""
+              ]
+            }
           },
           {
             "name": "REF_AREA",
@@ -1750,8 +2032,14 @@
             }
           },
           {
-            "name": "Units",
-            "type": "string"
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "NUMBER",
+                ""
+              ]
+            }
           },
           {
             "name": "GeoCode",
@@ -1811,8 +2099,15 @@
             }
           },
           {
-            "name": "Series",
-            "type": "string"
+            "name": "SERIES",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "EN_WWT_TREATR",
+                "EN_WWT_WWDS",
+                ""
+              ]
+            }
           },
           {
             "name": "REF_AREA",
@@ -1824,8 +2119,15 @@
             }
           },
           {
-            "name": "Units",
-            "type": "string"
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "PT",
+                "CON_USD",
+                ""
+              ]
+            }
           },
           {
             "name": "GeoCode",
@@ -1884,8 +2186,14 @@
             }
           },
           {
-            "name": "Series",
-            "type": "string"
+            "name": "SERIES",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "ER_CBD_ABSCLRHS",
+                ""
+              ]
+            }
           },
           {
             "name": "REF_AREA",
@@ -1897,8 +2205,14 @@
             }
           },
           {
-            "name": "Units",
-            "type": "string"
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "BOOL",
+                ""
+              ]
+            }
           },
           {
             "name": "GeoCode",
@@ -1957,8 +2271,14 @@
             }
           },
           {
-            "name": "Series",
-            "type": "string"
+            "name": "SERIES",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "ER_H20_LCMGM",
+                ""
+              ]
+            }
           },
           {
             "name": "REF_AREA",
@@ -1970,8 +2290,14 @@
             }
           },
           {
-            "name": "Units",
-            "type": "string"
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "PT",
+                ""
+              ]
+            }
           },
           {
             "name": "GeoCode",
@@ -2030,8 +2356,14 @@
             }
           },
           {
-            "name": "Series",
-            "type": "string"
+            "name": "SERIES",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "ER_H2O_IWRMD",
+                ""
+              ]
+            }
           },
           {
             "name": "REF_AREA",
@@ -2043,8 +2375,14 @@
             }
           },
           {
-            "name": "Units",
-            "type": "string"
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "NUMBER",
+                ""
+              ]
+            }
           },
           {
             "name": "GeoCode",
@@ -2103,8 +2441,14 @@
             }
           },
           {
-            "name": "Series",
-            "type": "string"
+            "name": "SERIES",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "ER_H2O_STRESS",
+                ""
+              ]
+            }
           },
           {
             "name": "REF_AREA",
@@ -2116,8 +2460,14 @@
             }
           },
           {
-            "name": "Units",
-            "type": "string"
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "PT",
+                ""
+              ]
+            }
           },
           {
             "name": "GeoCode",
@@ -2176,8 +2526,14 @@
             }
           },
           {
-            "name": "Series",
-            "type": "string"
+            "name": "SERIES",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "ER_H2O_WUEYST",
+                ""
+              ]
+            }
           },
           {
             "name": "REF_AREA",
@@ -2189,8 +2545,14 @@
             }
           },
           {
-            "name": "Units",
-            "type": "string"
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "PT",
+                ""
+              ]
+            }
           },
           {
             "name": "GeoCode",
@@ -2249,8 +2611,14 @@
             }
           },
           {
-            "name": "Series",
-            "type": "string"
+            "name": "SERIES",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "ER_OAW_MNACD",
+                ""
+              ]
+            }
           },
           {
             "name": "REF_AREA",
@@ -2262,8 +2630,14 @@
             }
           },
           {
-            "name": "Units",
-            "type": "string"
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "PT",
+                ""
+              ]
+            }
           },
           {
             "name": "GeoCode",
@@ -2322,8 +2696,14 @@
             }
           },
           {
-            "name": "Series",
-            "type": "string"
+            "name": "SERIES",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "ER_REG_SSFRAR",
+                ""
+              ]
+            }
           },
           {
             "name": "REF_AREA",
@@ -2335,8 +2715,14 @@
             }
           },
           {
-            "name": "Units",
-            "type": "string"
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "BOOL",
+                ""
+              ]
+            }
           },
           {
             "name": "GeoCode",
@@ -2395,8 +2781,15 @@
             }
           },
           {
-            "name": "Series",
-            "type": "string"
+            "name": "SERIES",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "FB_ATM_TOTL",
+                "FB_CBK_BRCH",
+                ""
+              ]
+            }
           },
           {
             "name": "REF_AREA",
@@ -2408,8 +2801,14 @@
             }
           },
           {
-            "name": "Units",
-            "type": "string"
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "PT",
+                ""
+              ]
+            }
           },
           {
             "name": "GeoCode",
@@ -2468,8 +2867,14 @@
             }
           },
           {
-            "name": "Series",
-            "type": "string"
+            "name": "SERIES",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "FB_BNK_ACCSS",
+                ""
+              ]
+            }
           },
           {
             "name": "REF_AREA",
@@ -2491,8 +2896,14 @@
             }
           },
           {
-            "name": "Units",
-            "type": "string"
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "PT",
+                ""
+              ]
+            }
           },
           {
             "name": "GeoCode",
@@ -2551,8 +2962,14 @@
             }
           },
           {
-            "name": "Series",
-            "type": "string"
+            "name": "SERIES",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "FC_ACC_SSID",
+                ""
+              ]
+            }
           },
           {
             "name": "REF_AREA",
@@ -2564,8 +2981,14 @@
             }
           },
           {
-            "name": "Units",
-            "type": "string"
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "PT",
+                ""
+              ]
+            }
           },
           {
             "name": "GeoCode",
@@ -2624,8 +3047,14 @@
             }
           },
           {
-            "name": "Series",
-            "type": "string"
+            "name": "SERIES",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "GC_GOB_TAXD",
+                ""
+              ]
+            }
           },
           {
             "name": "REF_AREA",
@@ -2637,8 +3066,14 @@
             }
           },
           {
-            "name": "Units",
-            "type": "string"
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "PT",
+                ""
+              ]
+            }
           },
           {
             "name": "GeoCode",
@@ -2697,8 +3132,14 @@
             }
           },
           {
-            "name": "Series",
-            "type": "string"
+            "name": "SERIES",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "GF_FRN_FDI",
+                ""
+              ]
+            }
           },
           {
             "name": "REF_AREA",
@@ -2710,8 +3151,14 @@
             }
           },
           {
-            "name": "Units",
-            "type": "string"
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "PT",
+                ""
+              ]
+            }
           },
           {
             "name": "GeoCode",
@@ -2770,8 +3217,14 @@
             }
           },
           {
-            "name": "Series",
-            "type": "string"
+            "name": "SERIES",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "GR_G14_GDP",
+                ""
+              ]
+            }
           },
           {
             "name": "REF_AREA",
@@ -2783,8 +3236,14 @@
             }
           },
           {
-            "name": "Units",
-            "type": "string"
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "PT",
+                ""
+              ]
+            }
           },
           {
             "name": "GeoCode",
@@ -2843,8 +3302,14 @@
             }
           },
           {
-            "name": "Series",
-            "type": "string"
+            "name": "SERIES",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "IC_GEN_MGTL_19ICLS",
+                ""
+              ]
+            }
           },
           {
             "name": "REF_AREA",
@@ -2866,8 +3331,14 @@
             }
           },
           {
-            "name": "Units",
-            "type": "string"
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "PT",
+                ""
+              ]
+            }
           },
           {
             "name": "GeoCode",
@@ -2926,8 +3397,14 @@
             }
           },
           {
-            "name": "Series",
-            "type": "string"
+            "name": "SERIES",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "IS_RDP_FRGVOL",
+                ""
+              ]
+            }
           },
           {
             "name": "REF_AREA",
@@ -2939,8 +3416,14 @@
             }
           },
           {
-            "name": "Units",
-            "type": "string"
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "T_KM",
+                ""
+              ]
+            }
           },
           {
             "name": "GeoCode",
@@ -2999,8 +3482,14 @@
             }
           },
           {
-            "name": "Series",
-            "type": "string"
+            "name": "SERIES",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "IT_MOB_2GNTWK",
+                ""
+              ]
+            }
           },
           {
             "name": "REF_AREA",
@@ -3012,8 +3501,14 @@
             }
           },
           {
-            "name": "Units",
-            "type": "string"
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "PT",
+                ""
+              ]
+            }
           },
           {
             "name": "GeoCode",
@@ -3073,8 +3568,14 @@
             }
           },
           {
-            "name": "Series",
-            "type": "string"
+            "name": "SERIES",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "IT_MOB_OWN",
+                ""
+              ]
+            }
           },
           {
             "name": "REF_AREA",
@@ -3097,8 +3598,14 @@
             }
           },
           {
-            "name": "Units",
-            "type": "string"
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "PT",
+                ""
+              ]
+            }
           },
           {
             "name": "GeoCode",
@@ -3158,8 +3665,14 @@
             }
           },
           {
-            "name": "Series",
-            "type": "string"
+            "name": "SERIES",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "IT_USE_II99",
+                ""
+              ]
+            }
           },
           {
             "name": "REF_AREA",
@@ -3191,8 +3704,14 @@
             }
           },
           {
-            "name": "Units",
-            "type": "string"
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "PT",
+                ""
+              ]
+            }
           },
           {
             "name": "GeoCode",
@@ -3251,8 +3770,14 @@
             }
           },
           {
-            "name": "Series",
-            "type": "string"
+            "name": "SERIES",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "NV_IND_MANF",
+                ""
+              ]
+            }
           },
           {
             "name": "REF_AREA",
@@ -3264,8 +3789,14 @@
             }
           },
           {
-            "name": "Units",
-            "type": "string"
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "PT",
+                ""
+              ]
+            }
           },
           {
             "name": "GeoCode",
@@ -3324,8 +3855,14 @@
             }
           },
           {
-            "name": "Series",
-            "type": "string"
+            "name": "SERIES",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "NV_IND_SSIS",
+                ""
+              ]
+            }
           },
           {
             "name": "REF_AREA",
@@ -3337,8 +3874,14 @@
             }
           },
           {
-            "name": "Units",
-            "type": "string"
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "PT",
+                ""
+              ]
+            }
           },
           {
             "name": "GeoCode",
@@ -3397,8 +3940,14 @@
             }
           },
           {
-            "name": "Series",
-            "type": "string"
+            "name": "SERIES",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "NY_GDP_PCAP",
+                ""
+              ]
+            }
           },
           {
             "name": "REF_AREA",
@@ -3410,8 +3959,14 @@
             }
           },
           {
-            "name": "Units",
-            "type": "string"
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "PT",
+                ""
+              ]
+            }
           },
           {
             "name": "GeoCode",
@@ -3471,8 +4026,15 @@
             }
           },
           {
-            "name": "Series",
-            "type": "string"
+            "name": "SERIES",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "PD_AGR_LSFP",
+                "PD_AGR_SSFP",
+                ""
+              ]
+            }
           },
           {
             "name": "REF_AREA",
@@ -3484,8 +4046,14 @@
             }
           },
           {
-            "name": "Units",
-            "type": "string"
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "CON_USD",
+                ""
+              ]
+            }
           },
           {
             "name": "GeoCode",
@@ -3544,8 +4112,14 @@
             }
           },
           {
-            "name": "Series",
-            "type": "string"
+            "name": "SERIES",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "SD_XPD_ESED",
+                ""
+              ]
+            }
           },
           {
             "name": "REF_AREA",
@@ -3557,8 +4131,14 @@
             }
           },
           {
-            "name": "Units",
-            "type": "string"
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "PT",
+                ""
+              ]
+            }
           },
           {
             "name": "GeoCode",
@@ -3617,8 +4197,14 @@
             }
           },
           {
-            "name": "Series",
-            "type": "string"
+            "name": "SERIES",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "SD_XPD_MNPO",
+                ""
+              ]
+            }
           },
           {
             "name": "REF_AREA",
@@ -3630,8 +4216,14 @@
             }
           },
           {
-            "name": "Units",
-            "type": "string"
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "PT",
+                ""
+              ]
+            }
           },
           {
             "name": "GeoCode",
@@ -3690,8 +4282,14 @@
             }
           },
           {
-            "name": "Series",
-            "type": "string"
+            "name": "SERIES",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "SE_ADT_ACTS",
+                ""
+              ]
+            }
           },
           {
             "name": "REF_AREA",
@@ -3725,8 +4323,14 @@
             }
           },
           {
-            "name": "Units",
-            "type": "string"
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "PT",
+                ""
+              ]
+            }
           },
           {
             "name": "GeoCode",
@@ -3785,8 +4389,14 @@
             }
           },
           {
-            "name": "Series",
-            "type": "string"
+            "name": "SERIES",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "SE_ADT_EDUCTRN",
+                ""
+              ]
+            }
           },
           {
             "name": "REF_AREA",
@@ -3798,8 +4408,14 @@
             }
           },
           {
-            "name": "Units",
-            "type": "string"
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "PT",
+                ""
+              ]
+            }
           },
           {
             "name": "GeoCode",
@@ -3858,8 +4474,14 @@
             }
           },
           {
-            "name": "Series",
-            "type": "string"
+            "name": "SERIES",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "SE_ADT_FUNS",
+                ""
+              ]
+            }
           },
           {
             "name": "REF_AREA",
@@ -3871,8 +4493,14 @@
             }
           },
           {
-            "name": "Units",
-            "type": "string"
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "PT",
+                ""
+              ]
+            }
           },
           {
             "name": "GeoCode",
@@ -3931,8 +4559,14 @@
             }
           },
           {
-            "name": "Series",
-            "type": "string"
+            "name": "SERIES",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "SE_DEV_ONTRK",
+                ""
+              ]
+            }
           },
           {
             "name": "REF_AREA",
@@ -3954,8 +4588,14 @@
             }
           },
           {
-            "name": "Units",
-            "type": "string"
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "PT",
+                ""
+              ]
+            }
           },
           {
             "name": "GeoCode",
@@ -4014,8 +4654,14 @@
             }
           },
           {
-            "name": "Series",
-            "type": "string"
+            "name": "SERIES",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "SE_GCEDESD_NEP",
+                ""
+              ]
+            }
           },
           {
             "name": "REF_AREA",
@@ -4027,8 +4673,14 @@
             }
           },
           {
-            "name": "Units",
-            "type": "string"
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "PT",
+                ""
+              ]
+            }
           },
           {
             "name": "GeoCode",
@@ -4087,8 +4739,15 @@
             }
           },
           {
-            "name": "Series",
-            "type": "string"
+            "name": "SERIES",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "SE_GPI_PTNPRE",
+                "SE_LGP_ACHI",
+                ""
+              ]
+            }
           },
           {
             "name": "REF_AREA",
@@ -4100,8 +4759,14 @@
             }
           },
           {
-            "name": "Units",
-            "type": "string"
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "IX",
+                ""
+              ]
+            }
           },
           {
             "name": "GeoCode",
@@ -4161,8 +4826,14 @@
             }
           },
           {
-            "name": "Series",
-            "type": "string"
+            "name": "SERIES",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "SE_PRE_PARTN",
+                ""
+              ]
+            }
           },
           {
             "name": "REF_AREA",
@@ -4184,8 +4855,14 @@
             }
           },
           {
-            "name": "Units",
-            "type": "string"
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "PT",
+                ""
+              ]
+            }
           },
           {
             "name": "GeoCode",
@@ -4244,8 +4921,14 @@
             }
           },
           {
-            "name": "Series",
-            "type": "string"
+            "name": "SERIES",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "SE_TOT_PRFL",
+                ""
+              ]
+            }
           },
           {
             "name": "REF_AREA",
@@ -4257,8 +4940,14 @@
             }
           },
           {
-            "name": "Units",
-            "type": "string"
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "PT",
+                ""
+              ]
+            }
           },
           {
             "name": "GeoCode",
@@ -4319,8 +5008,14 @@
             }
           },
           {
-            "name": "Series",
-            "type": "string"
+            "name": "SERIES",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "SE_TRA_GRDL",
+                ""
+              ]
+            }
           },
           {
             "name": "REF_AREA",
@@ -4344,8 +5039,14 @@
             }
           },
           {
-            "name": "Units",
-            "type": "string"
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "PT",
+                ""
+              ]
+            }
           },
           {
             "name": "GeoCode",
@@ -4404,8 +5105,14 @@
             }
           },
           {
-            "name": "Series",
-            "type": "string"
+            "name": "SERIES",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "SG_CPA_MIGRS",
+                ""
+              ]
+            }
           },
           {
             "name": "REF_AREA",
@@ -4417,8 +5124,14 @@
             }
           },
           {
-            "name": "Units",
-            "type": "string"
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "BOOL",
+                ""
+              ]
+            }
           },
           {
             "name": "GeoCode",
@@ -4477,8 +5190,14 @@
             }
           },
           {
-            "name": "Series",
-            "type": "string"
+            "name": "SERIES",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "SG_DSR_LEGREG",
+                ""
+              ]
+            }
           },
           {
             "name": "REF_AREA",
@@ -4490,8 +5209,14 @@
             }
           },
           {
-            "name": "Units",
-            "type": "string"
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "BOOL",
+                ""
+              ]
+            }
           },
           {
             "name": "GeoCode",
@@ -4550,8 +5275,14 @@
             }
           },
           {
-            "name": "Series",
-            "type": "string"
+            "name": "SERIES",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "SG_DSR_SILS",
+                ""
+              ]
+            }
           },
           {
             "name": "REF_AREA",
@@ -4563,8 +5294,14 @@
             }
           },
           {
-            "name": "Units",
-            "type": "string"
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "PT",
+                ""
+              ]
+            }
           },
           {
             "name": "GeoCode",
@@ -4624,8 +5361,14 @@
             }
           },
           {
-            "name": "Series",
-            "type": "string"
+            "name": "SERIES",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "SG_GEN_LOCGELS",
+                ""
+              ]
+            }
           },
           {
             "name": "REF_AREA",
@@ -4657,8 +5400,14 @@
             }
           },
           {
-            "name": "Units",
-            "type": "string"
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "PT",
+                ""
+              ]
+            }
           },
           {
             "name": "GeoCode",
@@ -4717,8 +5466,14 @@
             }
           },
           {
-            "name": "Series",
-            "type": "string"
+            "name": "SERIES",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "SG_INT_MBRDEV",
+                ""
+              ]
+            }
           },
           {
             "name": "REF_AREA",
@@ -4730,8 +5485,14 @@
             }
           },
           {
-            "name": "Units",
-            "type": "string"
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "PT",
+                ""
+              ]
+            }
           },
           {
             "name": "GeoCode",
@@ -4790,8 +5551,14 @@
             }
           },
           {
-            "name": "Series",
-            "type": "string"
+            "name": "SERIES",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "SG_REG_BRTH",
+                ""
+              ]
+            }
           },
           {
             "name": "REF_AREA",
@@ -4803,8 +5570,14 @@
             }
           },
           {
-            "name": "Units",
-            "type": "string"
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "PT",
+                ""
+              ]
+            }
           },
           {
             "name": "GeoCode",
@@ -4863,8 +5636,16 @@
             }
           },
           {
-            "name": "Series",
-            "type": "string"
+            "name": "SERIES",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "SH_ACS_DTP3",
+                "SH_ACS_MCV2",
+                "SH_ACS_PCV3",
+                ""
+              ]
+            }
           },
           {
             "name": "REF_AREA",
@@ -4876,8 +5657,14 @@
             }
           },
           {
-            "name": "Units",
-            "type": "string"
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "PT",
+                ""
+              ]
+            }
           },
           {
             "name": "GeoCode",
@@ -4936,8 +5723,14 @@
             }
           },
           {
-            "name": "Series",
-            "type": "string"
+            "name": "SERIES",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "SH_ACS_UNHC",
+                ""
+              ]
+            }
           },
           {
             "name": "REF_AREA",
@@ -4949,8 +5742,14 @@
             }
           },
           {
-            "name": "Units",
-            "type": "string"
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "IX",
+                ""
+              ]
+            }
           },
           {
             "name": "GeoCode",
@@ -5009,8 +5808,14 @@
             }
           },
           {
-            "name": "Series",
-            "type": "string"
+            "name": "SERIES",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "SH_DYN_MORT",
+                ""
+              ]
+            }
           },
           {
             "name": "REF_AREA",
@@ -5032,8 +5837,14 @@
             }
           },
           {
-            "name": "Units",
-            "type": "string"
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "PER_1000_LIVE_BIRTHS",
+                ""
+              ]
+            }
           },
           {
             "name": "GeoCode",
@@ -5092,8 +5903,14 @@
             }
           },
           {
-            "name": "Series",
-            "type": "string"
+            "name": "SERIES",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "SH_DYN_NMRT",
+                ""
+              ]
+            }
           },
           {
             "name": "REF_AREA",
@@ -5115,8 +5932,14 @@
             }
           },
           {
-            "name": "Units",
-            "type": "string"
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "PER_1000_LIVE_BIRTHS",
+                ""
+              ]
+            }
           },
           {
             "name": "GeoCode",
@@ -5175,8 +5998,14 @@
             }
           },
           {
-            "name": "Series",
-            "type": "string"
+            "name": "SERIES",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "SH_FPL_INFM",
+                ""
+              ]
+            }
           },
           {
             "name": "REF_AREA",
@@ -5208,8 +6037,14 @@
             }
           },
           {
-            "name": "Units",
-            "type": "string"
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "PT",
+                ""
+              ]
+            }
           },
           {
             "name": "GeoCode",
@@ -5268,8 +6103,14 @@
             }
           },
           {
-            "name": "Series",
-            "type": "string"
+            "name": "SERIES",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "SH_FPL_MTMM",
+                ""
+              ]
+            }
           },
           {
             "name": "REF_AREA",
@@ -5301,8 +6142,14 @@
             }
           },
           {
-            "name": "Units",
-            "type": "string"
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "PT",
+                ""
+              ]
+            }
           },
           {
             "name": "GeoCode",
@@ -5361,8 +6208,14 @@
             }
           },
           {
-            "name": "Series",
-            "type": "string"
+            "name": "SERIES",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "SH_H2O_SAFE",
+                ""
+              ]
+            }
           },
           {
             "name": "REF_AREA",
@@ -5374,8 +6227,14 @@
             }
           },
           {
-            "name": "Units",
-            "type": "string"
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "PT",
+                ""
+              ]
+            }
           },
           {
             "name": "GeoCode",
@@ -5434,8 +6293,14 @@
             }
           },
           {
-            "name": "Series",
-            "type": "string"
+            "name": "SERIES",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "SH_HIV_INCD",
+                ""
+              ]
+            }
           },
           {
             "name": "REF_AREA",
@@ -5447,8 +6312,14 @@
             }
           },
           {
-            "name": "Units",
-            "type": "string"
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "PER_1000_UNINFECTED_POP",
+                ""
+              ]
+            }
           },
           {
             "name": "GeoCode",
@@ -5507,8 +6378,14 @@
             }
           },
           {
-            "name": "Series",
-            "type": "string"
+            "name": "SERIES",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "SH_HLF_EMED",
+                ""
+              ]
+            }
           },
           {
             "name": "REF_AREA",
@@ -5520,8 +6397,14 @@
             }
           },
           {
-            "name": "Units",
-            "type": "string"
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "PT",
+                ""
+              ]
+            }
           },
           {
             "name": "GeoCode",
@@ -5580,8 +6463,14 @@
             }
           },
           {
-            "name": "Series",
-            "type": "string"
+            "name": "SERIES",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "SH_IHR_CAPS",
+                ""
+              ]
+            }
           },
           {
             "name": "REF_AREA",
@@ -5593,8 +6482,14 @@
             }
           },
           {
-            "name": "Units",
-            "type": "string"
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "PT",
+                ""
+              ]
+            }
           },
           {
             "name": "GeoCode",
@@ -5653,8 +6548,14 @@
             }
           },
           {
-            "name": "Series",
-            "type": "string"
+            "name": "SERIES",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "SH_SAN_DEFECT",
+                ""
+              ]
+            }
           },
           {
             "name": "REF_AREA",
@@ -5666,8 +6567,14 @@
             }
           },
           {
-            "name": "Units",
-            "type": "string"
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "PT",
+                ""
+              ]
+            }
           },
           {
             "name": "GeoCode",
@@ -5726,8 +6633,14 @@
             }
           },
           {
-            "name": "Series",
-            "type": "string"
+            "name": "SERIES",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "SH_STA_BRTC",
+                ""
+              ]
+            }
           },
           {
             "name": "REF_AREA",
@@ -5739,8 +6652,14 @@
             }
           },
           {
-            "name": "Units",
-            "type": "string"
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "PT",
+                ""
+              ]
+            }
           },
           {
             "name": "GeoCode",
@@ -5799,8 +6718,14 @@
             }
           },
           {
-            "name": "Series",
-            "type": "string"
+            "name": "SERIES",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "SH_STA_MALR",
+                ""
+              ]
+            }
           },
           {
             "name": "REF_AREA",
@@ -5812,8 +6737,14 @@
             }
           },
           {
-            "name": "Units",
-            "type": "string"
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "PER_1000_POP",
+                ""
+              ]
+            }
           },
           {
             "name": "GeoCode",
@@ -5872,8 +6803,14 @@
             }
           },
           {
-            "name": "Series",
-            "type": "string"
+            "name": "SERIES",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "SH_STA_MORT",
+                ""
+              ]
+            }
           },
           {
             "name": "REF_AREA",
@@ -5895,8 +6832,14 @@
             }
           },
           {
-            "name": "Units",
-            "type": "string"
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "PER_1000_LIVE_BIRTHS",
+                ""
+              ]
+            }
           },
           {
             "name": "GeoCode",
@@ -5955,8 +6898,14 @@
             }
           },
           {
-            "name": "Series",
-            "type": "string"
+            "name": "SERIES",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "SH_STA_STNT",
+                ""
+              ]
+            }
           },
           {
             "name": "REF_AREA",
@@ -5968,8 +6917,14 @@
             }
           },
           {
-            "name": "Units",
-            "type": "string"
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "PT",
+                ""
+              ]
+            }
           },
           {
             "name": "GeoCode",
@@ -6028,8 +6983,14 @@
             }
           },
           {
-            "name": "Series",
-            "type": "string"
+            "name": "SERIES",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "SH_STA_TRAF",
+                ""
+              ]
+            }
           },
           {
             "name": "REF_AREA",
@@ -6041,8 +7002,14 @@
             }
           },
           {
-            "name": "Units",
-            "type": "string"
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "PER_100000_POP",
+                ""
+              ]
+            }
           },
           {
             "name": "GeoCode",
@@ -6101,8 +7068,14 @@
             }
           },
           {
-            "name": "Series",
-            "type": "string"
+            "name": "SERIES",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "SH_STA_WAST",
+                ""
+              ]
+            }
           },
           {
             "name": "REF_AREA",
@@ -6114,8 +7087,14 @@
             }
           },
           {
-            "name": "Units",
-            "type": "string"
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "PT",
+                ""
+              ]
+            }
           },
           {
             "name": "GeoCode",
@@ -6174,8 +7153,14 @@
             }
           },
           {
-            "name": "Series",
-            "type": "string"
+            "name": "SERIES",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "SH_SUD_TREAT",
+                ""
+              ]
+            }
           },
           {
             "name": "REF_AREA",
@@ -6187,8 +7172,14 @@
             }
           },
           {
-            "name": "Units",
-            "type": "string"
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "NUMBER",
+                ""
+              ]
+            }
           },
           {
             "name": "GeoCode",
@@ -6247,8 +7238,14 @@
             }
           },
           {
-            "name": "Series",
-            "type": "string"
+            "name": "SERIES",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "SH_TBS_INCD",
+                ""
+              ]
+            }
           },
           {
             "name": "REF_AREA",
@@ -6260,8 +7257,14 @@
             }
           },
           {
-            "name": "Units",
-            "type": "string"
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "PER_100000_POP",
+                ""
+              ]
+            }
           },
           {
             "name": "GeoCode",
@@ -6320,8 +7323,14 @@
             }
           },
           {
-            "name": "Series",
-            "type": "string"
+            "name": "SERIES",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "SI_COV_BENFTS",
+                ""
+              ]
+            }
           },
           {
             "name": "REF_AREA",
@@ -6333,8 +7342,14 @@
             }
           },
           {
-            "name": "Units",
-            "type": "string"
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "PT",
+                ""
+              ]
+            }
           },
           {
             "name": "GeoCode",
@@ -6393,8 +7408,14 @@
             }
           },
           {
-            "name": "Series",
-            "type": "string"
+            "name": "SERIES",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "SI_POV_DAY1",
+                ""
+              ]
+            }
           },
           {
             "name": "REF_AREA",
@@ -6416,8 +7437,14 @@
             }
           },
           {
-            "name": "Units",
-            "type": "string"
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "PT",
+                ""
+              ]
+            }
           },
           {
             "name": "GeoCode",
@@ -6476,8 +7503,14 @@
             }
           },
           {
-            "name": "Series",
-            "type": "string"
+            "name": "SERIES",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "SI_POV_NAHC",
+                ""
+              ]
+            }
           },
           {
             "name": "REF_AREA",
@@ -6500,8 +7533,14 @@
             }
           },
           {
-            "name": "Units",
-            "type": "string"
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "PT",
+                ""
+              ]
+            }
           },
           {
             "name": "GeoCode",
@@ -6560,8 +7599,14 @@
             }
           },
           {
-            "name": "Series",
-            "type": "string"
+            "name": "SERIES",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "SL_CPA_YEMP",
+                ""
+              ]
+            }
           },
           {
             "name": "REF_AREA",
@@ -6573,8 +7618,14 @@
             }
           },
           {
-            "name": "Units",
-            "type": "string"
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "BOOL",
+                ""
+              ]
+            }
           },
           {
             "name": "GeoCode",
@@ -6633,8 +7684,14 @@
             }
           },
           {
-            "name": "Series",
-            "type": "string"
+            "name": "SERIES",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "SL_EMP_FTLINJUR",
+                ""
+              ]
+            }
           },
           {
             "name": "REF_AREA",
@@ -6646,8 +7703,14 @@
             }
           },
           {
-            "name": "Units",
-            "type": "string"
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "PT",
+                ""
+              ]
+            }
           },
           {
             "name": "GeoCode",
@@ -6706,8 +7769,14 @@
             }
           },
           {
-            "name": "Series",
-            "type": "string"
+            "name": "SERIES",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "SL_EMP_GTOTL",
+                ""
+              ]
+            }
           },
           {
             "name": "REF_AREA",
@@ -6719,8 +7788,14 @@
             }
           },
           {
-            "name": "Units",
-            "type": "string"
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "PT",
+                ""
+              ]
+            }
           },
           {
             "name": "GeoCode",
@@ -6779,8 +7854,14 @@
             }
           },
           {
-            "name": "Series",
-            "type": "string"
+            "name": "SERIES",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "SL_EMP_PCAP",
+                ""
+              ]
+            }
           },
           {
             "name": "REF_AREA",
@@ -6792,8 +7873,14 @@
             }
           },
           {
-            "name": "Units",
-            "type": "string"
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "PT",
+                ""
+              ]
+            }
           },
           {
             "name": "GeoCode",
@@ -6852,8 +7939,14 @@
             }
           },
           {
-            "name": "Series",
-            "type": "string"
+            "name": "SERIES",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "SL_TLF_CHLDEC",
+                ""
+              ]
+            }
           },
           {
             "name": "REF_AREA",
@@ -6875,8 +7968,14 @@
             }
           },
           {
-            "name": "Units",
-            "type": "string"
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "PT",
+                ""
+              ]
+            }
           },
           {
             "name": "GeoCode",
@@ -6935,8 +8034,14 @@
             }
           },
           {
-            "name": "Series",
-            "type": "string"
+            "name": "SERIES",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "SL_TLF_MANF_19ICLS",
+                ""
+              ]
+            }
           },
           {
             "name": "REF_AREA",
@@ -6948,8 +8053,14 @@
             }
           },
           {
-            "name": "Units",
-            "type": "string"
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "PT",
+                ""
+              ]
+            }
           },
           {
             "name": "GeoCode",
@@ -7009,8 +8120,14 @@
             }
           },
           {
-            "name": "Series",
-            "type": "string"
+            "name": "SERIES",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "SL_TLF_NEET_19ICLS",
+                ""
+              ]
+            }
           },
           {
             "name": "REF_AREA",
@@ -7053,8 +8170,14 @@
             }
           },
           {
-            "name": "Units",
-            "type": "string"
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "PT",
+                ""
+              ]
+            }
           },
           {
             "name": "GeoCode",
@@ -7113,8 +8236,14 @@
             }
           },
           {
-            "name": "Series",
-            "type": "string"
+            "name": "SERIES",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "SL_TLF_UEMDIS_19ICLS",
+                ""
+              ]
+            }
           },
           {
             "name": "REF_AREA",
@@ -7147,8 +8276,14 @@
             }
           },
           {
-            "name": "Units",
-            "type": "string"
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "PT",
+                ""
+              ]
+            }
           },
           {
             "name": "GeoCode",
@@ -7207,8 +8342,14 @@
             }
           },
           {
-            "name": "Series",
-            "type": "string"
+            "name": "SERIES",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "SM_POP_REFG_OR",
+                ""
+              ]
+            }
           },
           {
             "name": "REF_AREA",
@@ -7220,8 +8361,14 @@
             }
           },
           {
-            "name": "Units",
-            "type": "string"
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "PT",
+                ""
+              ]
+            }
           },
           {
             "name": "GeoCode",
@@ -7280,8 +8427,14 @@
             }
           },
           {
-            "name": "Series",
-            "type": "string"
+            "name": "SERIES",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "SP_ACS_BSRV",
+                ""
+              ]
+            }
           },
           {
             "name": "REF_AREA",
@@ -7293,8 +8446,14 @@
             }
           },
           {
-            "name": "Units",
-            "type": "string"
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "PT",
+                ""
+              ]
+            }
           },
           {
             "name": "GeoCode",
@@ -7353,8 +8512,14 @@
             }
           },
           {
-            "name": "Series",
-            "type": "string"
+            "name": "SERIES",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "SP_DYN_ADKL",
+                ""
+              ]
+            }
           },
           {
             "name": "REF_AREA",
@@ -7386,8 +8551,14 @@
             }
           },
           {
-            "name": "Units",
-            "type": "string"
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "PER_1000_POP",
+                ""
+              ]
+            }
           },
           {
             "name": "GeoCode",
@@ -7446,8 +8617,14 @@
             }
           },
           {
-            "name": "Series",
-            "type": "string"
+            "name": "SERIES",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "SP_LGL_LNDAGSEC",
+                ""
+              ]
+            }
           },
           {
             "name": "REF_AREA",
@@ -7459,8 +8636,14 @@
             }
           },
           {
-            "name": "Units",
-            "type": "string"
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "PT",
+                ""
+              ]
+            }
           },
           {
             "name": "GeoCode",
@@ -7519,8 +8702,14 @@
             }
           },
           {
-            "name": "Series",
-            "type": "string"
+            "name": "SERIES",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "ST_EMP_TRSMN",
+                ""
+              ]
+            }
           },
           {
             "name": "REF_AREA",
@@ -7532,8 +8721,14 @@
             }
           },
           {
-            "name": "Units",
-            "type": "string"
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "PT",
+                ""
+              ]
+            }
           },
           {
             "name": "GeoCode",
@@ -7592,8 +8787,14 @@
             }
           },
           {
-            "name": "Series",
-            "type": "string"
+            "name": "SERIES",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "ST_GDP_ZS",
+                ""
+              ]
+            }
           },
           {
             "name": "REF_AREA",
@@ -7605,8 +8806,14 @@
             }
           },
           {
-            "name": "Units",
-            "type": "string"
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "PT",
+                ""
+              ]
+            }
           },
           {
             "name": "GeoCode",
@@ -7665,8 +8872,14 @@
             }
           },
           {
-            "name": "Series",
-            "type": "string"
+            "name": "SERIES",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "VC_DSR_MISS",
+                ""
+              ]
+            }
           },
           {
             "name": "REF_AREA",
@@ -7678,8 +8891,14 @@
             }
           },
           {
-            "name": "Units",
-            "type": "string"
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "PER_100000_POP",
+                ""
+              ]
+            }
           },
           {
             "name": "GeoCode",
@@ -7738,8 +8957,14 @@
             }
           },
           {
-            "name": "Series",
-            "type": "string"
+            "name": "SERIES",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "VC_IHR_PSRC",
+                ""
+              ]
+            }
           },
           {
             "name": "REF_AREA",
@@ -7751,8 +8976,14 @@
             }
           },
           {
-            "name": "Units",
-            "type": "string"
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "PER_100000_POP",
+                ""
+              ]
+            }
           },
           {
             "name": "GeoCode",
@@ -7812,8 +9043,14 @@
             }
           },
           {
-            "name": "Series",
-            "type": "string"
+            "name": "SERIES",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "VC_PRR_ROBB",
+                ""
+              ]
+            }
           },
           {
             "name": "REF_AREA",
@@ -7836,8 +9073,14 @@
             }
           },
           {
-            "name": "Units",
-            "type": "string"
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "PT",
+                ""
+              ]
+            }
           },
           {
             "name": "GeoCode",
@@ -7896,8 +9139,14 @@
             }
           },
           {
-            "name": "Series",
-            "type": "string"
+            "name": "SERIES",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "VC_SNS_WALN",
+                ""
+              ]
+            }
           },
           {
             "name": "REF_AREA",
@@ -7920,8 +9169,14 @@
             }
           },
           {
-            "name": "Units",
-            "type": "string"
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "PT",
+                ""
+              ]
+            }
           },
           {
             "name": "GeoCode",
@@ -7980,8 +9235,14 @@
             }
           },
           {
-            "name": "Series",
-            "type": "string"
+            "name": "SERIES",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "VC_VAW_DIST",
+                ""
+              ]
+            }
           },
           {
             "name": "REF_AREA",
@@ -7993,8 +9254,14 @@
             }
           },
           {
-            "name": "Units",
-            "type": "string"
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "PT",
+                ""
+              ]
+            }
           },
           {
             "name": "GeoCode",
@@ -8053,8 +9320,14 @@
             }
           },
           {
-            "name": "Series",
-            "type": "string"
+            "name": "SERIES",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "VC_VAW_MARR",
+                ""
+              ]
+            }
           },
           {
             "name": "REF_AREA",
@@ -8086,8 +9359,14 @@
             }
           },
           {
-            "name": "Units",
-            "type": "string"
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "PT",
+                ""
+              ]
+            }
           },
           {
             "name": "GeoCode",
@@ -8146,8 +9425,14 @@
             }
           },
           {
-            "name": "Series",
-            "type": "string"
+            "name": "SERIES",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "VC_VAW_PHYPYV",
+                ""
+              ]
+            }
           },
           {
             "name": "REF_AREA",
@@ -8159,8 +9444,14 @@
             }
           },
           {
-            "name": "Units",
-            "type": "string"
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "PT",
+                ""
+              ]
+            }
           },
           {
             "name": "GeoCode",
@@ -8219,8 +9510,14 @@
             }
           },
           {
-            "name": "Series",
-            "type": "string"
+            "name": "SERIES",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "VC_VOH_SXPH",
+                ""
+              ]
+            }
           },
           {
             "name": "REF_AREA",
@@ -8232,8 +9529,14 @@
             }
           },
           {
-            "name": "Units",
-            "type": "string"
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "PT",
+                ""
+              ]
+            }
           },
           {
             "name": "GeoCode",
@@ -8292,8 +9595,14 @@
             }
           },
           {
-            "name": "Series",
-            "type": "string"
+            "name": "SERIES",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "VC_VOV_DCMN",
+                ""
+              ]
+            }
           },
           {
             "name": "REF_AREA",
@@ -8316,8 +9625,14 @@
             }
           },
           {
-            "name": "Units",
-            "type": "string"
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "PT",
+                ""
+              ]
+            }
           },
           {
             "name": "GeoCode",
@@ -8376,8 +9691,14 @@
             }
           },
           {
-            "name": "Series",
-            "type": "string"
+            "name": "SERIES",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "VC_VOV_PHYL",
+                ""
+              ]
+            }
           },
           {
             "name": "REF_AREA",
@@ -8389,8 +9710,14 @@
             }
           },
           {
-            "name": "Units",
-            "type": "string"
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "PT",
+                ""
+              ]
+            }
           },
           {
             "name": "GeoCode",

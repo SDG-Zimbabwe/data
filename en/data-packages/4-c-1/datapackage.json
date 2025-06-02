@@ -51,9 +51,15 @@
             "title": "Source details"
           },
           {
-            "name": "Series",
+            "name": "SERIES",
             "type": "string",
-            "title": "Series"
+            "constraints": {
+              "enum": [
+                "Proportion of teachers with the minimum required qualifications, by education level and sex [4.c.1]",
+                ""
+              ]
+            },
+            "title": "SDG Series"
           },
           {
             "name": "REF_AREA",
@@ -79,9 +85,15 @@
             "title": "Education level"
           },
           {
-            "name": "Units",
+            "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "Units"
+            "constraints": {
+              "enum": [
+                "Percent",
+                ""
+              ]
+            },
+            "title": "Unit of measure"
           },
           {
             "name": "GeoCode",

@@ -7,7 +7,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8",
+      "encoding": "cp1252",
       "schema": {
         "fields": [
           {
@@ -49,9 +49,15 @@
             "title": "Source details"
           },
           {
-            "name": "Series",
+            "name": "SERIES",
             "type": "string",
-            "title": "Series"
+            "constraints": {
+              "enum": [
+                "Total greenhouse gas emissions without LULUCF for non-Annex I Parties (CO₂ equivalent) [13.2.2]",
+                ""
+              ]
+            },
+            "title": "SDG Series"
           },
           {
             "name": "REF_AREA",
@@ -64,9 +70,15 @@
             "title": "Reference area"
           },
           {
-            "name": "Units",
+            "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "Units"
+            "constraints": {
+              "enum": [
+                "Percent",
+                ""
+              ]
+            },
+            "title": "Unit of measure"
           },
           {
             "name": "GeoCode",

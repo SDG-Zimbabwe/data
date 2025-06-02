@@ -1,5 +1,5 @@
-Year,Observation status,Unit multiplier,Source details,Series,Reference area,Units,GeoCode,Value
-2019,Normal value,Units,UNICEF_and_Ministry_reports,SH_H2O_SAFE,,PT,,77.1
-2022,Normal value,Units,UNICEF_and_Ministry_reports,SH_H2O_SAFE,,PT,,77.8
-2023,Normal value,Units,UNICEF_and_Ministry_reports,SH_H2O_SAFE,,PT,,78.7
-2024,Normal value,Units,UNICEF_and_Ministry_reports,SH_H2O_SAFE,,PT,,34.0
+Year,Observation status,Unit multiplier,Source details,SERIES,Reference area,UNIT_MEASURE,GeoCode,Value
+2019,Normal value,Units,UNICEF_and_Ministry_reports,Proportion of population using safely managed drinking water services [6.1.1],,Percent,,77.1
+2022,Normal value,Units,UNICEF_and_Ministry_reports,Proportion of population using safely managed drinking water services [6.1.1],,Percent,,77.8
+2023,Normal value,Units,UNICEF_and_Ministry_reports,Proportion of population using safely managed drinking water services [6.1.1],,Percent,,78.7
+2024,Normal value,Units,UNICEF_and_Ministry_reports,Proportion of population using safely managed drinking water services [6.1.1],,Percent,,34.0

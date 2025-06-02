@@ -47,8 +47,14 @@
             }
           },
           {
-            "name": "Series",
-            "type": "string"
+            "name": "SERIES",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "SE_TRA_GRDL",
+                ""
+              ]
+            }
           },
           {
             "name": "REF_AREA",
@@ -72,8 +78,14 @@
             }
           },
           {
-            "name": "Units",
-            "type": "string"
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "PT",
+                ""
+              ]
+            }
           },
           {
             "name": "GeoCode",

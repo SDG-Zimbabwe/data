@@ -1,1 +1,1 @@
-{"data":{"Year":[2020],"OBS_STATUS":["A"],"UNIT_MULT":["0"],"SOURCE_DETAIL":["FAO_Aquastats_survey_2020"],"Series":["ER_H2O_WUEYST"],"REF_AREA":[null],"Units":["PT"],"GeoCode":[null],"Value":[4.37]},"edges":{"From":["OBS_STATUS","UNIT_MULT"],"To":["UNIT_MULT","SOURCE_DETAIL"]}}
+{"data":{"Year":[2020],"OBS_STATUS":["A"],"UNIT_MULT":["0"],"SOURCE_DETAIL":["FAO_Aquastats_survey_2020"],"SERIES":["ER_H2O_WUEYST"],"REF_AREA":[null],"UNIT_MEASURE":["PT"],"GeoCode":[null],"Value":[4.37]},"edges":{"From":["OBS_STATUS","UNIT_MULT"],"To":["UNIT_MULT","SOURCE_DETAIL"]}}

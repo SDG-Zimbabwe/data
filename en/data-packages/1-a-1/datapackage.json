@@ -49,9 +49,15 @@
             "title": "Source details"
           },
           {
-            "name": "Series",
+            "name": "SERIES",
             "type": "string",
-            "title": "Series"
+            "constraints": {
+              "enum": [
+                "Official development assistance grants for poverty reduction (percentage of GNI) [1.a.1]",
+                ""
+              ]
+            },
+            "title": "SDG Series"
           },
           {
             "name": "REF_AREA",
@@ -64,9 +70,15 @@
             "title": "Reference area"
           },
           {
-            "name": "Units",
+            "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "Units"
+            "constraints": {
+              "enum": [
+                "Number",
+                ""
+              ]
+            },
+            "title": "Unit of measure"
           },
           {
             "name": "GeoCode",

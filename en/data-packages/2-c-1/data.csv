@@ -1,5 +1,5 @@
-Year,Observation status,Unit multiplier,Source details,Series,Reference area,Units,GeoCode,Value
-2018,Normal value,Units,ZIMSTAT_Prices_Department,AG_FPA_COMM,,PT,,14.848767279016856
-2019,Normal value,Units,ZIMSTAT_Prices_Department,AG_FPA_COMM,,PT,,356.3626491087545
-2020,Normal value,Units,ZIMSTAT_Prices_Department,AG_FPA_COMM,,PT,,601.0040849131195
-2021,Normal value,Units,ZIMSTAT_Prices_Department,AG_FPA_COMM,,PT,,105.7989077004689
+Year,Observation status,Unit multiplier,Source details,SERIES,Reference area,UNIT_MEASURE,GeoCode,Value
+2018,Normal value,Units,ZIMSTAT_Prices_Department,Indicator of Food Price Anomalies (IFPA) [2.c.1],,Percent,,14.848767279016856
+2019,Normal value,Units,ZIMSTAT_Prices_Department,Indicator of Food Price Anomalies (IFPA) [2.c.1],,Percent,,356.3626491087545
+2020,Normal value,Units,ZIMSTAT_Prices_Department,Indicator of Food Price Anomalies (IFPA) [2.c.1],,Percent,,601.0040849131195
+2021,Normal value,Units,ZIMSTAT_Prices_Department,Indicator of Food Price Anomalies (IFPA) [2.c.1],,Percent,,105.7989077004689

@@ -46,8 +46,15 @@
             }
           },
           {
-            "name": "Series",
-            "type": "string"
+            "name": "SERIES",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "PD_AGR_LSFP",
+                "PD_AGR_SSFP",
+                ""
+              ]
+            }
           },
           {
             "name": "REF_AREA",
@@ -59,8 +66,14 @@
             }
           },
           {
-            "name": "Units",
-            "type": "string"
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "CON_USD",
+                ""
+              ]
+            }
           },
           {
             "name": "GeoCode",

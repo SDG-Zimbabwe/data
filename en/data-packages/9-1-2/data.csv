@@ -1,2 +1,2 @@
-Year,Observation status,Unit multiplier,Source details,Series,Reference area,Units,GeoCode,Value
-2015,Normal value,Units,CAAZ,IS_RDP_FRGVOL,,T_KM,,13383
+Year,Observation status,Unit multiplier,Source details,SERIES,Reference area,UNIT_MEASURE,GeoCode,Value
+2015,Normal value,Units,CAAZ,Freight volume (tonne kilometres) [9.1.2],,Tonne kilometres,,13383

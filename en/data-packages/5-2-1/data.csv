@@ -1,4 +1,4 @@
-Year,Observation status,Unit multiplier,Source details,Series,Reference area,Sex,Age,Units,GeoCode,Value
-2015,Normal value,Units,ZIMSTAT,VC_VAW_MARR,,Female,15 years old and over,PT,,15.0
-2019,Normal value,Units,ZIMSTAT,VC_VAW_MARR,,Female,15 years old and over,PT,,5.5
-2023,Normal value,Units,ZIMSTAT,VC_VAW_MARR,,Female,15 years old and over,PT,,39.0
+Year,Observation status,Unit multiplier,Source details,SERIES,Reference area,Sex,Age,UNIT_MEASURE,GeoCode,Value
+2015,Normal value,Units,ZIMSTAT,Proportion of ever-partnered women and girls subjected to physical and/or sexual violence by a current or former intimate partner in the previous 12 months [5.2.1],,Female,15 years old and over,Percent,,15.0
+2019,Normal value,Units,ZIMSTAT,Proportion of ever-partnered women and girls subjected to physical and/or sexual violence by a current or former intimate partner in the previous 12 months [5.2.1],,Female,15 years old and over,Percent,,5.5
+2023,Normal value,Units,ZIMSTAT,Proportion of ever-partnered women and girls subjected to physical and/or sexual violence by a current or former intimate partner in the previous 12 months [5.2.1],,Female,15 years old and over,Percent,,39.0

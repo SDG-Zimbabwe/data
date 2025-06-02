@@ -1,2 +1,2 @@
-Year,Observation status,Unit multiplier,Source details,Series,Reference area,Units,GeoCode,Value
-2020,Normal value,Units,Min_of_Agric,EG_TBA_H2CO,,PT,,69.9
+Year,Observation status,Unit multiplier,Source details,SERIES,Reference area,UNIT_MEASURE,GeoCode,Value
+2020,Normal value,Units,Min_of_Agric,Proportion of transboundary basins (river and lake basins and aquifers) with an operational arrangement for water cooperation [6.5.2],,Percent,,69.9

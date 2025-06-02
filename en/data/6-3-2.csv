@@ -1,2 +1,2 @@
-Year,Observation status,Unit multiplier,Source details,Series,Reference area,Units,GeoCode,Value
-2023,Normal value,Units,EMA_2023,EN_H2O_WBAMBQ,,PT,,75
+Year,Observation status,Unit multiplier,Source details,SERIES,Reference area,UNIT_MEASURE,GeoCode,Value
+2023,Normal value,Units,EMA_2023,Proportion of bodies of water with good ambient water quality [6.3.2],,Percent,,75

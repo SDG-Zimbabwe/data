@@ -49,9 +49,16 @@
             "title": "Source details"
           },
           {
-            "name": "Series",
+            "name": "SERIES",
             "type": "string",
-            "title": "Series"
+            "constraints": {
+              "enum": [
+                "Number of automated teller machines (ATMs) per 100,000 adults [8.10.1]",
+                "Number of commercial bank branches per 100,000 adults [8.10.1]",
+                ""
+              ]
+            },
+            "title": "SDG Series"
           },
           {
             "name": "REF_AREA",
@@ -64,9 +71,15 @@
             "title": "Reference area"
           },
           {
-            "name": "Units",
+            "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "Units"
+            "constraints": {
+              "enum": [
+                "Percent",
+                ""
+              ]
+            },
+            "title": "Unit of measure"
           },
           {
             "name": "GeoCode",

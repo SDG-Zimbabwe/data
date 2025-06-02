@@ -1,2 +1,2 @@
-Year,Observation status,Unit multiplier,Source details,Series,Reference area,Units,GeoCode,Value
-2015,Normal value,Units,ZIMSTAT,SH_STA_WAST,,PT,,8.4
+Year,Observation status,Unit multiplier,Source details,SERIES,Reference area,UNIT_MEASURE,GeoCode,Value
+2015,Normal value,Units,ZIMSTAT,Proportion of children moderately or severely wasted [2.2.2],,Percent,,8.4

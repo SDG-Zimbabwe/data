@@ -1,2 +1,2 @@
-Year,Observation status,Unit multiplier,Source details,Series,Reference area,Units,GeoCode,Value
-2015,Normal value,Units,MoFED,DT_TDS_DECT,,PT,,19.2
+Year,Observation status,Unit multiplier,Source details,SERIES,Reference area,UNIT_MEASURE,GeoCode,Value
+2015,Normal value,Units,MoFED,"Debt service as a proportion of exports of goods, services and primary income [17.4.1]",,Percent,,19.2

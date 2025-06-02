@@ -1,2 +1,2 @@
-Year,Observation status,Unit multiplier,Source details,Series,Reference area,Units,GeoCode,Value
-2024,Normal value,Units,EMA,SE_GCEDESD_NEP,,PT,,100
+Year,Observation status,Unit multiplier,Source details,SERIES,Reference area,UNIT_MEASURE,GeoCode,Value
+2024,Normal value,Units,EMA,"Extent to which global citizenship education and education for sustainable development are mainstreamed in national education policies [4.7.1,12.8.1,13.3.1]",,Percent,,100

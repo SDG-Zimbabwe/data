@@ -1,2 +1,2 @@
-Year,Observation status,Unit multiplier,Source details,Series,Reference area,Units,GeoCode,Value
-2020,Normal value,Units,UNEP_2020,EN_RSRV_MNWAC,,PT,,12
+Year,Observation status,Unit multiplier,Source details,SERIES,Reference area,UNIT_MEASURE,GeoCode,Value
+2020,Normal value,Units,UNEP_2020,Reservoir minimum water area change (%) [6.6.1],,Percent,,12

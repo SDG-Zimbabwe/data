@@ -1,1 +1,1 @@
-{"Year":[2024],"Observation status":["Normal value"],"Unit multiplier":["Units"],"Source details":["Compliance_documents_available_CCMD"],"Series":["EN_NAA_PLAN"],"Reference area":[null],"Units":["BOOL"],"GeoCode":[null],"Value":[1]}
+{"Year":[2024],"Observation status":["Normal value"],"Unit multiplier":["Units"],"Source details":["Compliance_documents_available_CCMD"],"SERIES":["Number of countries with national adaptation plans [13.2.1]"],"Reference area":[null],"UNIT_MEASURE":["Boolean or binary measure"],"GeoCode":[null],"Value":[1]}

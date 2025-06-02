@@ -1,4 +1,4 @@
-Year,Observation status,Unit multiplier,Source details,Series,Reference area,Sex,Units,GeoCode,Value
-2023,Normal value,Units,ZACC_case_files,VC_PRR_ROBB,,,PT,,23.0
-2019,Normal value,Units,Zimstat_MICS_2019,VC_PRR_ROBB,,Female,PT,,40.5
-2019,Normal value,Units,Zimstat_MICS_2019,VC_PRR_ROBB,,Male,PT,,38.2
+Year,Observation status,Unit multiplier,Source details,SERIES,Reference area,Sex,UNIT_MEASURE,GeoCode,Value
+2023,Normal value,Units,ZACC_case_files,"Police reporting rate for robbery in the previous 12 months, by sex (%) [16.3.1]",,,Percent,,23.0
+2019,Normal value,Units,Zimstat_MICS_2019,"Police reporting rate for robbery in the previous 12 months, by sex (%) [16.3.1]",,Female,Percent,,40.5
+2019,Normal value,Units,Zimstat_MICS_2019,"Police reporting rate for robbery in the previous 12 months, by sex (%) [16.3.1]",,Male,Percent,,38.2

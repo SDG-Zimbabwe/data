@@ -1,6 +1,6 @@
-Year,Observation status,Unit multiplier,Source details,Series,Reference area,Units,GeoCode,Value
-2019,Normal value,Units,MOHCC,SH_TBS_INCD,,PER_100000_POP,,199
-2020,Normal value,Units,MOHCC,SH_TBS_INCD,,PER_100000_POP,,193
-2021,Normal value,Units,MOHCC,SH_TBS_INCD,,PER_100000_POP,,190
-2022,Normal value,Units,MOHCC,SH_TBS_INCD,,PER_100000_POP,,204
-2023,Normal value,Units,MOHCC,SH_TBS_INCD,,PER_100000_POP,,211
+Year,Observation status,Unit multiplier,Source details,SERIES,Reference area,UNIT_MEASURE,GeoCode,Value
+2019,Normal value,Units,MOHCC,Tuberculosis incidence [3.3.2],,"Per 100,000 population",,199
+2020,Normal value,Units,MOHCC,Tuberculosis incidence [3.3.2],,"Per 100,000 population",,193
+2021,Normal value,Units,MOHCC,Tuberculosis incidence [3.3.2],,"Per 100,000 population",,190
+2022,Normal value,Units,MOHCC,Tuberculosis incidence [3.3.2],,"Per 100,000 population",,204
+2023,Normal value,Units,MOHCC,Tuberculosis incidence [3.3.2],,"Per 100,000 population",,211

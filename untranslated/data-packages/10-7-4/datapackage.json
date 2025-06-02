@@ -45,8 +45,14 @@
             }
           },
           {
-            "name": "Series",
-            "type": "string"
+            "name": "SERIES",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "SM_POP_REFG_OR",
+                ""
+              ]
+            }
           },
           {
             "name": "REF_AREA",
@@ -58,8 +64,14 @@
             }
           },
           {
-            "name": "Units",
-            "type": "string"
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "PT",
+                ""
+              ]
+            }
           },
           {
             "name": "GeoCode",

@@ -1,1 +1,1 @@
-{"data":{"Year":[2015],"Observation status":["Normal value"],"Unit multiplier":["Units"],"Source details":["FCZ"],"Series":["AG_LND_FRST"],"Reference area":[null],"Units":["PT"],"GeoCode":[null],"Value":[50]},"edges":[]}
+{"data":{"Year":[2015],"Observation status":["Normal value"],"Unit multiplier":["Units"],"Source details":["FCZ"],"SERIES":["Forest area as a proportion of total land area [15.1.1]"],"Reference area":[null],"UNIT_MEASURE":["Percent"],"GeoCode":[null],"Value":[50]},"edges":[]}

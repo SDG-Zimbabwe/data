@@ -1,2 +1,2 @@
-Year,Observation status,Unit multiplier,Source details,Series,Reference area,Units,GeoCode,Value
-2015,Normal value,Units,EMA,EN_SCP_FRMN,,NUMBER,,6
+Year,Observation status,Unit multiplier,Source details,SERIES,Reference area,UNIT_MEASURE,GeoCode,Value
+2015,Normal value,Units,EMA,Number of companies publishing sustainability reports [12.6.1],,Number,,6

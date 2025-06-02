@@ -1,14 +1,14 @@
-Year,Observation status,Unit multiplier,Source details,Series,Reference area,Sex,Units,GeoCode,Value
-2020,Normal value,Units,GOZ,IT_USE_II99,,,PT,,29.3
-2023,Normal value,Units,GOZ,IT_USE_II99,,,PT,,22.0
-2014,Normal value,Units,ZIMSTAT,IT_USE_II99,,Female,PT,,16.4
-2020,Normal value,Units,ZIMSTAT,IT_USE_II99,Bulawayo,,PT,ZW_BA,60.3
-2020,Normal value,Units,ZIMSTAT,IT_USE_II99,Harare,,PT,ZW_HA,53.8
-2020,Normal value,Units,ZIMSTAT,IT_USE_II99,Manicaland,,PT,ZW_MA,17.8
-2020,Normal value,Units,ZIMSTAT,IT_USE_II99,Mashonaland Central,,PT,ZW_MC,15.6
-2020,Normal value,Units,ZIMSTAT,IT_USE_II99,Masholanad East,,PT,ZW_ME,21.7
-2020,Normal value,Units,ZIMSTAT,IT_USE_II99,Midlands,,PT,ZW_MI,25.0
-2020,Normal value,Units,ZIMSTAT,IT_USE_II99,Matabeland North,,PT,ZW_MN,22.0
-2020,Normal value,Units,ZIMSTAT,IT_USE_II99,Matabeland South,,PT,ZW_MS,34.4
-2020,Normal value,Units,ZIMSTAT,IT_USE_II99,Masvingo,,PT,ZW_MV,20.0
-2020,Normal value,Units,ZIMSTAT,IT_USE_II99,Mashonaland West,,PT,ZW_MW,22.8
+Year,Observation status,Unit multiplier,Source details,SERIES,Reference area,Sex,UNIT_MEASURE,GeoCode,Value
+2020,Normal value,Units,GOZ,Proportion of individuals using the Internet [17.8.1],,,Percent,,29.3
+2023,Normal value,Units,GOZ,Proportion of individuals using the Internet [17.8.1],,,Percent,,22.0
+2014,Normal value,Units,ZIMSTAT,Proportion of individuals using the Internet [17.8.1],,Female,Percent,,16.4
+2020,Normal value,Units,ZIMSTAT,Proportion of individuals using the Internet [17.8.1],Bulawayo,,Percent,ZW_BA,60.3
+2020,Normal value,Units,ZIMSTAT,Proportion of individuals using the Internet [17.8.1],Harare,,Percent,ZW_HA,53.8
+2020,Normal value,Units,ZIMSTAT,Proportion of individuals using the Internet [17.8.1],Manicaland,,Percent,ZW_MA,17.8
+2020,Normal value,Units,ZIMSTAT,Proportion of individuals using the Internet [17.8.1],Mashonaland Central,,Percent,ZW_MC,15.6
+2020,Normal value,Units,ZIMSTAT,Proportion of individuals using the Internet [17.8.1],Masholanad East,,Percent,ZW_ME,21.7
+2020,Normal value,Units,ZIMSTAT,Proportion of individuals using the Internet [17.8.1],Midlands,,Percent,ZW_MI,25.0
+2020,Normal value,Units,ZIMSTAT,Proportion of individuals using the Internet [17.8.1],Matabeland North,,Percent,ZW_MN,22.0
+2020,Normal value,Units,ZIMSTAT,Proportion of individuals using the Internet [17.8.1],Matabeland South,,Percent,ZW_MS,34.4
+2020,Normal value,Units,ZIMSTAT,Proportion of individuals using the Internet [17.8.1],Masvingo,,Percent,ZW_MV,20.0
+2020,Normal value,Units,ZIMSTAT,Proportion of individuals using the Internet [17.8.1],Mashonaland West,,Percent,ZW_MW,22.8

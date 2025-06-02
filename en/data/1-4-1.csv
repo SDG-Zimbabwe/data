@@ -1,2 +1,2 @@
-Year,Observation status,Unit multiplier,Source details,Series,Reference area,Units,GeoCode,Value
-2017,Normal value,Units,Zimstat_ICDS_2017,SP_ACS_BSRV,,PT,,36.9
+Year,Observation status,Unit multiplier,Source details,SERIES,Reference area,UNIT_MEASURE,GeoCode,Value
+2017,Normal value,Units,Zimstat_ICDS_2017,Proportion of population living in households with access to basic services [1.4.1],,Percent,,36.9

@@ -1,4 +1,4 @@
-Year,Observation status,Unit multiplier,Source details,Series,Reference area,Units,GeoCode,Value
-2019,Normal value,Units,Zimstat_2022_PHC,EG_ACS_ELEC,,PT,,55.3
-2021,Normal value,Units,Zimstat_2022_PHC,EG_ACS_ELEC,,PT,,60.0
-2022,Normal value,Units,Zimstat_2022_PHC,EG_ACS_ELEC,,PT,,62.0
+Year,Observation status,Unit multiplier,Source details,SERIES,Reference area,UNIT_MEASURE,GeoCode,Value
+2019,Normal value,Units,Zimstat_2022_PHC,Proportion of population with access to electricity [7.1.1],,Percent,,55.3
+2021,Normal value,Units,Zimstat_2022_PHC,Proportion of population with access to electricity [7.1.1],,Percent,,60.0
+2022,Normal value,Units,Zimstat_2022_PHC,Proportion of population with access to electricity [7.1.1],,Percent,,62.0

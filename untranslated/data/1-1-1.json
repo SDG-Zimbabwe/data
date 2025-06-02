@@ -1,1 +1,1 @@
-{"Year":[2017,2019],"OBS_STATUS":["A","A"],"UNIT_MULT":["0","0"],"SOURCE_DETAIL":["world_bank","world_bank"],"Series":["SI_POV_DAY1","SI_POV_DAY1"],"REF_AREA":[null,null],"SEX":[null,"M"],"Units":["PT","PT"],"GeoCode":[null,null],"Value":[30.4,38.3]}
+{"Year":[2017,2019],"OBS_STATUS":["A","A"],"UNIT_MULT":["0","0"],"SOURCE_DETAIL":["world_bank","world_bank"],"SERIES":["SI_POV_DAY1","SI_POV_DAY1"],"REF_AREA":[null,null],"SEX":[null,"M"],"UNIT_MEASURE":["PT","PT"],"GeoCode":[null,null],"Value":[30.4,38.3]}

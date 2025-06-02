@@ -1,4 +1,4 @@
-Year,Observation status,Unit multiplier,Source details,Series,Reference area,Units,GeoCode,Value
-2015,Normal value,Units,DHIS2,SH_STA_BRTC,,PT,,78
-2019,Normal value,Units,DHIS2,SH_STA_BRTC,,PT,,84
-2023,Normal value,Units,DHIS2,SH_STA_BRTC,,PT,,88
+Year,Observation status,Unit multiplier,Source details,SERIES,Reference area,UNIT_MEASURE,GeoCode,Value
+2015,Normal value,Units,DHIS2,Proportion of births attended by skilled health personnel [3.1.2],,Percent,,78
+2019,Normal value,Units,DHIS2,Proportion of births attended by skilled health personnel [3.1.2],,Percent,,84
+2023,Normal value,Units,DHIS2,Proportion of births attended by skilled health personnel [3.1.2],,Percent,,88

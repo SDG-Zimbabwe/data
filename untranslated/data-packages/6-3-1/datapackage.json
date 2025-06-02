@@ -46,8 +46,15 @@
             }
           },
           {
-            "name": "Series",
-            "type": "string"
+            "name": "SERIES",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "EN_WWT_TREATR",
+                "EN_WWT_WWDS",
+                ""
+              ]
+            }
           },
           {
             "name": "REF_AREA",
@@ -59,8 +66,15 @@
             }
           },
           {
-            "name": "Units",
-            "type": "string"
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "PT",
+                "CON_USD",
+                ""
+              ]
+            }
           },
           {
             "name": "GeoCode",

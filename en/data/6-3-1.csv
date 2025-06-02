@@ -1,3 +1,3 @@
-Year,Observation status,Unit multiplier,Source details,Series,Reference area,Units,GeoCode,Value
-2015,Normal value,Units,ZINWA,EN_WWT_TREATR,,PT,,80
-2023,Normal value,Units,UNICEF_WASH_reports,EN_WWT_WWDS,,CON_USD,,8095143
+Year,Observation status,Unit multiplier,Source details,SERIES,Reference area,UNIT_MEASURE,GeoCode,Value
+2015,Normal value,Units,ZINWA,Proportion of wastewater treated [6.3.1],,Percent,,80
+2023,Normal value,Units,UNICEF_WASH_reports,Proportion of safely treated domestic wastewater flows [6.3.1],,Constant USD,,8095143

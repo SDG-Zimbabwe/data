@@ -45,8 +45,14 @@
             }
           },
           {
-            "name": "Series",
-            "type": "string"
+            "name": "SERIES",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "SL_TLF_UEMDIS_19ICLS",
+                ""
+              ]
+            }
           },
           {
             "name": "REF_AREA",
@@ -79,8 +85,14 @@
             }
           },
           {
-            "name": "Units",
-            "type": "string"
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "PT",
+                ""
+              ]
+            }
           },
           {
             "name": "GeoCode",

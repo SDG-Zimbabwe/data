@@ -1,1 +1,1 @@
-{"data":{"Year":[2015],"OBS_STATUS":["A"],"UNIT_MULT":["0"],"SOURCE_DETAIL":["ZIMSTAT"],"Series":["SH_STA_WAST"],"REF_AREA":[null],"Units":["PT"],"GeoCode":[null],"Value":[8.4]},"edges":{"From":["OBS_STATUS","UNIT_MULT"],"To":["UNIT_MULT","SOURCE_DETAIL"]}}
+{"data":{"Year":[2015],"OBS_STATUS":["A"],"UNIT_MULT":["0"],"SOURCE_DETAIL":["ZIMSTAT"],"SERIES":["SH_STA_WAST"],"REF_AREA":[null],"UNIT_MEASURE":["PT"],"GeoCode":[null],"Value":[8.4]},"edges":{"From":["OBS_STATUS","UNIT_MULT"],"To":["UNIT_MULT","SOURCE_DETAIL"]}}

@@ -1,2 +1,2 @@
-Year,Observation status,Unit multiplier,Source details,Series,Reference area,Age,Units,GeoCode,Value
-2015,Normal value,Units,Reserve_Bank_Of_Zimbabwe,FB_BNK_ACCSS,,15 years old and over,PT,,48
+Year,Observation status,Unit multiplier,Source details,SERIES,Reference area,Age,UNIT_MEASURE,GeoCode,Value
+2015,Normal value,Units,Reserve_Bank_Of_Zimbabwe,Proportion of adults (15 years and older) with an account at a financial institution or mobile-money-service provider [8.10.2],,15 years old and over,Percent,,48

@@ -1,2 +1,2 @@
-Year,Observation status,Unit multiplier,Source details,Series,Reference area,Units,GeoCode,Value
-2014,Normal value,Units,Zimstat_ICT_Survey_2014,IT_MOB_2GNTWK,,PT,,96
+Year,Observation status,Unit multiplier,Source details,SERIES,Reference area,UNIT_MEASURE,GeoCode,Value
+2014,Normal value,Units,Zimstat_ICT_Survey_2014,Proportion of population covered by at least a 2G mobile network [9.c.1],,Percent,,96

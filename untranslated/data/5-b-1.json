@@ -1,1 +1,1 @@
-{"Year":[2019,2022],"OBS_STATUS":["A","A"],"UNIT_MULT":["0","0"],"SOURCE_DETAIL":["ZIMSTAT","Zimstat_2022_PHC"],"Series":["IT_MOB_OWN","IT_MOB_OWN"],"REF_AREA":[null,null],"SEX":["F","M"],"Units":["PT","PT"],"GeoCode":[null,null],"Value":[72.5,87.0]}
+{"Year":[2019,2022],"OBS_STATUS":["A","A"],"UNIT_MULT":["0","0"],"SOURCE_DETAIL":["ZIMSTAT","Zimstat_2022_PHC"],"SERIES":["IT_MOB_OWN","IT_MOB_OWN"],"REF_AREA":[null,null],"SEX":["F","M"],"UNIT_MEASURE":["PT","PT"],"GeoCode":[null,null],"Value":[72.5,87.0]}

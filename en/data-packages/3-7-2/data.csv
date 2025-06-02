@@ -1,5 +1,5 @@
-Year,Observation status,Unit multiplier,Source details,Series,Reference area,Sex,Age,Units,GeoCode,Value
-2015,Normal value,Units,Zimstat_2022_PHC,SP_DYN_ADKL,,Female,15 to 19 years old,PER_1000_POP,,110.0
-2017,Normal value,Units,Zimstat_2022_PHC,SP_DYN_ADKL,,Female,15 to 19 years old,PER_1000_POP,,77.6
-2019,Normal value,Units,Zimstat_2022_PHC,SP_DYN_ADKL,,Female,15 to 19 years old,PER_1000_POP,,108.0
-2022,Normal value,Units,Zimstat_2022_PHC,SP_DYN_ADKL,,Female,15 to 19 years old,PER_1000_POP,,86.7
+Year,Observation status,Unit multiplier,Source details,SERIES,Reference area,Sex,Age,UNIT_MEASURE,GeoCode,Value
+2015,Normal value,Units,Zimstat_2022_PHC,"Adolescent birth rate (per 1,000 women aged 15-19 and 10-14 years) [3.7.2]",,Female,15 to 19 years old,"Per 1,000 population",,110.0
+2017,Normal value,Units,Zimstat_2022_PHC,"Adolescent birth rate (per 1,000 women aged 15-19 and 10-14 years) [3.7.2]",,Female,15 to 19 years old,"Per 1,000 population",,77.6
+2019,Normal value,Units,Zimstat_2022_PHC,"Adolescent birth rate (per 1,000 women aged 15-19 and 10-14 years) [3.7.2]",,Female,15 to 19 years old,"Per 1,000 population",,108.0
+2022,Normal value,Units,Zimstat_2022_PHC,"Adolescent birth rate (per 1,000 women aged 15-19 and 10-14 years) [3.7.2]",,Female,15 to 19 years old,"Per 1,000 population",,86.7
