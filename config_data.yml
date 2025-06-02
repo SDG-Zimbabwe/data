@@ -46,8 +46,6 @@ inputs:
     dsd: https://zw.sdmx.afdb.org/ns-ws/rest/datastructure/ZW1/SDG/1.1/?detail=Full&references=Descendants
     dimension_map:
       REF_AREA|ZW: ''
-      UNIT_MEASURE: Units
-      SERIES: Series
     drop_dimensions:
       - FREQ
       - REPORTING_TYPE
