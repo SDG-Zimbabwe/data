@@ -1,1 +1,2 @@
-Year,Value
+Year,Observation status,Unit multiplier,Source details,SERIES,Reference area,UNIT_MEASURE,GeoCode,Value
+2022,Normal value,Units,MOHCC,"Health worker distribution, by sex and type of occupation [3.c.1]",,Percent,,23

@@ -68,7 +68,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "PT",
+                "PER_100000_EMP",
                 ""
               ]
             }
@@ -79,7 +79,7 @@
           },
           {
             "name": "Value",
-            "type": "integer"
+            "type": "number"
           }
         ]
       }

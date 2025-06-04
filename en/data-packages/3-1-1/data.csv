@@ -1,6 +1,7 @@
 Year,Observation status,Unit multiplier,Source details,SERIES,Reference area,UNIT_MEASURE,GeoCode,Value
-2019,Normal value,Units,Zimstat_2022_PHC,Maternal mortality ratio [3.1.1],,"Per 1,000 live births",,462
-2022,Normal value,Units,Zimstat_2022_PHC,Maternal mortality ratio [3.1.1],,"Per 1,000 live births",,362
+2019,Normal value,Units,ZDHS,Maternal mortality ratio [3.1.1],,"Per 1,000 live births",,462
+2022,Normal value,Units,ZDHS,Maternal mortality ratio [3.1.1],,"Per 1,000 live births",,362
+2024,Normal value,Units,ZDHS,Maternal mortality ratio [3.1.1],,"Per 1,000 live births",,212
 2022,Normal value,Units,Zimstat_2022_PHC,Maternal mortality ratio [3.1.1],Bulawayo,"Per 1,000 live births",ZW_BA,248
 2022,Normal value,Units,Zimstat_2022_PHC,Maternal mortality ratio [3.1.1],Harare,"Per 1,000 live births",ZW_HA,303
 2022,Normal value,Units,Zimstat_2022_PHC,Maternal mortality ratio [3.1.1],Manicaland,"Per 1,000 live births",ZW_MA,248

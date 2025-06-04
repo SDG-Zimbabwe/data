@@ -42,7 +42,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "ZRP",
+                "ZIMSTAT_TSR_2024",
                 ""
               ]
             },
@@ -87,7 +87,7 @@
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Value"
           }
         ]

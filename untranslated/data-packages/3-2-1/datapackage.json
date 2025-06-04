@@ -39,6 +39,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "ZDHS 2023-24",
                 "Zimstat_2022_PHC",
                 ""
               ]
@@ -69,6 +70,40 @@
                 "ZW_MS",
                 "ZW_MV",
                 "ZW_MW",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "F",
+                "M",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "URBANISATION",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "R",
+                "U",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "EDUCATION_LEV",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "ISCED11_02",
+                "ISCED11_1",
+                "ISCED11_2",
                 ""
               ]
             }

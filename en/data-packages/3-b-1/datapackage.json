@@ -43,6 +43,7 @@
             "constraints": {
               "enum": [
                 "Zimstat_MICS_2019",
+                "ZDHS 2023-24",
                 ""
               ]
             },
@@ -63,13 +64,47 @@
           },
           {
             "name": "REF_AREA",
-            "type": "number",
+            "type": "string",
             "constraints": {
               "enum": [
+                "Bulawayo",
+                "Harare",
+                "Manicaland",
+                "Mashonaland Central",
+                "Masholanad East",
+                "Midlands",
+                "Matabeland North",
+                "Matabeland South",
+                "Masvingo",
+                "Mashonaland West",
                 ""
               ]
             },
             "title": "Reference area"
+          },
+          {
+            "name": "AGE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "12 to 23 months",
+                "24 to 35 months",
+                ""
+              ]
+            },
+            "title": "Age"
+          },
+          {
+            "name": "URBANISATION",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Rural",
+                "Urban",
+                ""
+              ]
+            },
+            "title": "Degree of urbanisation"
           },
           {
             "name": "UNIT_MEASURE",
@@ -84,7 +119,7 @@
           },
           {
             "name": "GeoCode",
-            "type": "number",
+            "type": "string",
             "title": "GeoCode"
           },
           {

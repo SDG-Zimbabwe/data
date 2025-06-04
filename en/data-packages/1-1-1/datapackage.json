@@ -42,7 +42,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "world_bank",
+                "Poverty_and_Inequality_Portal,_World_Bank",
+                "ILO_modelled_estimates_Nov_2024",
                 ""
               ]
             },
@@ -54,6 +55,7 @@
             "constraints": {
               "enum": [
                 "Proportion of population below international poverty line [1.1.1]",
+                "Employed population below international poverty line [1.1.1]",
                 ""
               ]
             },
@@ -74,11 +76,40 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "Female",
                 "Male",
                 ""
               ]
             },
             "title": "Sex"
+          },
+          {
+            "name": "AGE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "65 years old and over",
+                "Under 16 years old",
+                "15 to 64 years old",
+                "15 years old and over",
+                "25 years old and over",
+                "15 to 24 years old",
+                ""
+              ]
+            },
+            "title": "Age"
+          },
+          {
+            "name": "URBANISATION",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Rural",
+                "Urban",
+                ""
+              ]
+            },
+            "title": "Degree of urbanisation"
           },
           {
             "name": "UNIT_MEASURE",

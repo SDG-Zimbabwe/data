@@ -39,6 +39,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "ZDHS_2023_24",
                 "Zimstat_2022_PHC",
                 ""
               ]
@@ -69,6 +70,28 @@
                 "ZW_MS",
                 "ZW_MV",
                 "ZW_MW",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "F",
+                "M",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "URBANISATION",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "R",
+                "U",
                 ""
               ]
             }

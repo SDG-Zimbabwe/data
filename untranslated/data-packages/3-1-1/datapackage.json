@@ -39,6 +39,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "ZDHS",
                 "Zimstat_2022_PHC",
                 ""
               ]

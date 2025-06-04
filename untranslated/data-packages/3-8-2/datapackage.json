@@ -50,6 +50,7 @@
             "constraints": {
               "enum": [
                 "_L_ZW_030802",
+                "SH_XPD_EARN25",
                 ""
               ]
             }

@@ -42,7 +42,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Zimstat_2022_PHC",
+                "ZDHS_2023_24",
                 ""
               ]
             },
@@ -85,11 +85,24 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "10 to 14 years old",
                 "15 to 19 years old",
                 ""
               ]
             },
             "title": "Age"
+          },
+          {
+            "name": "URBANISATION",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Rural",
+                "Urban",
+                ""
+              ]
+            },
+            "title": "Degree of urbanisation"
           },
           {
             "name": "UNIT_MEASURE",

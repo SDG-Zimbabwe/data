@@ -39,7 +39,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "world_bank",
+                "Poverty_and_Inequality_Portal,_World_Bank",
+                "ILO_modelled_estimates_Nov_2024",
                 ""
               ]
             }
@@ -50,6 +51,7 @@
             "constraints": {
               "enum": [
                 "SI_POV_DAY1",
+                "SI_POV_EMP1",
                 ""
               ]
             }
@@ -68,7 +70,34 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "F",
                 "M",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "AGE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Y_GE65",
+                "Y0T15",
+                "Y15T64",
+                "Y_GE15",
+                "Y_GE25",
+                "Y15T24",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "URBANISATION",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "R",
+                "U",
                 ""
               ]
             }

@@ -42,7 +42,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "MOFEDIP",
+                "ZIMSTAT",
                 ""
               ]
             },
@@ -68,6 +68,18 @@
               ]
             },
             "title": "Reference area"
+          },
+          {
+            "name": "URBANISATION",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Rural",
+                "Urban",
+                ""
+              ]
+            },
+            "title": "Degree of urbanisation"
           },
           {
             "name": "UNIT_MEASURE",

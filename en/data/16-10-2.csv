@@ -1,1 +1,2 @@
-Year,Value
+Year,Observation status,Unit multiplier,Source details,SERIES,Reference area,UNIT_MEASURE,GeoCode,Value
+2020,Normal value,Units,Bill_tracker,"Countries that adopt and implement constitutional, statutory and/or policy guarantees for public access to information [16.10.2]",,Boolean or binary measure,,1
