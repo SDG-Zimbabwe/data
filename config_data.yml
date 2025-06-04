@@ -9,7 +9,7 @@
 # languages. Each build is in its own subfolder - one for each language.
 languages:
   - en
-  - es
+  
 # Destination directory
 # ---------------------
 # This identifies a directory to hold the "built" files. The default is '_site'.
@@ -46,13 +46,12 @@ inputs:
     dsd: https://zw.sdmx.afdb.org/ns-ws/rest/datastructure/ZW1/SDG/1.1/?detail=Full&references=Descendants
     dimension_map:
       REF_AREA|ZW: ''
-      UNIT_MEASURE: Units
-      SERIES: Series
     drop_dimensions:
       - FREQ
       - REPORTING_TYPE
       - NATURE
       - TIME_PERIOD
+    drop_singleton_dimensions: false
     import_series_attributes: true
     import_observation_attributes: true
     import_codes: true
@@ -154,3 +153,24 @@ docs_metadata_fields:
       label: Units
     - key: graph_type
       label: Graph type
+
+indicator_options:
+  non_disaggregation_columns:
+    - Year
+    - Units
+    - Series
+    - Value
+    - GeoCode
+    - Observation status
+    - Unit multiplier
+    - Unit measure
+    - UNIT_MEASURE
+    - SERIES
+    - COMMENT_TS
+    - DATA_LAST_UPDATE
+    - TIME_DETAIL
+  series_column: SERIES
+  unit_column: UNIT_MEASURE
+  observation_attributes:
+    - COMMENT_OBS
+    - SOURCE_DETAIL
