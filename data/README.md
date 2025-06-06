@@ -1,6 +1,6 @@
 ## data folder
 
-Data files are uploaded and updated in this folder. 
+Data files are uploaded and updated in this folder.
 
 By default the data input type is CSV.
 
