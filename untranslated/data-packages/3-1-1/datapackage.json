@@ -79,7 +79,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "PER_1000_LIVE_BIRTHS",
+                "PER_100000_POP",
                 ""
               ]
             }

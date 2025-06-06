@@ -43,6 +43,7 @@
             "constraints": {
               "enum": [
                 "GOZ",
+                "ZIMSTAT_specific_survey",
                 "ZIMSTAT",
                 ""
               ]

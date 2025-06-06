@@ -42,7 +42,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Poverty_and_Inequality_Portal,_World_Bank",
+                "Poverty_and_Inequality_Portal_World_Bank",
                 "ILO_modelled_estimates_Nov_2024",
                 ""
               ]

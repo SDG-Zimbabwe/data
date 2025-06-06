@@ -40,6 +40,7 @@
             "constraints": {
               "enum": [
                 "Zimstat_ICDS_2017",
+                "ZDHS_2023_24",
                 ""
               ]
             }
@@ -59,6 +60,27 @@
             "type": "number",
             "constraints": {
               "enum": [
+                ""
+              ]
+            }
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "F",
+                "M",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "AGE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Y15T49",
                 ""
               ]
             }

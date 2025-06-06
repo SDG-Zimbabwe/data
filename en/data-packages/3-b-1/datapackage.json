@@ -43,7 +43,9 @@
             "constraints": {
               "enum": [
                 "Zimstat_MICS_2019",
+                "ZDHS_2023_24",
                 "ZDHS 2023-24",
+                "DHIS2_2024",
                 ""
               ]
             },
@@ -57,6 +59,7 @@
                 "Proportion of the target population who received 3 doses of diphtheria-tetanus-pertussis (DTP3) vaccine [3.b.1]",
                 "Proportion of the target population who received measles-containing-vaccine second-dose (MCV2) [3.b.1]",
                 "Proportion of the target population who received a 3rd dose of pneumococcal conjugate (PCV3) vaccine [3.b.1]",
+                "Proportion of the target population covered by all vaccines included in their national programme [3.b.1]",
                 ""
               ]
             },

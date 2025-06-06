@@ -40,6 +40,7 @@
             "constraints": {
               "enum": [
                 "Zimbabwe_Embassys_Mission_reports_UNGA",
+                "MOFAIT",
                 ""
               ]
             }
@@ -50,6 +51,7 @@
             "constraints": {
               "enum": [
                 "SG_INT_MBRDEV",
+                "SG_INT_VRTDEV",
                 ""
               ]
             }

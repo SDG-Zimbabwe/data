@@ -39,7 +39,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Zimstat_2022_PHC",
+                "2023_EMIS",
                 ""
               ]
             }
@@ -59,6 +59,27 @@
             "type": "number",
             "constraints": {
               "enum": [
+                ""
+              ]
+            }
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "F",
+                "M",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "EDUCATION_LEV",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "AGG_0_1",
                 ""
               ]
             }

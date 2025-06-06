@@ -39,7 +39,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "MOHCC_SPAR",
+                "SPAR",
                 ""
               ]
             }

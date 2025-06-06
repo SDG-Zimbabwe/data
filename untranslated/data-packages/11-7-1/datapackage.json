@@ -39,7 +39,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Layout_Plan_Records_LA_and_Ministry",
+                "ZIMSTAT",
                 ""
               ]
             }

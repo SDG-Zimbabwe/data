@@ -39,8 +39,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "ZIMSTAT",
-                "Zimstat_2022_PHC",
+                "ZIMSTAT_women_and_men_report",
+                "ZDHS_2023_24",
                 ""
               ]
             }

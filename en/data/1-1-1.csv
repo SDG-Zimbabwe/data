@@ -1,21 +1,21 @@
 Year,Observation status,Unit multiplier,Source details,SERIES,Reference area,Sex,Age,Degree of urbanisation,UNIT_MEASURE,GeoCode,Value
-2011,Normal value,Units,"Poverty_and_Inequality_Portal,_World_Bank",Proportion of population below international poverty line [1.1.1],,,,,Percent,,21.6
-2017,Normal value,Units,"Poverty_and_Inequality_Portal,_World_Bank",Proportion of population below international poverty line [1.1.1],,,,,Percent,,34.2
-2019,Normal value,Units,"Poverty_and_Inequality_Portal,_World_Bank",Proportion of population below international poverty line [1.1.1],,,,,Percent,,39.8
-2017,Normal value,Units,"Poverty_and_Inequality_Portal,_World_Bank",Proportion of population below international poverty line [1.1.1],,,,Rural,Percent,,47.92728
-2019,Normal value,Units,"Poverty_and_Inequality_Portal,_World_Bank",Proportion of population below international poverty line [1.1.1],,,,Rural,Percent,,52.61328
-2017,Normal value,Units,"Poverty_and_Inequality_Portal,_World_Bank",Proportion of population below international poverty line [1.1.1],,,,Urban,Percent,,4.78471
-2019,Normal value,Units,"Poverty_and_Inequality_Portal,_World_Bank",Proportion of population below international poverty line [1.1.1],,,,Urban,Percent,,10.98269
-2017,Normal value,Units,"Poverty_and_Inequality_Portal,_World_Bank",Proportion of population below international poverty line [1.1.1],,,65 years old and over,,Percent,,29.6625
-2019,Normal value,Units,"Poverty_and_Inequality_Portal,_World_Bank",Proportion of population below international poverty line [1.1.1],,,65 years old and over,,Percent,,33.05316
-2017,Normal value,Units,"Poverty_and_Inequality_Portal,_World_Bank",Proportion of population below international poverty line [1.1.1],,,Under 16 years old,,Percent,,41.19563
-2019,Normal value,Units,"Poverty_and_Inequality_Portal,_World_Bank",Proportion of population below international poverty line [1.1.1],,,Under 16 years old,,Percent,,47.24313
-2017,Normal value,Units,"Poverty_and_Inequality_Portal,_World_Bank",Proportion of population below international poverty line [1.1.1],,,15 to 64 years old,,Percent,,29.73578
-2019,Normal value,Units,"Poverty_and_Inequality_Portal,_World_Bank",Proportion of population below international poverty line [1.1.1],,,15 to 64 years old,,Percent,,34.9821
-2017,Normal value,Units,"Poverty_and_Inequality_Portal,_World_Bank",Proportion of population below international poverty line [1.1.1],,Female,,,Percent,,34.27809
-2019,Normal value,Units,"Poverty_and_Inequality_Portal,_World_Bank",Proportion of population below international poverty line [1.1.1],,Female,,,Percent,,39.44854
-2017,Normal value,Units,"Poverty_and_Inequality_Portal,_World_Bank",Proportion of population below international poverty line [1.1.1],,Male,,,Percent,,34.54693
-2019,Normal value,Units,"Poverty_and_Inequality_Portal,_World_Bank",Proportion of population below international poverty line [1.1.1],,Male,,,Percent,,40.08752
+2011,Normal value,Units,Poverty_and_Inequality_Portal_World_Bank,Proportion of population below international poverty line [1.1.1],,,,,Percent,,21.6
+2017,Normal value,Units,Poverty_and_Inequality_Portal_World_Bank,Proportion of population below international poverty line [1.1.1],,,,,Percent,,34.2
+2019,Normal value,Units,Poverty_and_Inequality_Portal_World_Bank,Proportion of population below international poverty line [1.1.1],,,,,Percent,,39.8
+2017,Normal value,Units,Poverty_and_Inequality_Portal_World_Bank,Proportion of population below international poverty line [1.1.1],,,,Rural,Percent,,47.92728
+2019,Normal value,Units,Poverty_and_Inequality_Portal_World_Bank,Proportion of population below international poverty line [1.1.1],,,,Rural,Percent,,52.61328
+2017,Normal value,Units,Poverty_and_Inequality_Portal_World_Bank,Proportion of population below international poverty line [1.1.1],,,,Urban,Percent,,4.78471
+2019,Normal value,Units,Poverty_and_Inequality_Portal_World_Bank,Proportion of population below international poverty line [1.1.1],,,,Urban,Percent,,10.98269
+2017,Normal value,Units,Poverty_and_Inequality_Portal_World_Bank,Proportion of population below international poverty line [1.1.1],,,65 years old and over,,Percent,,29.6625
+2019,Normal value,Units,Poverty_and_Inequality_Portal_World_Bank,Proportion of population below international poverty line [1.1.1],,,65 years old and over,,Percent,,33.05316
+2017,Normal value,Units,Poverty_and_Inequality_Portal_World_Bank,Proportion of population below international poverty line [1.1.1],,,Under 16 years old,,Percent,,41.19563
+2019,Normal value,Units,Poverty_and_Inequality_Portal_World_Bank,Proportion of population below international poverty line [1.1.1],,,Under 16 years old,,Percent,,47.24313
+2017,Normal value,Units,Poverty_and_Inequality_Portal_World_Bank,Proportion of population below international poverty line [1.1.1],,,15 to 64 years old,,Percent,,29.73578
+2019,Normal value,Units,Poverty_and_Inequality_Portal_World_Bank,Proportion of population below international poverty line [1.1.1],,,15 to 64 years old,,Percent,,34.9821
+2017,Normal value,Units,Poverty_and_Inequality_Portal_World_Bank,Proportion of population below international poverty line [1.1.1],,Female,,,Percent,,34.27809
+2019,Normal value,Units,Poverty_and_Inequality_Portal_World_Bank,Proportion of population below international poverty line [1.1.1],,Female,,,Percent,,39.44854
+2017,Normal value,Units,Poverty_and_Inequality_Portal_World_Bank,Proportion of population below international poverty line [1.1.1],,Male,,,Percent,,34.54693
+2019,Normal value,Units,Poverty_and_Inequality_Portal_World_Bank,Proportion of population below international poverty line [1.1.1],,Male,,,Percent,,40.08752
 2011,Normal value,Units,ILO_modelled_estimates_Nov_2024,Employed population below international poverty line [1.1.1],,,15 years old and over,,Percent,,19.23
 2017,Normal value,Units,ILO_modelled_estimates_Nov_2024,Employed population below international poverty line [1.1.1],,,15 years old and over,,Percent,,30.53
 2019,Normal value,Units,ILO_modelled_estimates_Nov_2024,Employed population below international poverty line [1.1.1],,,15 years old and over,,Percent,,35.63

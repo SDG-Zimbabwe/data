@@ -1,3 +1,42 @@
-Year,Observation status,Unit multiplier,Source details,SERIES,Reference area,UNIT_MEASURE,GeoCode,Value
-2015,Normal value,Units,TBA,Proportion of population subjected to physical violence in the previous 12 months [16.1.3],,Percent,,0.0
-2023,Normal value,Units,TBA,Proportion of population subjected to physical violence in the previous 12 months [16.1.3],,Percent,,0.85
+Year,Observation status,Unit multiplier,Source details,SERIES,Reference area,Sex,Degree of urbanisation,UNIT_MEASURE,GeoCode,Value
+2015,Normal value,Units,TBA,Proportion of population subjected to physical violence in the previous 12 months [16.1.3],,,,Percent,,0.0
+2023,Normal value,Units,TBA,Proportion of population subjected to physical violence in the previous 12 months [16.1.3],,,,Percent,,0.85
+2024,Normal value,Units,ZDHS_2023_24,Proportion of population subjected to physical violence in the previous 12 months [16.1.3],,Female,,Percent,,13.6
+2024,Normal value,Units,ZDHS_2023_24,Proportion of population subjected to physical violence in the previous 12 months [16.1.3],,Female,Rural,Percent,,15.7
+2024,Normal value,Units,ZDHS_2023_24,Proportion of population subjected to physical violence in the previous 12 months [16.1.3],,Female,Urban,Percent,,10.8
+2024,Normal value,Units,ZDHS_2023_24,Proportion of population subjected to physical violence in the previous 12 months [16.1.3],Bulawayo,Female,,Percent,ZW_BA,8.5
+2024,Normal value,Units,ZDHS_2023_24,Proportion of population subjected to physical violence in the previous 12 months [16.1.3],Harare,Female,,Percent,ZW_HA,9.4
+2024,Normal value,Units,ZDHS_2023_24,Proportion of population subjected to physical violence in the previous 12 months [16.1.3],Manicaland,Female,,Percent,ZW_MA,13.1
+2024,Normal value,Units,ZDHS_2023_24,Proportion of population subjected to physical violence in the previous 12 months [16.1.3],Mashonaland Central,Female,,Percent,ZW_MC,14.1
+2024,Normal value,Units,ZDHS_2023_24,Proportion of population subjected to physical violence in the previous 12 months [16.1.3],Masholanad East,Female,,Percent,ZW_ME,14.0
+2024,Normal value,Units,ZDHS_2023_24,Proportion of population subjected to physical violence in the previous 12 months [16.1.3],Midlands,Female,,Percent,ZW_MI,15.7
+2024,Normal value,Units,ZDHS_2023_24,Proportion of population subjected to physical violence in the previous 12 months [16.1.3],Matabeland North,Female,,Percent,ZW_MN,12.1
+2024,Normal value,Units,ZDHS_2023_24,Proportion of population subjected to physical violence in the previous 12 months [16.1.3],Matabeland South,Female,,Percent,ZW_MS,10.2
+2024,Normal value,Units,ZDHS_2023_24,Proportion of population subjected to physical violence in the previous 12 months [16.1.3],Masvingo,Female,,Percent,ZW_MV,13.8
+2024,Normal value,Units,ZDHS_2023_24,Proportion of population subjected to physical violence in the previous 12 months [16.1.3],Mashonaland West,Female,,Percent,ZW_MW,20.1
+2024,Normal value,Units,ZDHS_2023_24,"Proportion of population subjected to psychological violence in the previous 12 months, by sex (%) [16.1.3]",,Female,,Percent,,19.2
+2024,Normal value,Units,ZDHS_2023_24,"Proportion of population subjected to psychological violence in the previous 12 months, by sex (%) [16.1.3]",,Female,Rural,Percent,,21.4
+2024,Normal value,Units,ZDHS_2023_24,"Proportion of population subjected to psychological violence in the previous 12 months, by sex (%) [16.1.3]",,Female,Urban,Percent,,16.3
+2024,Normal value,Units,ZDHS_2023_24,"Proportion of population subjected to psychological violence in the previous 12 months, by sex (%) [16.1.3]",Bulawayo,Female,,Percent,ZW_BA,14.3
+2024,Normal value,Units,ZDHS_2023_24,"Proportion of population subjected to psychological violence in the previous 12 months, by sex (%) [16.1.3]",Harare,Female,,Percent,ZW_HA,14.4
+2024,Normal value,Units,ZDHS_2023_24,"Proportion of population subjected to psychological violence in the previous 12 months, by sex (%) [16.1.3]",Manicaland,Female,,Percent,ZW_MA,24.9
+2024,Normal value,Units,ZDHS_2023_24,"Proportion of population subjected to psychological violence in the previous 12 months, by sex (%) [16.1.3]",Mashonaland Central,Female,,Percent,ZW_MC,16.2
+2024,Normal value,Units,ZDHS_2023_24,"Proportion of population subjected to psychological violence in the previous 12 months, by sex (%) [16.1.3]",Masholanad East,Female,,Percent,ZW_ME,16.9
+2024,Normal value,Units,ZDHS_2023_24,"Proportion of population subjected to psychological violence in the previous 12 months, by sex (%) [16.1.3]",Midlands,Female,,Percent,ZW_MI,21.7
+2024,Normal value,Units,ZDHS_2023_24,"Proportion of population subjected to psychological violence in the previous 12 months, by sex (%) [16.1.3]",Matabeland North,Female,,Percent,ZW_MN,21.9
+2024,Normal value,Units,ZDHS_2023_24,"Proportion of population subjected to psychological violence in the previous 12 months, by sex (%) [16.1.3]",Matabeland South,Female,,Percent,ZW_MS,15.9
+2024,Normal value,Units,ZDHS_2023_24,"Proportion of population subjected to psychological violence in the previous 12 months, by sex (%) [16.1.3]",Masvingo,Female,,Percent,ZW_MV,15.6
+2024,Normal value,Units,ZDHS_2023_24,"Proportion of population subjected to psychological violence in the previous 12 months, by sex (%) [16.1.3]",Mashonaland West,Female,,Percent,ZW_MW,26.1
+2024,Normal value,Units,ZDHS_2023_24,Proportion of population subjected to sexual violence in the previous 12 months [16.1.3],,Female,,Percent,,5.3
+2024,Normal value,Units,ZDHS_2023_24,Proportion of population subjected to sexual violence in the previous 12 months [16.1.3],,Female,Rural,Percent,,6.4
+2024,Normal value,Units,ZDHS_2023_24,Proportion of population subjected to sexual violence in the previous 12 months [16.1.3],,Female,Urban,Percent,,3.8
+2024,Normal value,Units,ZDHS_2023_24,Proportion of population subjected to sexual violence in the previous 12 months [16.1.3],Bulawayo,Female,,Percent,ZW_BA,3.1
+2024,Normal value,Units,ZDHS_2023_24,Proportion of population subjected to sexual violence in the previous 12 months [16.1.3],Harare,Female,,Percent,ZW_HA,2.5
+2024,Normal value,Units,ZDHS_2023_24,Proportion of population subjected to sexual violence in the previous 12 months [16.1.3],Manicaland,Female,,Percent,ZW_MA,7.0
+2024,Normal value,Units,ZDHS_2023_24,Proportion of population subjected to sexual violence in the previous 12 months [16.1.3],Mashonaland Central,Female,,Percent,ZW_MC,4.0
+2024,Normal value,Units,ZDHS_2023_24,Proportion of population subjected to sexual violence in the previous 12 months [16.1.3],Masholanad East,Female,,Percent,ZW_ME,5.7
+2024,Normal value,Units,ZDHS_2023_24,Proportion of population subjected to sexual violence in the previous 12 months [16.1.3],Midlands,Female,,Percent,ZW_MI,6.9
+2024,Normal value,Units,ZDHS_2023_24,Proportion of population subjected to sexual violence in the previous 12 months [16.1.3],Matabeland North,Female,,Percent,ZW_MN,8.6
+2024,Normal value,Units,ZDHS_2023_24,Proportion of population subjected to sexual violence in the previous 12 months [16.1.3],Matabeland South,Female,,Percent,ZW_MS,2.8
+2024,Normal value,Units,ZDHS_2023_24,Proportion of population subjected to sexual violence in the previous 12 months [16.1.3],Masvingo,Female,,Percent,ZW_MV,6.0
+2024,Normal value,Units,ZDHS_2023_24,Proportion of population subjected to sexual violence in the previous 12 months [16.1.3],Mashonaland West,Female,,Percent,ZW_MW,6.1

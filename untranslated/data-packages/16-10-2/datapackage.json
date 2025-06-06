@@ -39,7 +39,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Bill_tracker",
+                "Parliamentary_Bill_tracker",
                 ""
               ]
             }

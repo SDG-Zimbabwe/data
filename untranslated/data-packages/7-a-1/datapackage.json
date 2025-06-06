@@ -68,7 +68,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "CON_USD",
+                "USD",
                 ""
               ]
             }
@@ -79,7 +79,7 @@
           },
           {
             "name": "Value",
-            "type": "integer"
+            "type": "number"
           }
         ]
       }

@@ -1,5 +1,12 @@
 Year,OBS_STATUS,UNIT_MULT,SOURCE_DETAIL,SERIES,REF_AREA,UNIT_MEASURE,GeoCode,Value
-2019,A,0,ZIMSTAT_National_Accounts,ST_GDP_ZS,,PT,,2.5
-2021,A,0,ZIMSTAT_National_Accounts,ST_GDP_ZS,,PT,,2.5
-2022,A,0,ZIMSTAT_National_Accounts,ST_GDP_ZS,,PT,,5.2
-2023,A,0,ZIMSTAT_National_Accounts,ST_GDP_ZS,,PT,,5.7
+2015,A,0,ZIMSTAT_National_Accounts,ST_GDP_ZS,,PT,,3.53
+2016,A,0,ZIMSTAT_National_Accounts,ST_GDP_ZS,,PT,,3.78
+2017,A,0,ZIMSTAT_National_Accounts,ST_GDP_ZS,,PT,,2.6
+2018,A,0,ZIMSTAT_National_Accounts,ST_GDP_ZS,,PT,,2.51
+2019,A,0,ZIMSTAT_National_Accounts,ST_GDP_ZS,,PT,,2.51
+2020,A,0,ZIMSTAT_National_Accounts,ST_GDP_ZS,,PT,,1.06
+2021,A,0,ZIMSTAT_National_Accounts,ST_GDP_ZS,,PT,,1.36
+2022,A,0,ZIMSTAT_National_Accounts,ST_GDP_ZS,,PT,,1.58
+2023,A,0,ZIMSTAT_National_Accounts,ST_GDP_ZS,,PT,,1.9
+2024,A,0,ZIMSTAT_National_Accounts,ST_GDP_ZS,,PT,,1.89
+2025,A,0,ZIMSTAT_National_Accounts,ST_GDP_ZS,,PT,,1.84

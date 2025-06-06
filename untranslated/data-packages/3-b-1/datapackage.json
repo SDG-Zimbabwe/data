@@ -40,7 +40,9 @@
             "constraints": {
               "enum": [
                 "Zimstat_MICS_2019",
+                "ZDHS_2023_24",
                 "ZDHS 2023-24",
+                "DHIS2_2024",
                 ""
               ]
             }
@@ -53,6 +55,7 @@
                 "SH_ACS_DTP3",
                 "SH_ACS_MCV2",
                 "SH_ACS_PCV3",
+                "SH_ACS_VACN",
                 ""
               ]
             }

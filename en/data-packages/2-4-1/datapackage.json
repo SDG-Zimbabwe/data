@@ -74,7 +74,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Number",
+                "Percent",
                 ""
               ]
             },
@@ -87,7 +87,7 @@
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Value"
           }
         ]

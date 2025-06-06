@@ -1,3 +1,5 @@
 Year,Observation status,Unit multiplier,Source details,SERIES,Reference area,UNIT_MEASURE,GeoCode,Value
-2023,Normal value,Units,Ministry_of_Lands,Proportion of agricultural area under productive and sustainable agriculture [2.4.1],,Number,,274730
-2024,Normal value,Units,Ministry_of_Lands,Proportion of agricultural area under productive and sustainable agriculture [2.4.1],,Number,,684159
+2021,Normal value,Units,Ministry_of_Lands,Proportion of agricultural area under productive and sustainable agriculture [2.4.1],,Percent,,58.48
+2022,Normal value,Units,Ministry_of_Lands,Proportion of agricultural area under productive and sustainable agriculture [2.4.1],,Percent,,56.73
+2023,Normal value,Units,Ministry_of_Lands,Proportion of agricultural area under productive and sustainable agriculture [2.4.1],,Percent,,61.0
+2024,Normal value,Units,Ministry_of_Lands,Proportion of agricultural area under productive and sustainable agriculture [2.4.1],,Percent,,60.05

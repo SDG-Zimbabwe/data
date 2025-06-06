@@ -39,7 +39,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Constitution",
+                "Labour_Force_Survey",
                 ""
               ]
             }

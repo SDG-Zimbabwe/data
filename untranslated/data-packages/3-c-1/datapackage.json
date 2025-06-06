@@ -49,6 +49,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "SH_MED_DEN",
                 "SH_MED_HWRKDIS",
                 ""
               ]
