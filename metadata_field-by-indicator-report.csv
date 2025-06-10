@@ -1,6 +1,6 @@
 Indicator,Reporting status,UN custodian agency,Non-statistical,Show map,Geographical coverage,Units,Graph type
 #1-1-1,complete,International Labour Organization (ILO),,,,,line
-#1-2-1,complete,World Bank,,,,,line
+#1-2-1,complete,World Bank,,True,,,line
 #1-2-2,notstarted,"The World Bank, United Nations Children&#x2019;s Fund (UNICEF), United Nations Development Programme (UNDP)",,,,,line
 #1-3-1,complete,World Bank (WB),,,,,line
 #1-4-1,complete,"United Nations Human Settlements Programme (UN-Habitat)
@@ -109,7 +109,7 @@ UN Environment Programme",,,,,line
 #15-c-1,complete,United Nations Office on Drugs and Crime (UNODC),,,,,line
 #16-1-1,complete,"United Nations Office on Drugs and Crime (UNODC), World Health Organization (WHO)",,,,,line
 #16-1-2,notapplicable,Office of the United Nations High Commissioner for Human Rights (OHCHR),,,,,line
-#16-1-3,complete,United Nations Office on Drugs and Crime (UNODC),,,,,line
+#16-1-3,complete,United Nations Office on Drugs and Crime (UNODC),,True,,,line
 #16-1-4,complete,United Nations Office on Drugs and Crime (UNODC),,,,,line
 #16-10-1,complete,"Office of the United Nations High Commissioner for Human Rights (OHCHR) United Nations Educational, Scientific and Cultural Organization (UNESCO) International Labour Organization (ILO)",,,,,line
 #16-10-2,complete,"United Nations Educational, Scientific and Cultural Organization (UNESCO)",True,,,,line
@@ -129,7 +129,7 @@ UN Environment Programme",,,,,line
 #16-7-2,notstarted,UNDP Oslo Governance Centre,,,,,line
 #16-8-1,complete,"Financing for Sustainable Development Office (FSDO), United Nations Department of Economic and Social Affairs (UN-DESA)
 ",,,,,line
-#16-9-1,complete,United Nations Children&apos;s Fund (UNICEF),,,,,line
+#16-9-1,complete,United Nations Children&apos;s Fund (UNICEF),,True,,,line
 #16-a-1,complete,United Nations Office of the High Commissioner for Human Rights,True,,,,line
 #16-b-1,complete,Office of the United Nations High Commissioner for Human Rights (OHCHR),,,,,line
 #17-1-1,complete,International Monetary Fund (IMF) Statistics Department (Government Finance Division),,,,,line
@@ -162,16 +162,16 @@ United Nations Development Programme (UNDP)",,,,,line
 #17-5-1,complete,United Nations Conference on Trade and Development (UNCTAD),,,,,line
 #17-6-1,complete,International Telecommunication Union (ITU),,,,,line
 #17-7-1,notstarted,United Nations Environment Programme (UNEP),,,,,line
-#17-8-1,complete,International Telecommunication Union (ITU),,,,,line
+#17-8-1,complete,International Telecommunication Union (ITU),,True,,,line
 #17-9-1,complete,Organisation for Economic Co-operation and Development (OECD),,,,,line
 #2-1-1,notstarted,Food and Agriculture Organization of the United Nations (FAO),,,,,line
 #2-1-2,complete,Food and Agriculture Organisation of the United Nations (FAO),,,,,line
 #2-2-1,complete,"United Nations Children&apos;s Fund (UNICEF)
-World Health Organization (WHO)",,,,,line
+World Health Organization (WHO)",,True,,,line
 #2-2-2,complete,"United Nations Children&apos;s Fund (UNICEF)
-World Health Organization (WHO)",,,,,line
+World Health Organization (WHO)",,True,,,line
 #2-2-3,notstarted,World Health Organization (WHO),,,,,line
-#2-2-4,complete,Food and Agriculture Organization of the United Nations (FAO),,,,,line
+#2-2-4,complete,Food and Agriculture Organization of the United Nations (FAO),,True,,,line
 #2-3-1,complete,Food and Agriculture Organization (FAO),,,,,line
 #2-3-2,complete,Food and Agriculture Organization (FAO),,,,,line
 #2-4-1,complete,Food and Agriculture Organization of the United Nations (FAO),,,,,line
@@ -197,7 +197,7 @@ United Nations Office on Drugs and Crime (UNODC) ",,,,,line
 #3-5-2,complete,World Health Organization (WHO) ,,,,,line
 #3-6-1,complete,World Health Organization (WHO) ,,,,,line
 #3-7-1,complete,"Population Division, Department of Economic and Social Affairs (DESA)
-United Nations Population Fund (UNFPA)",,,,,line
+United Nations Population Fund (UNFPA)",,True,,,line
 #3-7-2,complete,"Population Division, Department of Economic and Social Affairs (DESA) 
 United Nations Population Fund (UNFPA)",,,,,line
 #3-8-1,complete,World Health Organization (WHO) ,,,,,line
@@ -206,14 +206,14 @@ United Nations Population Fund (UNFPA)",,,,,line
 #3-9-2,notapplicable,World Health Organization (WHO),,,,,line
 #3-9-3,notapplicable,World Health Organization (WHO),,,,,line
 #3-a-1,complete,World Health Organization; Secretariat of the WHO Framework Convention on Tobacco Control (co-custodians) ,,,,,line
-#3-b-1,complete,"World Health Organization (WHO), United Nations Children&#x2019;s Fund (UNICEF) ",,,,,line
+#3-b-1,complete,"World Health Organization (WHO), United Nations Children&#x2019;s Fund (UNICEF) ",,True,,,line
 #3-b-2,complete,Organisation for Economic Co-operation and Development (OECD) ,,,,,line
 #3-b-3,complete,World Health Organization (WHO),,,,,line
 #3-c-1,notstarted,"Health Workforce Department, World Health Organization (WHO)",,,,,line
 #3-d-1,complete,World Health Organization (WHO),,,,,line
 #3-d-2,notapplicable,World Health Organization (WHO),,,,,line
 #4-1-1,complete,UNESCO Institute of Statistics (UIS),,,,,line
-#4-1-2,complete,UNESCO Institute for Statistics (UIS),,,,,line
+#4-1-2,complete,UNESCO Institute for Statistics (UIS),,True,,,line
 #4-2-1,complete,United Nations Children&apos;s Fund (UNICEF),,,,,line
 #4-2-2,complete,UNESCO Institute for Statistics (UIS),,,,,line
 #4-3-1,complete,UNESCO Institute for Statistics (UIS),,,,,line
@@ -243,7 +243,7 @@ United Nations Population Fund (UNFPA)",,,,,line
 #5-4-1,notstarted,UN Statistics Division (UNSD) and UN WOMEN,,,,,line
 #5-5-1,complete,Inter-Parliamentary Union (IPU),,,,,line
 #5-5-2,complete,International Labour Organization (ILO),,,,,line
-#5-6-1,complete,United Nations Population Fund (UNFPA),,,,,line
+#5-6-1,complete,United Nations Population Fund (UNFPA),,True,,,line
 #5-6-2,complete,United Nations Population Fund (UNFPA),,,,,line
 #5-a-1,complete,Food and Agriculture Organization of the United Nations (FAO),,,,,line
 #5-a-2,complete,Food and Agriculture Organization of the United Nations (FAO),,,,,line
