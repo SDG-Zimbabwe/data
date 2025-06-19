@@ -42,8 +42,9 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "Zimstat_Mini__PICES__Poverty_Report_2019__LowerLine",
+                "Zimstat_Poverty_Atlas__Report_2021_Males_and_Females",
                 "Zimstat_Poverty_Report_2017_Lower_Line",
-                "Zimstat_Poverty_Report_2017",
                 ""
               ]
             },

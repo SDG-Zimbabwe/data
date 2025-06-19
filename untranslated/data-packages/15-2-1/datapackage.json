@@ -51,6 +51,7 @@
               "enum": [
                 "AG_LND_FRSTBIOM",
                 "AG_LND_FRSTMGT",
+                "AG_LND_FRSTPRCT",
                 ""
               ]
             }
@@ -70,6 +71,7 @@
             "constraints": {
               "enum": [
                 "PT",
+                "HA",
                 ""
               ]
             }

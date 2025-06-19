@@ -39,7 +39,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "ZACC_case_files",
+                "ZIMSTAT",
                 ""
               ]
             }
@@ -79,7 +79,7 @@
           },
           {
             "name": "Value",
-            "type": "integer"
+            "type": "number"
           }
         ]
       }

@@ -1,14 +1,38 @@
-Year,Observation status,Unit multiplier,Source details,SERIES,Reference area,Sex,UNIT_MEASURE,GeoCode,Value
-2020,Normal value,Units,GOZ,Proportion of individuals using the Internet [17.8.1],,,Percent,,29.3
-2023,Normal value,Units,GOZ,Proportion of individuals using the Internet [17.8.1],,,Percent,,22.0
-2014,Normal value,Units,ZIMSTAT_specific_survey,Proportion of individuals using the Internet [17.8.1],,Female,Percent,,16.4
-2020,Normal value,Units,ZIMSTAT,Proportion of individuals using the Internet [17.8.1],Bulawayo,,Percent,ZW_BA,60.3
-2020,Normal value,Units,ZIMSTAT,Proportion of individuals using the Internet [17.8.1],Harare,,Percent,ZW_HA,53.8
-2020,Normal value,Units,ZIMSTAT,Proportion of individuals using the Internet [17.8.1],Manicaland,,Percent,ZW_MA,17.8
-2020,Normal value,Units,ZIMSTAT,Proportion of individuals using the Internet [17.8.1],Mashonaland Central,,Percent,ZW_MC,15.6
-2020,Normal value,Units,ZIMSTAT,Proportion of individuals using the Internet [17.8.1],Masholanad East,,Percent,ZW_ME,21.7
-2020,Normal value,Units,ZIMSTAT,Proportion of individuals using the Internet [17.8.1],Midlands,,Percent,ZW_MI,25.0
-2020,Normal value,Units,ZIMSTAT,Proportion of individuals using the Internet [17.8.1],Matabeland North,,Percent,ZW_MN,22.0
-2020,Normal value,Units,ZIMSTAT,Proportion of individuals using the Internet [17.8.1],Matabeland South,,Percent,ZW_MS,34.4
-2020,Normal value,Units,ZIMSTAT,Proportion of individuals using the Internet [17.8.1],Masvingo,,Percent,ZW_MV,20.0
-2020,Normal value,Units,ZIMSTAT,Proportion of individuals using the Internet [17.8.1],Mashonaland West,,Percent,ZW_MW,22.8
+Year,Observation status,Unit multiplier,Source details,SERIES,Reference area,Sex,Degree of urbanisation,UNIT_MEASURE,GeoCode,Value
+2020,Normal value,Units,GOZ,Proportion of individuals using the Internet [17.8.1],,,,Percent,,29.3
+2023,Normal value,Units,GOZ,Proportion of individuals using the Internet [17.8.1],,,,Percent,,22.0
+2019,Normal value,Units,ZIMSTAT_MICS_Report_2019,Proportion of individuals using the Internet [17.8.1],,,Rural,Percent,,19.9
+2019,Normal value,Units,ZIMSTAT_MICS_Report_2019,Proportion of individuals using the Internet [17.8.1],,,Urban,Percent,,50.1
+2014,Normal value,Units,ZIMSTAT_Population_and_Housing_Census_Report_2022,Proportion of individuals using the Internet [17.8.1],,Female,,Percent,,16.4
+2019,Normal value,Units,ZIMSTAT_Population_and_Housing_Census_Report_2022,Proportion of individuals using the Internet [17.8.1],,Female,,Percent,,30.3
+2022,Normal value,Units,ZIMSTAT_Population_and_Housing_Census_Report_2022,Proportion of individuals using the Internet [17.8.1],,Female,,Percent,,34.2
+2019,Normal value,Units,ZIMSTAT_Population_and_Housing_Census_Report_2022,Proportion of individuals using the Internet [17.8.1],Bulawayo,,,Percent,ZW_BA,39.6
+2020,Normal value,Units,ZIMSTAT_Population_and_Housing_Census_Report_2022,Proportion of individuals using the Internet [17.8.1],Bulawayo,,,Percent,ZW_BA,60.3
+2022,Normal value,Units,ZIMSTAT_Population_and_Housing_Census_Report_2022,Proportion of individuals using the Internet [17.8.1],Bulawayo,,,Percent,ZW_BA,38.6
+2019,Normal value,Units,ZIMSTAT_Population_and_Housing_Census_Report_2022,Proportion of individuals using the Internet [17.8.1],Harare,,,Percent,ZW_HA,46.4
+2020,Normal value,Units,ZIMSTAT_Population_and_Housing_Census_Report_2022,Proportion of individuals using the Internet [17.8.1],Harare,,,Percent,ZW_HA,53.8
+2022,Normal value,Units,ZIMSTAT_Population_and_Housing_Census_Report_2022,Proportion of individuals using the Internet [17.8.1],Harare,,,Percent,ZW_HA,54.4
+2019,Normal value,Units,ZIMSTAT_Population_and_Housing_Census_Report_2022,Proportion of individuals using the Internet [17.8.1],Manicaland,,,Percent,ZW_MA,32.6
+2020,Normal value,Units,ZIMSTAT_Population_and_Housing_Census_Report_2022,Proportion of individuals using the Internet [17.8.1],Manicaland,,,Percent,ZW_MA,17.8
+2022,Normal value,Units,ZIMSTAT_Population_and_Housing_Census_Report_2022,Proportion of individuals using the Internet [17.8.1],Manicaland,,,Percent,ZW_MA,27.4
+2019,Normal value,Units,ZIMSTAT_Population_and_Housing_Census_Report_2022,Proportion of individuals using the Internet [17.8.1],Mashonaland Central,,,Percent,ZW_MC,16.1
+2020,Normal value,Units,ZIMSTAT_Population_and_Housing_Census_Report_2022,Proportion of individuals using the Internet [17.8.1],Mashonaland Central,,,Percent,ZW_MC,15.6
+2022,Normal value,Units,ZIMSTAT_Population_and_Housing_Census_Report_2022,Proportion of individuals using the Internet [17.8.1],Mashonaland Central,,,Percent,ZW_MC,16.8
+2019,Normal value,Units,ZIMSTAT_Population_and_Housing_Census_Report_2022,Proportion of individuals using the Internet [17.8.1],Masholanad East,,,Percent,ZW_ME,40.3
+2020,Normal value,Units,ZIMSTAT_Population_and_Housing_Census_Report_2022,Proportion of individuals using the Internet [17.8.1],Masholanad East,,,Percent,ZW_ME,21.7
+2022,Normal value,Units,ZIMSTAT_Population_and_Housing_Census_Report_2022,Proportion of individuals using the Internet [17.8.1],Masholanad East,,,Percent,ZW_ME,25.4
+2019,Normal value,Units,ZIMSTAT_Population_and_Housing_Census_Report_2022,Proportion of individuals using the Internet [17.8.1],Midlands,,,Percent,ZW_MI,32.2
+2020,Normal value,Units,ZIMSTAT_Population_and_Housing_Census_Report_2022,Proportion of individuals using the Internet [17.8.1],Midlands,,,Percent,ZW_MI,25.0
+2022,Normal value,Units,ZIMSTAT_Population_and_Housing_Census_Report_2022,Proportion of individuals using the Internet [17.8.1],Midlands,,,Percent,ZW_MI,32.8
+2019,Normal value,Units,ZIMSTAT_Population_and_Housing_Census_Report_2022,Proportion of individuals using the Internet [17.8.1],Matabeland North,,,Percent,ZW_MN,7.5
+2020,Normal value,Units,ZIMSTAT_Population_and_Housing_Census_Report_2022,Proportion of individuals using the Internet [17.8.1],Matabeland North,,,Percent,ZW_MN,22.0
+2022,Normal value,Units,ZIMSTAT_Population_and_Housing_Census_Report_2022,Proportion of individuals using the Internet [17.8.1],Matabeland North,,,Percent,ZW_MN,21.8
+2019,Normal value,Units,ZIMSTAT_Population_and_Housing_Census_Report_2022,Proportion of individuals using the Internet [17.8.1],Matabeland South,,,Percent,ZW_MS,36.2
+2020,Normal value,Units,ZIMSTAT_Population_and_Housing_Census_Report_2022,Proportion of individuals using the Internet [17.8.1],Matabeland South,,,Percent,ZW_MS,34.4
+2022,Normal value,Units,ZIMSTAT_Population_and_Housing_Census_Report_2022,Proportion of individuals using the Internet [17.8.1],Matabeland South,,,Percent,ZW_MS,35.0
+2019,Normal value,Units,ZIMSTAT_Population_and_Housing_Census_Report_2022,Proportion of individuals using the Internet [17.8.1],Masvingo,,,Percent,ZW_MV,17.9
+2020,Normal value,Units,ZIMSTAT_Population_and_Housing_Census_Report_2022,Proportion of individuals using the Internet [17.8.1],Masvingo,,,Percent,ZW_MV,20.0
+2022,Normal value,Units,ZIMSTAT_Population_and_Housing_Census_Report_2022,Proportion of individuals using the Internet [17.8.1],Masvingo,,,Percent,ZW_MV,43.0
+2019,Normal value,Units,ZIMSTAT_Population_and_Housing_Census_Report_2022,Proportion of individuals using the Internet [17.8.1],Mashonaland West,,,Percent,ZW_MW,21.2
+2020,Normal value,Units,ZIMSTAT_Population_and_Housing_Census_Report_2022,Proportion of individuals using the Internet [17.8.1],Mashonaland West,,,Percent,ZW_MW,22.8
+2022,Normal value,Units,ZIMSTAT_Population_and_Housing_Census_Report_2022,Proportion of individuals using the Internet [17.8.1],Mashonaland West,,,Percent,ZW_MW,31.8

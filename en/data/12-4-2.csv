@@ -1,1 +1,2 @@
-Year,Value
+Year,Observation status,Unit multiplier,Source details,SERIES,Reference area,UNIT_MEASURE,GeoCode,Value
+2024,Normal value,Units,MoFED,Proportion of electronic waste collected (%) [12.4.2],,Percent,,122

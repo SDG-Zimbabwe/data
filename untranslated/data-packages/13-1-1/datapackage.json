@@ -39,9 +39,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "UNDRR/CPU",
+                "UNDRR_CPU",
                 "MLGPWNH",
-                "MLGPWNH/CPU",
+                "MLGPWNH_CPU",
                 ""
               ]
             }

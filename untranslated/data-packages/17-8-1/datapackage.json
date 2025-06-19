@@ -40,8 +40,8 @@
             "constraints": {
               "enum": [
                 "GOZ",
-                "ZIMSTAT_specific_survey",
-                "ZIMSTAT",
+                "ZIMSTAT_MICS_Report_2019",
+                "ZIMSTAT_Population_and_Housing_Census_Report_2022",
                 ""
               ]
             }
@@ -81,6 +81,17 @@
             "constraints": {
               "enum": [
                 "F",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "URBANISATION",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "R",
+                "U",
                 ""
               ]
             }

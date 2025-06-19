@@ -50,6 +50,7 @@
             "constraints": {
               "enum": [
                 "NV_IND_MANF",
+                "NV_IND_MANFPC",
                 ""
               ]
             }

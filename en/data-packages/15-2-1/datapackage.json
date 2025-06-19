@@ -55,6 +55,7 @@
               "enum": [
                 "Above-ground biomass in forest (tonnes) [15.2.1]",
                 "Proportion of forest area with a long-term management plan [15.2.1]",
+                "Proportion of forest area within legally established protected areas [15.2.1]",
                 ""
               ]
             },
@@ -76,6 +77,7 @@
             "constraints": {
               "enum": [
                 "Percent",
+                "Hectares",
                 ""
               ]
             },

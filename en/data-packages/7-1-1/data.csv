@@ -1,4 +1,28 @@
-Year,Observation status,Unit multiplier,Source details,SERIES,Reference area,UNIT_MEASURE,GeoCode,Value
-2019,Normal value,Units,Zimstat_2022_PHC,Proportion of population with access to electricity [7.1.1],,Percent,,55.3
-2021,Normal value,Units,Zimstat_2022_PHC,Proportion of population with access to electricity [7.1.1],,Percent,,60.0
-2022,Normal value,Units,Zimstat_2022_PHC,Proportion of population with access to electricity [7.1.1],,Percent,,62.0
+Year,Observation status,Unit multiplier,Source details,SERIES,Reference area,Degree of urbanisation,UNIT_MEASURE,GeoCode,Value
+2019,Normal value,Units,Zimstat_2022_PHC,Proportion of population with access to electricity [7.1.1],,,Percent,,55.3
+2021,Normal value,Units,Zimstat_2022_PHC,Proportion of population with access to electricity [7.1.1],,,Percent,,60.0
+2022,Normal value,Units,Zimstat_2022_PHC,Proportion of population with access to electricity [7.1.1],,,Percent,,61.48422487662142
+2019,Normal value,Units,Zimstat_2022_PHC,Proportion of population with access to electricity [7.1.1],,Rural,Percent,,39.2
+2022,Normal value,Units,Zimstat_2022_PHC,Proportion of population with access to electricity [7.1.1],,Rural,Percent,,55.16670164368102
+2019,Normal value,Units,Zimstat_2022_PHC,Proportion of population with access to electricity [7.1.1],,Urban,Percent,,90.1
+2022,Normal value,Units,Zimstat_2022_PHC,Proportion of population with access to electricity [7.1.1],,Urban,Percent,,70.39773778310068
+2019,Normal value,Units,Zimstat_2022_PHC,Proportion of population with access to electricity [7.1.1],Bulawayo,,Percent,ZW_BA,93.5
+2022,Normal value,Units,Zimstat_2022_PHC,Proportion of population with access to electricity [7.1.1],Bulawayo,,Percent,ZW_BA,93.78399247968844
+2019,Normal value,Units,Zimstat_2022_PHC,Proportion of population with access to electricity [7.1.1],Harare,,Percent,ZW_HA,87.9
+2022,Normal value,Units,Zimstat_2022_PHC,Proportion of population with access to electricity [7.1.1],Harare,,Percent,ZW_HA,87.31311882513691
+2019,Normal value,Units,Zimstat_2022_PHC,Proportion of population with access to electricity [7.1.1],Manicaland,,Percent,ZW_MA,37.5
+2022,Normal value,Units,Zimstat_2022_PHC,Proportion of population with access to electricity [7.1.1],Manicaland,,Percent,ZW_MA,50.16433731202616
+2019,Normal value,Units,Zimstat_2022_PHC,Proportion of population with access to electricity [7.1.1],Mashonaland Central,,Percent,ZW_MC,36.2
+2022,Normal value,Units,Zimstat_2022_PHC,Proportion of population with access to electricity [7.1.1],Mashonaland Central,,Percent,ZW_MC,51.03351905689536
+2019,Normal value,Units,Zimstat_2022_PHC,Proportion of population with access to electricity [7.1.1],Masholanad East,,Percent,ZW_ME,44.3
+2022,Normal value,Units,Zimstat_2022_PHC,Proportion of population with access to electricity [7.1.1],Masholanad East,,Percent,ZW_ME,56.33491360075641
+2019,Normal value,Units,Zimstat_2022_PHC,Proportion of population with access to electricity [7.1.1],Midlands,,Percent,ZW_MI,52.7
+2022,Normal value,Units,Zimstat_2022_PHC,Proportion of population with access to electricity [7.1.1],Midlands,,Percent,ZW_MI,57.80067417159576
+2019,Normal value,Units,Zimstat_2022_PHC,Proportion of population with access to electricity [7.1.1],Matabeland North,,Percent,ZW_MN,42.4
+2022,Normal value,Units,Zimstat_2022_PHC,Proportion of population with access to electricity [7.1.1],Matabeland North,,Percent,ZW_MN,42.039152367294136
+2019,Normal value,Units,Zimstat_2022_PHC,Proportion of population with access to electricity [7.1.1],Matabeland South,,Percent,ZW_MS,51.0
+2022,Normal value,Units,Zimstat_2022_PHC,Proportion of population with access to electricity [7.1.1],Matabeland South,,Percent,ZW_MS,45.54849788959696
+2019,Normal value,Units,Zimstat_2022_PHC,Proportion of population with access to electricity [7.1.1],Masvingo,,Percent,ZW_MV,52.7
+2022,Normal value,Units,Zimstat_2022_PHC,Proportion of population with access to electricity [7.1.1],Masvingo,,Percent,ZW_MV,56.74613770741942
+2019,Normal value,Units,Zimstat_2022_PHC,Proportion of population with access to electricity [7.1.1],Mashonaland West,,Percent,ZW_MW,57.2
+2022,Normal value,Units,Zimstat_2022_PHC,Proportion of population with access to electricity [7.1.1],Mashonaland West,,Percent,ZW_MW,60.07989461621668

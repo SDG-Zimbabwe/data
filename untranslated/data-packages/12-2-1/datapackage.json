@@ -39,7 +39,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "RBZ_MMCZ_FGR_Zimstats",
+                "RBZ_MMCZ_FGR_Zimstat",
                 ""
               ]
             }
@@ -51,6 +51,7 @@
               "enum": [
                 "EN_MAT_FTPRPC",
                 "EN_MAT_FTPRPG",
+                "EN_MAT_FTPRTN",
                 ""
               ]
             }
