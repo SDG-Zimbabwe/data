@@ -12,12 +12,82 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Year"
           },
           {
-            "name": "Value",
+            "name": "OBS_STATUS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Normal value",
+                ""
+              ]
+            },
+            "title": "Observation status"
+          },
+          {
+            "name": "UNIT_MULT",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Units",
+                ""
+              ]
+            },
+            "title": "Unit multiplier"
+          },
+          {
+            "name": "SOURCE_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Minutes_of_meetings_Workshop_Reports_Master_and_Local_Plans_Documents",
+                ""
+              ]
+            },
+            "title": "Source details"
+          },
+          {
+            "name": "SERIES",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Proportion of cities with a direct participation structure of civil society in urban planning and management that operate regularly and democratically [11.3.2]",
+                ""
+              ]
+            },
+            "title": "SDG Series"
+          },
+          {
+            "name": "REF_AREA",
             "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "Reference area"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Percent",
+                ""
+              ]
+            },
+            "title": "Unit of measure"
+          },
+          {
+            "name": "GeoCode",
+            "type": "number",
+            "title": "GeoCode"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
             "title": "Value"
           }
         ]

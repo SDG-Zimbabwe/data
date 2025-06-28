@@ -50,6 +50,7 @@
             "constraints": {
               "enum": [
                 "EN_EWT_COLLR",
+                "EN_MWT_GENV",
                 ""
               ]
             }
@@ -69,6 +70,7 @@
             "constraints": {
               "enum": [
                 "PT",
+                "T",
                 ""
               ]
             }

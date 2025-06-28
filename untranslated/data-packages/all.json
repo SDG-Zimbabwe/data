@@ -555,6 +555,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "MOFEDIP",
                 "ZIMSTAT",
                 ""
               ]
@@ -1979,6 +1980,7 @@
             "constraints": {
               "enum": [
                 "EN_EWT_COLLR",
+                "EN_MWT_GENV",
                 ""
               ]
             }
@@ -1998,6 +2000,7 @@
             "constraints": {
               "enum": [
                 "PT",
+                "T",
                 ""
               ]
             }
@@ -5939,6 +5942,7 @@
               "enum": [
                 "AGG_0_1",
                 "AGG_2_3",
+                "ISCED11_1",
                 ""
               ]
             }
@@ -6973,6 +6977,91 @@
         ]
       },
       "title": "Proportion of teachers with the minimum required qualifications, by education leveli"
+    },
+    {
+      "path": "17-5-1/data.csv",
+      "name": "17-5-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "OBS_STATUS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "A",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "UNIT_MULT",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "0",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "SOURCE_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "GOZ",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "SERIES",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "SG_CPA_INVPRMLDC",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "REF_AREA",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            }
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "BOOL",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "GeoCode",
+            "type": "number"
+          },
+          {
+            "name": "Value",
+            "type": "integer"
+          }
+        ]
+      },
+      "title": "Number of countries that adopt and implement investment promotion regimes for developing countries, including the least developed countries"
     },
     {
       "path": "10-7-2/data.csv",
@@ -8060,6 +8149,91 @@
         ]
       },
       "title": "Number of countries with laws and regulations that guarantee full and equal access to women and men aged 15 years and older to sexual and reproductive health care, information and education"
+    },
+    {
+      "path": "11-3-2/data.csv",
+      "name": "11-3-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "OBS_STATUS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "A",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "UNIT_MULT",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "0",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "SOURCE_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Minutes_of_meetings_Workshop_Reports_Master_and_Local_Plans_Documents",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "SERIES",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "SG_URB_CSPART",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "REF_AREA",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            }
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "PT",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "GeoCode",
+            "type": "number"
+          },
+          {
+            "name": "Value",
+            "type": "integer"
+          }
+        ]
+      },
+      "title": "Proportion of cities with a direct participation structure of civil society in urban planning and management that operate regularly and democratically"
     },
     {
       "path": "3-b-1/data.csv",
@@ -14363,28 +14537,6 @@
       "title": "Proportion of population reporting having personally felt discriminated against or harassed in the previous 12 months on the basis of a ground of discrimination prohibited under international human rights law"
     },
     {
-      "path": "11-3-2/data.csv",
-      "name": "11-3-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number"
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "Proportion of cities with a direct participation structure of civil society in urban planning and management that operate regularly and democratically"
-    },
-    {
       "path": "9-5-1/data.csv",
       "name": "9-5-1",
       "profile": "tabular-data-resource",
@@ -14933,28 +15085,6 @@
         ]
       },
       "title": "Growth rates of household expenditure or income per capita among the bottom 40 per cent of the population and the total population"
-    },
-    {
-      "path": "17-5-1/data.csv",
-      "name": "17-5-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number"
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "Number of countries that adopt and implement investment promotion regimes for developing countries, including the least developed countries"
     },
     {
       "path": "17-15-1/data.csv",
