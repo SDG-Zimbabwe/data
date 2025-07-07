@@ -1,1 +1,1 @@
-{"data":[],"edges":[]}
+{"data":{"Year":[2022],"Observation status":["Normal value"],"Unit multiplier":["Units"],"Source details":["PHC"],"SERIES":["Municipal Solid Waste collection coverage, by cities (%) [11.6.1]"],"Reference area":[null],"Degree of urbanisation":["Urban"],"UNIT_MEASURE":["Percent"],"GeoCode":[null],"Value":[63]},"edges":{"From":["Source details"],"To":["Degree of urbanisation"]}}
