@@ -1,11 +1,11 @@
-Value,Disaggregation combinations using this value,Number of indicators
-ZW_BA,43,24
-ZW_HA,44,24
-ZW_MA,43,24
-ZW_MC,44,24
-ZW_ME,44,24
-ZW_MI,43,24
-ZW_MN,43,24
-ZW_MS,43,24
-ZW_MV,43,24
-ZW_MW,44,24
+Value,en,Disaggregation combinations using this value,Number of indicators
+ZW_BA,Bulawayo,43,24
+ZW_HA,Harare,44,24
+ZW_MA,Manicaland,43,24
+ZW_MC,Mashonaland Central,44,24
+ZW_ME,Masholanad East,44,24
+ZW_MI,Midlands,43,24
+ZW_MN,Matabeland North,43,24
+ZW_MS,Matabeland South,43,24
+ZW_MV,Masvingo,43,24
+ZW_MW,Mashonaland West,44,24
