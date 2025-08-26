@@ -1,4 +1,4 @@
-Year,Observation status,Unit multiplier,Source details,SERIES,Reference area,Degree of urbanisation,UNIT_MEASURE,GeoCode,Value
+Year,Observation status,Unit multiplier,SOURCE_DETAIL,SERIES,Reference area,Degree of urbanisation,UNIT_MEASURE,GeoCode,Value
 2017,Normal value,Units,Zimstat_2022_PHC,Proportion of population with primary reliance on clean fuels and technology [7.1.2],,,Percent,,21.6
 2019,Normal value,Units,Zimstat_2022_PHC,Proportion of population with primary reliance on clean fuels and technology [7.1.2],,,Percent,,33.7
 2022,Normal value,Units,Zimstat_2022_PHC,Proportion of population with primary reliance on clean fuels and technology [7.1.2],,,Percent,,61.936167437294046

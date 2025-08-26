@@ -1,4 +1,4 @@
-Year,Observation status,Unit multiplier,Source details,SERIES,Reference area,UNIT_MEASURE,GeoCode,Value
+Year,Observation status,Unit multiplier,SOURCE_DETAIL,SERIES,Reference area,UNIT_MEASURE,GeoCode,Value
 2019,Normal value,Units,MOHCC,Tuberculosis incidence [3.3.2],,"Per 100,000 population",,199
 2020,Normal value,Units,MOHCC,Tuberculosis incidence [3.3.2],,"Per 100,000 population",,193
 2021,Normal value,Units,MOHCC,Tuberculosis incidence [3.3.2],,"Per 100,000 population",,190

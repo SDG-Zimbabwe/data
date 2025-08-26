@@ -1,4 +1,4 @@
-Year,Observation status,Unit multiplier,Source details,SERIES,Reference area,Sex,UNIT_MEASURE,GeoCode,Value
+Year,Observation status,Unit multiplier,SOURCE_DETAIL,SERIES,Reference area,Sex,UNIT_MEASURE,GeoCode,Value
 2019,Normal value,Units,Zimstat_QLFS,"Unemployment rate, by sex and disability - 19th ICLS (%) [8.5.2]",,,Percent,,19.1
 2023,Normal value,Units,Zimstat_QLFS,"Unemployment rate, by sex and disability - 19th ICLS (%) [8.5.2]",,,Percent,,20.7
 2024,Normal value,Units,Zimstat_QLFS,"Unemployment rate, by sex and disability - 19th ICLS (%) [8.5.2]",,,Percent,,20.5

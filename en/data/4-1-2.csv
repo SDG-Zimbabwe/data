@@ -1,4 +1,4 @@
-Year,Observation status,Unit multiplier,Source details,SERIES,Reference area,Sex,Education level,UNIT_MEASURE,GeoCode,Value
+Year,Observation status,Unit multiplier,SOURCE_DETAIL,SERIES,Reference area,Sex,Education level,UNIT_MEASURE,GeoCode,Value
 2024,Normal value,Units,EMIS_2024,"Completion rate, by sex, location, wealth quintile and education level (%) [4.1.2]",,,Primary education or less,Percent,,91.44
 2024,Normal value,Units,EMIS_2024,"Completion rate, by sex, location, wealth quintile and education level (%) [4.1.2]",,,Primary and lower secondary education (basic education),Percent,,64.9
 2024,Normal value,Units,EMIS_2024,"Completion rate, by sex, location, wealth quintile and education level (%) [4.1.2]",,,Secondary education (lower and upper secondary education),Percent,,10.61

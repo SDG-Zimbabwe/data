@@ -1,4 +1,4 @@
-Year,Observation status,Unit multiplier,Source details,SERIES,Reference area,UNIT_MEASURE,GeoCode,Value
+Year,Observation status,Unit multiplier,SOURCE_DETAIL,SERIES,Reference area,UNIT_MEASURE,GeoCode,Value
 2009,Normal value,Units,ZIMSTAT_National_Accounts,Manufacturing value added as a proportion of GDP [9.2.1],,Percent,,10.77925292538384
 2010,Normal value,Units,ZIMSTAT_National_Accounts,Manufacturing value added as a proportion of GDP [9.2.1],,Percent,,15.599746751843954
 2011,Normal value,Units,ZIMSTAT_National_Accounts,Manufacturing value added as a proportion of GDP [9.2.1],,Percent,,15.552482356251456

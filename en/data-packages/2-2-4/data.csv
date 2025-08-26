@@ -1,4 +1,4 @@
-Year,Observation status,Unit multiplier,Source details,SERIES,Reference area,Degree of urbanisation,UNIT_MEASURE,GeoCode,Value
+Year,Observation status,Unit multiplier,SOURCE_DETAIL,SERIES,Reference area,Degree of urbanisation,UNIT_MEASURE,GeoCode,Value
 2024,Normal value,Units,ZDHS_2023_24,Prevalence of minimum dietary diversity among non-pregnant women aged 15-49 years [2.2.4],,Urban,Percent,,24.7
 2024,Normal value,Units,ZDHS_2023_24,Prevalence of minimum dietary diversity among non-pregnant women aged 15-49 years [2.2.4],Bulawayo,Urban,Percent,ZW_BA,18.2
 2024,Normal value,Units,ZDHS_2023_24,Prevalence of minimum dietary diversity among non-pregnant women aged 15-49 years [2.2.4],Harare,Urban,Percent,ZW_HA,58.6

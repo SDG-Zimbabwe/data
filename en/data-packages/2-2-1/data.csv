@@ -1,4 +1,4 @@
-Year,Observation status,Unit multiplier,Source details,SERIES,Reference area,Sex,Degree of urbanisation,UNIT_MEASURE,GeoCode,Value
+Year,Observation status,Unit multiplier,SOURCE_DETAIL,SERIES,Reference area,Sex,Degree of urbanisation,UNIT_MEASURE,GeoCode,Value
 2015,Normal value,Units,ZDHS_2023_24,Proportion of children moderately or severely stunted [2.2.1],,,,Percent,,26.8
 2019,Normal value,Units,ZDHS_2023_24,Proportion of children moderately or severely stunted [2.2.1],,,,Percent,,23.5
 2024,Normal value,Units,ZDHS_2023_24,Proportion of children moderately or severely stunted [2.2.1],,,,Percent,,27.0

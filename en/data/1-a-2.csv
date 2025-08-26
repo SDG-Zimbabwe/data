@@ -1,4 +1,4 @@
-Year,Observation status,Unit multiplier,Source details,SERIES,Reference area,UNIT_MEASURE,GeoCode,Value
+Year,Observation status,Unit multiplier,SOURCE_DETAIL,SERIES,Reference area,UNIT_MEASURE,GeoCode,Value
 2014,Normal value,Units,MOFEDIP,"Proportion of total government spending on essential services, education [UIS methodology] [1.a.2]",,Percent,,36.65662518834542
 2015,Normal value,Units,MOFEDIP,"Proportion of total government spending on essential services, education [UIS methodology] [1.a.2]",,Percent,,40.37658878345459
 2016,Normal value,Units,MOFEDIP,"Proportion of total government spending on essential services, education [UIS methodology] [1.a.2]",,Percent,,32.5914871233359

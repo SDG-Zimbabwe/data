@@ -1,4 +1,4 @@
-Year,Observation status,Unit multiplier,Source details,SERIES,Reference area,UNIT_MEASURE,GeoCode,Value
+Year,Observation status,Unit multiplier,SOURCE_DETAIL,SERIES,Reference area,UNIT_MEASURE,GeoCode,Value
 2010,Normal value,Units,ZIMSTAT_National_Account_Report,Annual GDP growth (%) [17.13.1],,Percent,,19.7
 2011,Normal value,Units,ZIMSTAT_National_Account_Report,Annual GDP growth (%) [17.13.1],,Percent,,14.2
 2012,Normal value,Units,ZIMSTAT_National_Account_Report,Annual GDP growth (%) [17.13.1],,Percent,,16.7

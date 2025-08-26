@@ -1,4 +1,4 @@
-Year,Observation status,Unit multiplier,Source details,SERIES,Reference area,Sex,Degree of urbanisation,UNIT_MEASURE,GeoCode,Value
+Year,Observation status,Unit multiplier,SOURCE_DETAIL,SERIES,Reference area,Sex,Degree of urbanisation,UNIT_MEASURE,GeoCode,Value
 2020,Normal value,Units,GOZ,Proportion of individuals using the Internet [17.8.1],,,,Percent,,29.3
 2023,Normal value,Units,GOZ,Proportion of individuals using the Internet [17.8.1],,,,Percent,,22.0
 2019,Normal value,Units,ZIMSTAT_MICS_Report_2019,Proportion of individuals using the Internet [17.8.1],,,Rural,Percent,,19.9

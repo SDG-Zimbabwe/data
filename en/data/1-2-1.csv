@@ -1,4 +1,4 @@
-Year,Observation status,Unit multiplier,Source details,SERIES,Reference area,Sex,Degree of urbanisation,UNIT_MEASURE,GeoCode,Value
+Year,Observation status,Unit multiplier,SOURCE_DETAIL,SERIES,Reference area,Sex,Degree of urbanisation,UNIT_MEASURE,GeoCode,Value
 2011,Normal value,Units,Zimstat_Mini__PICES__Poverty_Report_2019__LowerLine,Proportion of population living below the national poverty line [1.2.1],,,,Percent,,72.3
 2017,Normal value,Units,Zimstat_Mini__PICES__Poverty_Report_2019__LowerLine,Proportion of population living below the national poverty line [1.2.1],,,,Percent,,53.1
 2019,Normal value,Units,Zimstat_Mini__PICES__Poverty_Report_2019__LowerLine,Proportion of population living below the national poverty line [1.2.1],,,,Percent,,57.0

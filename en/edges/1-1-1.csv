@@ -1,4 +1,4 @@
 From,To
-Source details,Sex
-Source details,Age
-Source details,Degree of urbanisation
+SOURCE_DETAIL,Sex
+SOURCE_DETAIL,Age
+SOURCE_DETAIL,Degree of urbanisation

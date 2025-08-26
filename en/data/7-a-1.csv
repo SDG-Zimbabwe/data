@@ -1,4 +1,4 @@
-Year,Observation status,Unit multiplier,Source details,SERIES,Reference area,UNIT_MEASURE,GeoCode,Value
+Year,Observation status,Unit multiplier,SOURCE_DETAIL,SERIES,Reference area,UNIT_MEASURE,GeoCode,Value
 2020,Normal value,Units,ZERA_and_ZESA,"International financial flows to developing countries in support of clean energy research and development and renewable energy production, including in hybrid systems [7.a.1]",,USD,,1.6
 2022,Normal value,Units,ZERA_and_ZESA,"International financial flows to developing countries in support of clean energy research and development and renewable energy production, including in hybrid systems [7.a.1]",,USD,,9.2
 2023,Normal value,Units,ZERA_and_ZESA,"International financial flows to developing countries in support of clean energy research and development and renewable energy production, including in hybrid systems [7.a.1]",,USD,,5.6

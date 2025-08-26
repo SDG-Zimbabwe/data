@@ -1,4 +1,4 @@
-Year,Observation status,Unit multiplier,Source details,SERIES,Reference area,Sex,UNIT_MEASURE,GeoCode,Value
+Year,Observation status,Unit multiplier,SOURCE_DETAIL,SERIES,Reference area,Sex,UNIT_MEASURE,GeoCode,Value
 2019,Normal value,Units,ZDHS_2023_24,Proportion of individuals who own a mobile telephone [5.b.1],,Female,Percent,,72.0
 2024,Normal value,Units,ZDHS_2023_24,Proportion of individuals who own a mobile telephone [5.b.1],,Female,Percent,,79.4
 2019,Normal value,Units,ZDHS_2023_24,Proportion of individuals who own a mobile telephone [5.b.1],,Male,Percent,,73.0

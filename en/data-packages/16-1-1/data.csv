@@ -1,4 +1,4 @@
-Year,Observation status,Unit multiplier,Source details,SERIES,Reference area,Sex,UNIT_MEASURE,GeoCode,Value
+Year,Observation status,Unit multiplier,SOURCE_DETAIL,SERIES,Reference area,Sex,UNIT_MEASURE,GeoCode,Value
 2015,Normal value,Units,MoHACH,"Number of victims of intentional homicide per 100,000 population [16.1.1]",,,Number,,73
 2022,Normal value,Units,MoHACH,"Number of victims of intentional homicide per 100,000 population [16.1.1]",,,Number,,1085
 2023,Normal value,Units,MoHACH,"Number of victims of intentional homicide per 100,000 population [16.1.1]",,,Number,,1086

@@ -1,4 +1,4 @@
-Year,Observation status,Unit multiplier,Source details,SERIES,Reference area,Sex,Degree of urbanisation,UNIT_MEASURE,GeoCode,Value
+Year,Observation status,Unit multiplier,SOURCE_DETAIL,SERIES,Reference area,Sex,Degree of urbanisation,UNIT_MEASURE,GeoCode,Value
 2019,Normal value,Units,ZDHS_2023_24,Proportion of children under 5 years of age whose births have been registered with a civil authority [16.9.1],,,,Percent,,48.7
 2022,Normal value,Units,ZDHS_2023_24,Proportion of children under 5 years of age whose births have been registered with a civil authority [16.9.1],,,,Percent,,19.1
 2024,Normal value,Units,ZDHS_2023_24,Proportion of children under 5 years of age whose births have been registered with a civil authority [16.9.1],,,,Percent,,56.6

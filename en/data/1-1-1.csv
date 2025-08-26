@@ -1,4 +1,4 @@
-Year,Observation status,Unit multiplier,Source details,SERIES,Reference area,Sex,Age,Degree of urbanisation,UNIT_MEASURE,GeoCode,Value
+Year,Observation status,Unit multiplier,SOURCE_DETAIL,SERIES,Reference area,Sex,Age,Degree of urbanisation,UNIT_MEASURE,GeoCode,Value
 2011,Normal value,Units,Poverty_and_Inequality_Portal_World_Bank,Proportion of population below international poverty line [1.1.1],,,,,Percent,,21.6
 2017,Normal value,Units,Poverty_and_Inequality_Portal_World_Bank,Proportion of population below international poverty line [1.1.1],,,,,Percent,,34.2
 2019,Normal value,Units,Poverty_and_Inequality_Portal_World_Bank,Proportion of population below international poverty line [1.1.1],,,,,Percent,,39.8

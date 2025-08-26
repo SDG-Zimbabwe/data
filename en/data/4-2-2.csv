@@ -1,4 +1,4 @@
-Year,Observation status,Unit multiplier,Source details,SERIES,Reference area,Sex,Degree of urbanisation,UNIT_MEASURE,GeoCode,Value
+Year,Observation status,Unit multiplier,SOURCE_DETAIL,SERIES,Reference area,Sex,Degree of urbanisation,UNIT_MEASURE,GeoCode,Value
 2019,Normal value,Units,ZDHS_2023_24,Participation rate in organized learning (one year before the official primary entry age) [4.2.2],,,,Percent,,81.0
 2024,Normal value,Units,ZDHS_2023_24,Participation rate in organized learning (one year before the official primary entry age) [4.2.2],,,,Percent,,78.7
 2024,Normal value,Units,ZDHS_2023_24,Participation rate in organized learning (one year before the official primary entry age) [4.2.2],,,Rural,Percent,,76.1

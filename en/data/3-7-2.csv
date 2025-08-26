@@ -1,4 +1,4 @@
-Year,Observation status,Unit multiplier,Source details,SERIES,Reference area,Sex,Age,Degree of urbanisation,UNIT_MEASURE,GeoCode,Value
+Year,Observation status,Unit multiplier,SOURCE_DETAIL,SERIES,Reference area,Sex,Age,Degree of urbanisation,UNIT_MEASURE,GeoCode,Value
 2024,Normal value,Units,ZDHS_2023_24,"Adolescent birth rate (per 1,000 women aged 15-19 and 10-14 years) [3.7.2]",,Female,10 to 14 years old,,"Per 1,000 population",,2.0
 2024,Normal value,Units,ZDHS_2023_24,"Adolescent birth rate (per 1,000 women aged 15-19 and 10-14 years) [3.7.2]",,Female,10 to 14 years old,Rural,"Per 1,000 population",,2.0
 2024,Normal value,Units,ZDHS_2023_24,"Adolescent birth rate (per 1,000 women aged 15-19 and 10-14 years) [3.7.2]",,Female,10 to 14 years old,Urban,"Per 1,000 population",,1.0

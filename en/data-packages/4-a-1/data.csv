@@ -1,4 +1,4 @@
-Year,Observation status,Unit multiplier,Source details,SERIES,Reference area,Education level,UNIT_MEASURE,GeoCode,Value
+Year,Observation status,Unit multiplier,SOURCE_DETAIL,SERIES,Reference area,Education level,UNIT_MEASURE,GeoCode,Value
 2024,Normal value,Units,EMIS_2024,"Proportion of schools with access to computers for pedagogical purposes, by education level [4.a.1]",,Primary education or less,Percent,,34.73
 2024,Normal value,Units,EMIS_2024,"Proportion of schools with access to computers for pedagogical purposes, by education level [4.a.1]",,Secondary education (lower and upper secondary education),Percent,,48.14
 2024,Normal value,Units,EMIS_2024,"Proportion of schools with access to computers for pedagogical purposes, by education level [4.a.1]",,Primary education,Percent,,34.73

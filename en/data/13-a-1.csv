@@ -1,2 +1,2 @@
-Year,Observation status,Unit multiplier,Source details,SERIES,Reference area,UNIT_MEASURE,GeoCode,Value
+Year,Observation status,Unit multiplier,SOURCE_DETAIL,SERIES,Reference area,UNIT_MEASURE,GeoCode,Value
 2023,Normal value,Units,CMMD_reports,Mobilized amount of United States dollars per year between 2020 and 2025 accountable towards the $100 billion commitment [13.a.1],,Constant USD,,226000

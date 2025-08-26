@@ -1,4 +1,4 @@
-Year,Observation status,Unit multiplier,Source details,SERIES,Reference area,UNIT_MEASURE,GeoCode,Value
+Year,Observation status,Unit multiplier,SOURCE_DETAIL,SERIES,Reference area,UNIT_MEASURE,GeoCode,Value
 2015,Normal value,Units,ZINWA,Proportion of wastewater treated [6.3.1],,Percent,,80.0
 2020,Normal value,Units,MOFEDIP,Proportion of safely treated domestic wastewater flows [6.3.1],,Constant USD,,14.3
 2021,Normal value,Units,MOFEDIP,Proportion of safely treated domestic wastewater flows [6.3.1],,Constant USD,,6.8

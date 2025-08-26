@@ -1,5 +1,5 @@
 From,To
-Source details,Sex
+SOURCE_DETAIL,Sex
 Age,Reference area
 Sex,Age
 Age,Degree of urbanisation

@@ -1,4 +1,4 @@
-Year,Observation status,Unit multiplier,Source details,SERIES,Reference area,UNIT_MEASURE,GeoCode,Value
+Year,Observation status,Unit multiplier,SOURCE_DETAIL,SERIES,Reference area,UNIT_MEASURE,GeoCode,Value
 2015,Normal value,Units,EMA_REPORTS,Proportion of land that is degraded over total land area [15.3.1],,Percent,,9.6
 2019,Normal value,Units,EMA_REPORTS,Proportion of land that is degraded over total land area [15.3.1],,Percent,,9.22
 2022,Normal value,Units,EMA_REPORTS,Proportion of land that is degraded over total land area [15.3.1],,Percent,,0.029

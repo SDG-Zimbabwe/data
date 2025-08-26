@@ -1,4 +1,4 @@
 From,To
-Source details,Reference area
-Source details,Sex
-Source details,Age
+SOURCE_DETAIL,Reference area
+SOURCE_DETAIL,Sex
+SOURCE_DETAIL,Age

@@ -1,2 +1,2 @@
-Year,Observation status,Unit multiplier,Source details,SERIES,Reference area,UNIT_MEASURE,GeoCode,Value
+Year,Observation status,Unit multiplier,SOURCE_DETAIL,SERIES,Reference area,UNIT_MEASURE,GeoCode,Value
 2015,Normal value,Units,EMA,Number of companies publishing sustainability reports [12.6.1],,Number,,6
