@@ -55,6 +55,8 @@ inputs:
     import_series_attributes: true
     import_observation_attributes: true
     import_codes: true
+    indicator_id_map:
+     EN_MAT_FTPRPC: 8-4-1
     request_params: 
       headers: 
         User-Agent: Open-SDG-Build-1 
