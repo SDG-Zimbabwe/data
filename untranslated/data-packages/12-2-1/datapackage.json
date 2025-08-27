@@ -49,7 +49,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "EN_MAT_FTPRPC",
                 "EN_MAT_FTPRPG",
                 "EN_MAT_FTPRTN",
                 ""

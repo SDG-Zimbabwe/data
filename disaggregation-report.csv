@@ -1,8 +1,8 @@
 Disaggregation,en,Number of indicators,Number of values
 AGE,Age,16,15
 EDUCATION_LEV,Education level,5,6
-OBS_STATUS,Observation status,150,1
+OBS_STATUS,Observation status,151,1
 REF_AREA,Reference area,24,10
 SEX,Sex,32,2
-UNIT_MULT,Unit multiplier,150,1
+UNIT_MULT,Unit multiplier,151,1
 URBANISATION,Degree of urbanisation,24,2
