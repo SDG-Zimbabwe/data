@@ -53,6 +53,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "Material footprint per capita [8.4.1, 12.2.1]",
                 "Material footprint per unit of GDP [8.4.1, 12.2.1]",
                 "Material footprint [8.4.1, 12.2.1]",
                 ""

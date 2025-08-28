@@ -39,7 +39,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Zimbabwe_Embassys_Mission_reports_UNGA",
                 "MOFAIT",
                 ""
               ]
@@ -50,7 +49,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "SG_INT_MBRDEV",
                 "SG_INT_VRTDEV",
                 ""
               ]

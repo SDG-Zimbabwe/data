@@ -43,6 +43,7 @@
             "constraints": {
               "enum": [
                 "Compliance_documents_available_CCMD",
+                "CMMD_reports",
                 ""
               ]
             },
@@ -54,6 +55,7 @@
             "constraints": {
               "enum": [
                 "Number of countries with national adaptation plans [13.2.1]",
+                "Number of least developed countries and small island developing States with national adaptation plans (Number) [13.b.1]",
                 ""
               ]
             },

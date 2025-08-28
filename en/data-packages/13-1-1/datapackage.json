@@ -42,8 +42,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "UNDRR_CPU",
-                "MLGPWNH",
                 "MLGPWNH_CPU",
                 ""
               ]
@@ -55,10 +53,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Number of directly affected persons attributed to disasters per 100,000 population [1.5.1, 11.5.1, 13.1.1]",
-                "Number of missing persons due to disaster [1.5.1, 11.5.1, 13.1.1]",
                 "Number of deaths and missing persons attributed to disasters [1.5.1, 11.5.1, 13.1.1]",
-                "Number of deaths due to disaster [1.5.1, 11.5.1, 13.1.1]",
                 ""
               ]
             },
@@ -79,7 +74,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Number",
                 "Per 100,000 population",
                 ""
               ]

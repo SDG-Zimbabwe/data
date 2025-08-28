@@ -39,8 +39,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "UNDRR_CPU",
-                "MLGPWNH",
                 "MLGPWNH_CPU",
                 ""
               ]
@@ -51,10 +49,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "VC_DSR_DAFF",
-                "VC_DSR_MISS",
                 "VC_DSR_MMHN",
-                "VC_DSR_MORT",
                 ""
               ]
             }
@@ -73,7 +68,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "NUMBER",
                 "PER_100000_POP",
                 ""
               ]
