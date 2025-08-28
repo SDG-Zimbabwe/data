@@ -56,7 +56,34 @@ inputs:
     import_observation_attributes: true
     import_codes: true
     indicator_id_map:
-     _L_030801_01: 3-8-1
+     EN_MAT_DOMCMPT: 8-4-2
+     EN_MAT_DOMCMPC: 8-4-2
+     EN_MAT_DOMCMPG: 8-4-2
+     VC_VOV_DCMN: 16-b-1
+     SG_INT_MBRDEV: 10-6-1
+     EN_NAA_PLAN_DV: 13-2-1
+     ER_WLD_TRPOACH: 15-7-1
+     VC_DSR_MISS: 1-5-1
+     VC_DSR_MORT: 1-5-1
+     VC_DSR_DAFF: 1-5-1
+     VC_DSR_MISS: 11-5-1
+     VC_DSR_MORT: 11-5-1
+     VC_DSR_DAFF: 11-5-1
+     SG_DSR_LEGREG: 1-5-3
+     SG_DSR_LEGREG: 11-b-1
+     SG_DSR_LEGREG: 13-1-2
+     SG_DSR_SILS: 1-5-4
+     SG_DSR_SILS: 11-b-2
+     SG_DSR_SILS: 13-1-3
+     SE_GCEDESD_NEP: 4-7-1
+     SE_GCEDESD_CUR: 4-7-1
+     SE_GCEDESD_TED: 4-7-1
+     SE_GCEDESD_NEP: 12-8-1
+     SE_GCEDESD_CUR: 12-8-1
+     SE_GCEDESD_TED: 12-8-1
+     SE_GCEDESD_NEP: 13-3-1
+     SE_GCEDESD_CUR: 13-3-1
+     SE_GCEDESD_TED: 13-3-1
     request_params: 
       headers: 
         User-Agent: Open-SDG-Build-1 
