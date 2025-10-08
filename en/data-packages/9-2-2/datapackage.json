@@ -42,7 +42,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Zimstat_ICDS_2017",
+                "ZIMSTAT_Quarterly_Digest_of_Statistics",
                 ""
               ]
             },
