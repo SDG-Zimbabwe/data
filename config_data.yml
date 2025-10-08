@@ -81,9 +81,6 @@ inputs:
      SE_GCEDESD_NEP: 12-8-1
      SE_GCEDESD_CUR: 12-8-1
      SE_GCEDESD_TED: 12-8-1
-     SE_GCEDESD_NEP: 13-3-1
-     SE_GCEDESD_CUR: 13-3-1
-     SE_GCEDESD_TED: 13-3-1
     request_params: 
       headers: 
         User-Agent: Open-SDG-Build-1 
