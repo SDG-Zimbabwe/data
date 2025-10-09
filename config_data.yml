@@ -75,12 +75,9 @@ inputs:
      SG_DSR_SILS: 1-5-4
      SG_DSR_SILS: 11-b-2
      SG_DSR_SILS: 13-1-3
-     SE_GCEDESD_NEP: 4-7-1
-     SE_GCEDESD_CUR: 4-7-1
-     SE_GCEDESD_TED: 4-7-1
-     SE_GCEDESD_NEP: 12-8-1
-     SE_GCEDESD_CUR: 12-8-1
-     SE_GCEDESD_TED: 12-8-1
+     SE_GCEDESD_NEP: 4-7-1 12-8-1
+     SE_GCEDESD_CUR: 4-7-1 12-8-1
+     SE_GCEDESD_TED: 4-7-1 12-8-1
     request_params: 
       headers: 
         User-Agent: Open-SDG-Build-1 
