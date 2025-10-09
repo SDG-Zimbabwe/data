@@ -39,9 +39,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Zimstat_MICS_2019",
                 "ZDHS_2023_24",
-                "ZDHS 2023-24",
                 "DHIS2_2024",
                 ""
               ]

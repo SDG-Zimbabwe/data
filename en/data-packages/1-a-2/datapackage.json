@@ -42,8 +42,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "MOFEDIP",
                 "ZIMSTAT_National_Accounts",
+                "MoFEDIP",
                 ""
               ]
             },
@@ -54,7 +54,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Proportion of total government spending on essential services, education [UIS methodology] [1.a.2]",
                 "Proportion of total government spending on essential services, education [1.a.2]",
                 "Proportion of total government spending on essential services [1.a.2]",
                 "Proportion of total government spending on essential services, health [1.a.2]",

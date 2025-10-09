@@ -39,7 +39,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "GOZ",
+                "Zimstat",
                 "ZIMSTAT_MICS_Report_2019",
                 "ZIMSTAT_Population_and_Housing_Census_Report_2022",
                 ""

@@ -42,7 +42,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "ZIMSTAT_Prices_Department_Base_year_Dec_2024=100_End_of_period",
+                "ZIMSTAT_Prices_Department_Base_year_April__2024=100_Average_monthly",
                 ""
               ]
             },

@@ -53,7 +53,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Proportion of electronic waste collected (%) [12.4.2]",
                 "Municipal waste generated (Tonnes) [12.4.2]",
                 ""
               ]
@@ -75,7 +74,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Percent",
                 "Metric Tons",
                 ""
               ]

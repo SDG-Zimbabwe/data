@@ -1,6 +1,6 @@
 Year,Observation status,Unit multiplier,SOURCE_DETAIL,SERIES,Reference area,Sex,Age,UNIT_MEASURE,GeoCode,Value
-2023,Normal value,Units,ZIMSTAT,"Proportion of youth not in education, employment or training, by sex and age - 19th ICLS (%) [8.6.1]",,,15 to 24 years old,Percent,,45.4
-2024,Normal value,Units,ZIMSTAT,"Proportion of youth not in education, employment or training, by sex and age - 19th ICLS (%) [8.6.1]",,,15 to 24 years old,Percent,,27.9
+2023,Normal value,Units,Zimstat,"Proportion of youth not in education, employment or training, by sex and age - 19th ICLS (%) [8.6.1]",,,15 to 24 years old,Percent,,45.4
+2024,Normal value,Units,Zimstat,"Proportion of youth not in education, employment or training, by sex and age - 19th ICLS (%) [8.6.1]",,,15 to 24 years old,Percent,,27.9
 2023,Normal value,Units,Zimstat_QLFS,"Proportion of youth not in education, employment or training, by sex and age - 19th ICLS (%) [8.6.1]",,Female,15 to 24 years old,Percent,,51.1
 2023,Normal value,Units,Zimstat_QLFS,"Proportion of youth not in education, employment or training, by sex and age - 19th ICLS (%) [8.6.1]",,Male,15 to 24 years old,Percent,,39.8
 2023,Normal value,Units,Zimstat_QLFS,"Proportion of youth not in education, employment or training, by sex and age - 19th ICLS (%) [8.6.1]",Bulawayo,,15 to 24 years old,Percent,ZW_BA,39.798601920029824

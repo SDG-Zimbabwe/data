@@ -86,7 +86,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Primary education or less",
                 "Secondary education (lower and upper secondary education)",
                 "Primary education",
                 ""

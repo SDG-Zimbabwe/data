@@ -39,8 +39,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Min_primany_secondary_EMIS_2021",
-                "Min_primany_secondary_EMIS_2019",
                 "Min_primany_secondary_EMIS_2024",
                 ""
               ]
@@ -70,7 +68,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "ISCED11_02",
                 "ISCED11_1",
                 "ISCED11_2",
                 ""

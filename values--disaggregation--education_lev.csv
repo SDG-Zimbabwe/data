@@ -1,7 +1,6 @@
 Value,en,Disaggregation combinations using this value,Number of indicators
-AGG_0_1,Primary education or less,49,3
-AGG_1_2,Primary and lower secondary education (basic education),13,1
-AGG_2_3,Secondary education (lower and upper secondary education),46,2
-ISCED11_02,Pre-primary education,2,2
-ISCED11_1,Primary education,35,3
-ISCED11_2,Lower secondary education,2,2
+AGG_0_1,Primary education or less,16,2
+AGG_1_2,Primary and lower secondary education (basic education),3,1
+AGG_2_3,Secondary education (lower and upper secondary education),22,1
+ISCED11_1,Primary education,34,2
+ISCED11_2,Lower secondary education,1,1

@@ -1,8 +1,6 @@
 Year,OBS_STATUS,UNIT_MULT,SOURCE_DETAIL,SERIES,REF_AREA,UNIT_MEASURE,GeoCode,Value
-2019,A,0,Minutes_of_meetings_Workshop_Reports_Master_and_Local_Plans_Documents,EN_LND_SLUM,,PT,,0.33
-2022,A,0,Minutes_of_meetings_Workshop_Reports_Master_and_Local_Plans_Documents,EN_LND_SLUM,,PT,,1.1
-2023,A,0,Minutes_of_meetings_Workshop_Reports_Master_and_Local_Plans_Documents,EN_LND_SLUM,,PT,,80.0
-2024,A,0,Minutes_of_meetings_Workshop_Reports_Master_and_Local_Plans_Documents,EN_LND_SLUM,,PT,,90.0
+2019,A,0,Zimstat_2022_PHC,EN_LND_SLUM,,PT,,0.33
+2022,A,0,Zimstat_2022_PHC,EN_LND_SLUM,,PT,,1.1
 2022,A,0,Zimstat_2022_PHC,EN_LND_SLUM,ZW_BA,PT,ZW_BA,0.26
 2022,A,0,Zimstat_2022_PHC,EN_LND_SLUM,ZW_HA,PT,ZW_HA,1.45
 2022,A,0,Zimstat_2022_PHC,EN_LND_SLUM,ZW_MA,PT,ZW_MA,1.24

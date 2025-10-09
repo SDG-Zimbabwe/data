@@ -42,7 +42,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Minutes_of_meetings_Workshop_Reports_Master_and_Local_Plans_Documents",
                 "Zimstat_2022_PHC",
                 ""
               ]

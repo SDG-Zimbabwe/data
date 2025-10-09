@@ -97,18 +97,6 @@
             }
           },
           {
-            "name": "EDUCATION_LEV",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "ISCED11_02",
-                "ISCED11_1",
-                "ISCED11_2",
-                ""
-              ]
-            }
-          },
-          {
             "name": "UNIT_MEASURE",
             "type": "string",
             "constraints": {

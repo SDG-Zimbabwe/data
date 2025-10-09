@@ -98,7 +98,6 @@
               "enum": [
                 "Primary education or less",
                 "Primary and lower secondary education (basic education)",
-                "Secondary education (lower and upper secondary education)",
                 ""
               ]
             },

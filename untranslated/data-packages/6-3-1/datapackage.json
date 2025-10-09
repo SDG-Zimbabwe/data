@@ -40,7 +40,7 @@
             "constraints": {
               "enum": [
                 "ZINWA",
-                "MOFEDIP",
+                "MoFEDIP",
                 ""
               ]
             }

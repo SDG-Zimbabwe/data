@@ -39,8 +39,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "MOFEDIP",
                 "ZIMSTAT_National_Accounts",
+                "MoFEDIP",
                 ""
               ]
             }
@@ -50,7 +50,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "SD_XPD_ESED",
                 "SG_XPD_EDUC",
                 "SG_XPD_ESSRV",
                 "SG_XPD_HLTH",
