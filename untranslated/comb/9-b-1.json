@@ -1,1 +1,1 @@
-{"data":[],"edges":[]}
+{"data":{"Year":[2023,2024],"OBS_STATUS":["A","A"],"UNIT_MULT":["0","0"],"SOURCE_DETAIL":["ICT_POTRAZ_Sector_Report","ICT_POTRAZ_Sector_Report"],"SERIES":["NV_IND_TECH","NV_IND_TECH"],"REF_AREA":[null,null],"UNIT_MEASURE":["PT","PT"],"GeoCode":[null,null],"Value":[14.5,15.0]},"edges":{"From":["OBS_STATUS","UNIT_MULT"],"To":["UNIT_MULT","SOURCE_DETAIL"]}}

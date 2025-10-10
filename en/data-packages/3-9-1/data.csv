@@ -1,1 +1,3 @@
-Year,Value
+Year,Observation status,Unit multiplier,SOURCE_DETAIL,SERIES,Reference area,UNIT_MEASURE,GeoCode,Value
+2010,Normal value,Units,MoHCC_WHO_Estimates,Crude death rate attributed to household and ambient air pollution [3.9.1],,"Per 1,000 population",,238
+2019,Normal value,Units,MoHCC_WHO_Estimates,Crude death rate attributed to household and ambient air pollution [3.9.1],,"Per 1,000 population",,191

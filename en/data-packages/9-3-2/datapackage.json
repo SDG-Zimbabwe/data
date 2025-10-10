@@ -42,7 +42,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "RBZ",
+                "RBZ_Monetary_statement",
                 ""
               ]
             },

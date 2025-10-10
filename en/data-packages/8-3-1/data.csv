@@ -1,1 +1,38 @@
-Year,Value
+Year,Observation status,Unit multiplier,SOURCE_DETAIL,SERIES,Reference area,Sex,UNIT_MEASURE,GeoCode,Value
+2022,Normal value,Units,Zimstat_QLFS,"Proportion of informal employment, by sector and sex - 19th ICLS [8.3.1]",,,Percent,,70.6
+2023,Normal value,Units,Zimstat_QLFS,"Proportion of informal employment, by sector and sex - 19th ICLS [8.3.1]",,,Percent,,78.0
+2024,Normal value,Units,Zimstat_QLFS,"Proportion of informal employment, by sector and sex - 19th ICLS [8.3.1]",,,Percent,,83.1
+2023,Normal value,Units,Zimstat_QLFS,"Proportion of informal employment, by sector and sex - 19th ICLS [8.3.1]",,Female,Percent,,75.9
+2024,Normal value,Units,Zimstat_QLFS,"Proportion of informal employment, by sector and sex - 19th ICLS [8.3.1]",,Female,Percent,,83.2
+2023,Normal value,Units,Zimstat_QLFS,"Proportion of informal employment, by sector and sex - 19th ICLS [8.3.1]",,Male,Percent,,74.3
+2024,Normal value,Units,Zimstat_QLFS,"Proportion of informal employment, by sector and sex - 19th ICLS [8.3.1]",,Male,Percent,,82.9
+2023,Normal value,Units,Zimstat_QLFS,"Proportion of informal employment, by sector and sex - 19th ICLS [8.3.1]",Bulawayo,,Percent,ZW_BA,97.07187494944728
+2023,Normal value,Units,Zimstat_QLFS,"Proportion of informal employment, by sector and sex - 19th ICLS [8.3.1]",Bulawayo,Female,Percent,ZW_BA,97.47348259541856
+2023,Normal value,Units,Zimstat_QLFS,"Proportion of informal employment, by sector and sex - 19th ICLS [8.3.1]",Bulawayo,Male,Percent,ZW_BA,96.6544592933677
+2023,Normal value,Units,Zimstat_QLFS,"Proportion of informal employment, by sector and sex - 19th ICLS [8.3.1]",Harare,,Percent,ZW_HA,95.05553359035748
+2023,Normal value,Units,Zimstat_QLFS,"Proportion of informal employment, by sector and sex - 19th ICLS [8.3.1]",Harare,Female,Percent,ZW_HA,93.49233026939244
+2023,Normal value,Units,Zimstat_QLFS,"Proportion of informal employment, by sector and sex - 19th ICLS [8.3.1]",Harare,Male,Percent,ZW_HA,96.24854691589584
+2023,Normal value,Units,Zimstat_QLFS,"Proportion of informal employment, by sector and sex - 19th ICLS [8.3.1]",Manicaland,,Percent,ZW_MA,59.91598149102428
+2023,Normal value,Units,Zimstat_QLFS,"Proportion of informal employment, by sector and sex - 19th ICLS [8.3.1]",Manicaland,Female,Percent,ZW_MA,61.94305110691543
+2023,Normal value,Units,Zimstat_QLFS,"Proportion of informal employment, by sector and sex - 19th ICLS [8.3.1]",Manicaland,Male,Percent,ZW_MA,58.34407291340097
+2023,Normal value,Units,Zimstat_QLFS,"Proportion of informal employment, by sector and sex - 19th ICLS [8.3.1]",Mashonaland Central,,Percent,ZW_MC,52.554898902413846
+2023,Normal value,Units,Zimstat_QLFS,"Proportion of informal employment, by sector and sex - 19th ICLS [8.3.1]",Mashonaland Central,Female,Percent,ZW_MC,50.82537597741892
+2023,Normal value,Units,Zimstat_QLFS,"Proportion of informal employment, by sector and sex - 19th ICLS [8.3.1]",Mashonaland Central,Male,Percent,ZW_MC,53.634499693757895
+2023,Normal value,Units,Zimstat_QLFS,"Proportion of informal employment, by sector and sex - 19th ICLS [8.3.1]",Masholanad East,,Percent,ZW_ME,63.76583190252488
+2023,Normal value,Units,Zimstat_QLFS,"Proportion of informal employment, by sector and sex - 19th ICLS [8.3.1]",Masholanad East,Female,Percent,ZW_ME,63.38631434533295
+2023,Normal value,Units,Zimstat_QLFS,"Proportion of informal employment, by sector and sex - 19th ICLS [8.3.1]",Masholanad East,Male,Percent,ZW_ME,64.02800504495693
+2023,Normal value,Units,Zimstat_QLFS,"Proportion of informal employment, by sector and sex - 19th ICLS [8.3.1]",Midlands,,Percent,ZW_MI,72.8411943013611
+2023,Normal value,Units,Zimstat_QLFS,"Proportion of informal employment, by sector and sex - 19th ICLS [8.3.1]",Midlands,Female,Percent,ZW_MI,74.32932641389537
+2023,Normal value,Units,Zimstat_QLFS,"Proportion of informal employment, by sector and sex - 19th ICLS [8.3.1]",Midlands,Male,Percent,ZW_MI,71.77756329562058
+2023,Normal value,Units,Zimstat_QLFS,"Proportion of informal employment, by sector and sex - 19th ICLS [8.3.1]",Matabeland North,,Percent,ZW_MN,70.81953658200167
+2023,Normal value,Units,Zimstat_QLFS,"Proportion of informal employment, by sector and sex - 19th ICLS [8.3.1]",Matabeland North,Female,Percent,ZW_MN,69.66959349745851
+2023,Normal value,Units,Zimstat_QLFS,"Proportion of informal employment, by sector and sex - 19th ICLS [8.3.1]",Matabeland North,Male,Percent,ZW_MN,71.38979901803779
+2023,Normal value,Units,Zimstat_QLFS,"Proportion of informal employment, by sector and sex - 19th ICLS [8.3.1]",Matabeland South,,Percent,ZW_MS,78.99911900955155
+2023,Normal value,Units,Zimstat_QLFS,"Proportion of informal employment, by sector and sex - 19th ICLS [8.3.1]",Matabeland South,Female,Percent,ZW_MS,84.29586413154479
+2023,Normal value,Units,Zimstat_QLFS,"Proportion of informal employment, by sector and sex - 19th ICLS [8.3.1]",Matabeland South,Male,Percent,ZW_MS,74.65929933910328
+2023,Normal value,Units,Zimstat_QLFS,"Proportion of informal employment, by sector and sex - 19th ICLS [8.3.1]",Masvingo,,Percent,ZW_MV,75.47106446641897
+2023,Normal value,Units,Zimstat_QLFS,"Proportion of informal employment, by sector and sex - 19th ICLS [8.3.1]",Masvingo,Female,Percent,ZW_MV,77.92680019856448
+2023,Normal value,Units,Zimstat_QLFS,"Proportion of informal employment, by sector and sex - 19th ICLS [8.3.1]",Masvingo,Male,Percent,ZW_MV,73.63122240843086
+2023,Normal value,Units,Zimstat_QLFS,"Proportion of informal employment, by sector and sex - 19th ICLS [8.3.1]",Mashonaland West,,Percent,ZW_MW,63.9645013956051
+2023,Normal value,Units,Zimstat_QLFS,"Proportion of informal employment, by sector and sex - 19th ICLS [8.3.1]",Mashonaland West,Female,Percent,ZW_MW,63.55910274938772
+2023,Normal value,Units,Zimstat_QLFS,"Proportion of informal employment, by sector and sex - 19th ICLS [8.3.1]",Mashonaland West,Male,Percent,ZW_MW,64.20091677563138

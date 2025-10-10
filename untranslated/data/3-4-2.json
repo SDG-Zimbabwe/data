@@ -1,1 +1,1 @@
-{"Year":[2016],"OBS_STATUS":["A"],"UNIT_MULT":["0"],"SOURCE_DETAIL":["MOHCC"],"SERIES":["SH_STA_SCIDE"],"REF_AREA":[null],"UNIT_MEASURE":["PT"],"GeoCode":[null],"Value":[19.1]}
+{"Year":[2016,2020],"OBS_STATUS":["A","A"],"UNIT_MULT":["0","0"],"SOURCE_DETAIL":["MoHCC_WHOEstimates","MoHCC_WHOEstimates"],"SERIES":["SH_STA_SCIDE","SH_STA_SCIDE"],"REF_AREA":[null,null],"UNIT_MEASURE":["PT","PT"],"GeoCode":[null,null],"Value":[19.1,23.63]}

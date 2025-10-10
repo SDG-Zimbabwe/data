@@ -1,1 +1,2 @@
-Year,Value
+Year,Observation status,Unit multiplier,SOURCE_DETAIL,SERIES,Reference area,UNIT_MEASURE,GeoCode,Value
+2024,Normal value,Units,POZ_Reviews_from_Parliament_communication_platforms,Proportion of population who believe decision-making is inclusive and responsive [16.7.2],,Percent,,60

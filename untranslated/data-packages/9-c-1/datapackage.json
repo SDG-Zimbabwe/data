@@ -39,7 +39,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Zimstat_ICT_Survey_2014",
+                "ICT_POTRAZ_Sector_Report",
                 ""
               ]
             }
@@ -79,7 +79,7 @@
           },
           {
             "name": "Value",
-            "type": "integer"
+            "type": "number"
           }
         ]
       }

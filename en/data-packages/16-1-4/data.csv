@@ -1,1 +1,2 @@
-Year,Value
+Year,Observation status,Unit multiplier,SOURCE_DETAIL,SERIES,Reference area,UNIT_MEASURE,GeoCode,Value
+2024,Normal value,Units,ZRP_Press_2024,Proportion of population that feel safe walking alone around the area they live after dark [16.1.4],,Percent,,65

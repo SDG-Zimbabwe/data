@@ -1,1 +1,1 @@
-{"Year":[2024],"OBS_STATUS":["A"],"UNIT_MULT":["0"],"SOURCE_DETAIL":["EMA"],"SERIES":["EN_MWT_RCYV"],"REF_AREA":[null],"UNIT_MEASURE":["PT"],"GeoCode":[null],"Value":[63.25]}
+{"Year":[2023,2024],"OBS_STATUS":["A","A"],"UNIT_MULT":["0","0"],"SOURCE_DETAIL":["EMA","EMA"],"SERIES":["EN_MWT_RCYV","EN_MWT_RCYV"],"REF_AREA":[null,null],"UNIT_MEASURE":["PT","PT"],"GeoCode":[null,null],"Value":[55.0,63.25]}

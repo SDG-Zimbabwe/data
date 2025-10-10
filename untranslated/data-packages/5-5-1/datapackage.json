@@ -41,6 +41,7 @@
               "enum": [
                 "ZIMSTAT_women_and_men_report",
                 "ZDHS_2023_24",
+                "Parliamentary_of_Zimbabwe",
                 ""
               ]
             }
@@ -51,6 +52,9 @@
             "constraints": {
               "enum": [
                 "SG_GEN_LOCGELS",
+                "SG_GEN_PARL",
+                "SG_GEN_PARLN",
+                "SG_GEN_PARLNT",
                 ""
               ]
             }
@@ -90,6 +94,7 @@
             "constraints": {
               "enum": [
                 "PT",
+                "NUMBER",
                 ""
               ]
             }

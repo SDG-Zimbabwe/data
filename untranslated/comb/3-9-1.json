@@ -1,1 +1,1 @@
-{"data":[],"edges":[]}
+{"data":{"Year":[2010,2019],"OBS_STATUS":["A","A"],"UNIT_MULT":["0","0"],"SOURCE_DETAIL":["MoHCC_WHO_Estimates","MoHCC_WHO_Estimates"],"SERIES":["SH_STA_AIRP","SH_STA_AIRP"],"REF_AREA":[null,null],"UNIT_MEASURE":["PER_1000_POP","PER_1000_POP"],"GeoCode":[null,null],"Value":[238,191]},"edges":{"From":["OBS_STATUS","UNIT_MULT"],"To":["UNIT_MULT","SOURCE_DETAIL"]}}

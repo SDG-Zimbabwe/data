@@ -1,2 +1,4 @@
 Year,Observation status,Unit multiplier,SOURCE_DETAIL,SERIES,Reference area,UNIT_MEASURE,GeoCode,Value
-2024,Normal value,Units,ZRP_Crime_Records,Proportion of population aged 18-29 years who experienced sexual violence by age 18 [16.2.3],,Percent,,18.3
+2022,Normal value,Units,ZRP_Crime_Records,Proportion of population aged 18-29 years who experienced sexual violence by age 18 [16.2.3],,Percent,,0.03
+2023,Normal value,Units,ZRP_Crime_Records,Proportion of population aged 18-29 years who experienced sexual violence by age 18 [16.2.3],,Percent,,0.015
+2024,Normal value,Units,ZRP_Crime_Records,Proportion of population aged 18-29 years who experienced sexual violence by age 18 [16.2.3],,Percent,,0.03

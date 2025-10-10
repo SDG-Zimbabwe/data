@@ -1,5 +1,8 @@
 Year,Observation status,Unit multiplier,SOURCE_DETAIL,SERIES,Reference area,Age,Degree of urbanisation,UNIT_MEASURE,GeoCode,Value
 2019,Normal value,Units,ZDHS_2023_24,Proportion of the target population who received 3 doses of diphtheria-tetanus-pertussis (DTP3) vaccine [3.b.1],,12 to 23 months,,Percent,,91.0
+2021,Normal value,Units,ZDHS_2023_24,Proportion of the target population who received 3 doses of diphtheria-tetanus-pertussis (DTP3) vaccine [3.b.1],,12 to 23 months,,Percent,,76.0
+2022,Normal value,Units,ZDHS_2023_24,Proportion of the target population who received 3 doses of diphtheria-tetanus-pertussis (DTP3) vaccine [3.b.1],,12 to 23 months,,Percent,,80.0
+2023,Normal value,Units,ZDHS_2023_24,Proportion of the target population who received 3 doses of diphtheria-tetanus-pertussis (DTP3) vaccine [3.b.1],,12 to 23 months,,Percent,,86.0
 2024,Normal value,Units,ZDHS_2023_24,Proportion of the target population who received 3 doses of diphtheria-tetanus-pertussis (DTP3) vaccine [3.b.1],,12 to 23 months,,Percent,,81.9
 2024,Normal value,Units,ZDHS_2023_24,Proportion of the target population who received 3 doses of diphtheria-tetanus-pertussis (DTP3) vaccine [3.b.1],,12 to 23 months,Rural,Percent,,81.6
 2024,Normal value,Units,ZDHS_2023_24,Proportion of the target population who received 3 doses of diphtheria-tetanus-pertussis (DTP3) vaccine [3.b.1],,12 to 23 months,Urban,Percent,,82.4

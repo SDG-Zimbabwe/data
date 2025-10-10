@@ -1,1 +1,3 @@
-Year,Value
+Year,Observation status,Unit multiplier,SOURCE_DETAIL,SERIES,Reference area,UNIT_MEASURE,GeoCode,Value
+2016,Normal value,Units,Zimstat_MICS_2019,Mortality rate attributed to unintentional poisonings [3.9.3],,"Per 1,000 population",,2.2
+2024,Normal value,Units,Zimstat_MICS_2019,Mortality rate attributed to unintentional poisonings [3.9.3],,"Per 1,000 population",,2.1

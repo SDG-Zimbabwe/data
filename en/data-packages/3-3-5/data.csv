@@ -1,1 +1,5 @@
-Year,Value
+Year,Observation status,Unit multiplier,SOURCE_DETAIL,SERIES,Reference area,UNIT_MEASURE,GeoCode,Value
+2021,Normal value,Units,MoHCC_WHOEstimates,Number of people requiring interventions against neglected tropical diseases [3.3.5],,Number,,1020817
+2022,Normal value,Units,MoHCC_WHOEstimates,Number of people requiring interventions against neglected tropical diseases [3.3.5],,Number,,4989852
+2023,Normal value,Units,MoHCC_WHOEstimates,Number of people requiring interventions against neglected tropical diseases [3.3.5],,Number,,666319
+2024,Normal value,Units,MoHCC_WHOEstimates,Number of people requiring interventions against neglected tropical diseases [3.3.5],,Number,,4690220
