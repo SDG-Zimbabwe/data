@@ -39,6 +39,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "MoFEDIP",
                 "MoPSE",
                 ""
               ]
@@ -49,7 +50,10 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "SE_GCEDESD_CUR",
+                "SE_GCEDESD_NEP",
                 "SE_GCEDESD_SAS",
+                "SE_GCEDESD_TED",
                 ""
               ]
             }
