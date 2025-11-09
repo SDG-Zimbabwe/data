@@ -8,7 +8,6 @@ Indicator,Disaggregations,Number of disaggregations
 #1-a-2,"OBS_STATUS, UNIT_MULT",2
 #1-b-1,"OBS_STATUS, UNIT_MULT",2
 #10-4-1,"OBS_STATUS, UNIT_MULT",2
-#10-6-1,"OBS_STATUS, UNIT_MULT",2
 #10-7-4,"OBS_STATUS, UNIT_MULT",2
 #11-1-1,"OBS_STATUS, UNIT_MULT, REF_AREA",3
 #11-2-1,"OBS_STATUS, UNIT_MULT",2
@@ -155,4 +154,5 @@ Indicator,Disaggregations,Number of disaggregations
 #9-3-2,"OBS_STATUS, UNIT_MULT",2
 #9-5-1,"OBS_STATUS, UNIT_MULT",2
 #9-a-1,"OBS_STATUS, UNIT_MULT",2
+#9-b-1,"OBS_STATUS, UNIT_MULT",2
 #9-c-1,"OBS_STATUS, UNIT_MULT",2
