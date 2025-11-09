@@ -50,6 +50,7 @@
             "constraints": {
               "enum": [
                 "SH_SAN_DEFECT",
+                "SH_SAN_HNDWSH",
                 ""
               ]
             }

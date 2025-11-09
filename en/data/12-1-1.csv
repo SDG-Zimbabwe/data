@@ -1,1 +1,2 @@
-Year,Value
+Year,Observation status,Unit multiplier,SOURCE_DETAIL,SERIES,Reference area,UNIT_MEASURE,GeoCode,Value
+2024,Normal value,Units,RBZ_MMCZ_FGR_Zimstat,"Countries with policies, instruments and mechanism in place for sustainable consumption and production (1 = YES; 0 = NO) [12.1.1]",,Boolean or binary measure,,1

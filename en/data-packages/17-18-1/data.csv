@@ -1,1 +1,4 @@
-Year,Value
+Year,Observation status,Unit multiplier,SOURCE_DETAIL,SERIES,Reference area,UNIT_MEASURE,GeoCode,Value
+2017,Normal value,Units,ZIMSTAT_Paris_Report,Open Data Inventory (ODIN) Coverage Index [17.18.1],,Percent,,42.6
+2020,Normal value,Units,ZIMSTAT_Paris_Report,Open Data Inventory (ODIN) Coverage Index [17.18.1],,Percent,,61.7
+2023,Normal value,Units,ZIMSTAT_Paris_Report,Open Data Inventory (ODIN) Coverage Index [17.18.1],,Percent,,69.7

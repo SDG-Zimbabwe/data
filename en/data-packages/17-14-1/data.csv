@@ -1,1 +1,2 @@
-Year,Value
+Year,Observation status,Unit multiplier,SOURCE_DETAIL,SERIES,Reference area,UNIT_MEASURE,GeoCode,Value
+2024,Normal value,Units,GOZ_RCO,Countries with mechanisms in place to enhance policy coherence of sustainable development  (1 = YES; 0 = NO) [17.14.1],,Boolean or binary measure,,1

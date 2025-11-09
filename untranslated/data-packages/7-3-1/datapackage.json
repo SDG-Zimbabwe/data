@@ -39,7 +39,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "ZERA_and_ZESA",
+                "MOEPD_Zimstat",
                 ""
               ]
             }
@@ -68,7 +68,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "NUMBER",
+                "PT",
                 ""
               ]
             }
@@ -79,7 +79,7 @@
           },
           {
             "name": "Value",
-            "type": "integer"
+            "type": "number"
           }
         ]
       }

@@ -39,7 +39,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "DRM_CCA_Plans",
+                "Submitted_DRM_and_CCA_Plans_submitted",
                 ""
               ]
             }

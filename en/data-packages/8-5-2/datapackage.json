@@ -92,6 +92,17 @@
             "title": "Sex"
           },
           {
+            "name": "DISABILITY_STATUS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Persons with disability",
+                ""
+              ]
+            },
+            "title": "Disability status"
+          },
+          {
             "name": "UNIT_MEASURE",
             "type": "string",
             "constraints": {

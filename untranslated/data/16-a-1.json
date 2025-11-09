@@ -1,1 +1,1 @@
-{"Year":[2023],"OBS_STATUS":["A"],"UNIT_MULT":["0"],"SOURCE_DETAIL":["The_constitution_of_Zimbabwe_and_the_PARIS_principles"],"SERIES":["SG_NHR_CMPLNC"],"REF_AREA":[null],"UNIT_MEASURE":["BOOL"],"GeoCode":[null],"Value":[1]}
+{"Year":[2023,2024],"OBS_STATUS":["A","A"],"UNIT_MULT":["0","0"],"SOURCE_DETAIL":["The_constitution_of_Zimbabwe_and_the_PARIS_principles","The_constitution_of_Zimbabwe_and_the_PARIS_principles"],"SERIES":["SG_NHR_CMPLNC","SG_NHR_CMPLNC"],"REF_AREA":[null,null],"UNIT_MEASURE":["BOOL","BOOL"],"GeoCode":[null,null],"Value":[1,1]}

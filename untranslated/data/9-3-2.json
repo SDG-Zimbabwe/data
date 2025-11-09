@@ -1,1 +1,1 @@
-{"Year":[2019],"OBS_STATUS":["A"],"UNIT_MULT":["0"],"SOURCE_DETAIL":["RBZ_Monetary_statement"],"SERIES":["FC_ACC_SSID"],"REF_AREA":[null],"UNIT_MEASURE":["PT"],"GeoCode":[null],"Value":[8.18]}
+{"Year":[2019,2024],"OBS_STATUS":["A","A"],"UNIT_MULT":["0","0"],"SOURCE_DETAIL":["RBZ_Monetary_statement","RBZ_Monetary_statement"],"SERIES":["FC_ACC_SSID","FC_ACC_SSID"],"REF_AREA":[null,null],"UNIT_MEASURE":["PT","PT"],"GeoCode":[null,null],"Value":[8.18,8.18]}

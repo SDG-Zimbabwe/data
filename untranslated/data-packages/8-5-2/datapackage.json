@@ -85,6 +85,16 @@
             }
           },
           {
+            "name": "DISABILITY_STATUS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "PD",
+                ""
+              ]
+            }
+          },
+          {
             "name": "UNIT_MEASURE",
             "type": "string",
             "constraints": {

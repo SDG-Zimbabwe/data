@@ -1335,6 +1335,100 @@
       "title": "Total official international support (official development assistance plus other official flows) to infrastructure"
     },
     {
+      "path": "10-b-1/data.csv",
+      "name": "10-b-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "OBS_STATUS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Normal value",
+                ""
+              ]
+            },
+            "title": "Observation status"
+          },
+          {
+            "name": "UNIT_MULT",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Units",
+                ""
+              ]
+            },
+            "title": "Unit multiplier"
+          },
+          {
+            "name": "SOURCE_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "MoFEDIP_DEVPROMIS",
+                ""
+              ]
+            },
+            "title": "SOURCE_DETAIL"
+          },
+          {
+            "name": "SERIES",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Total resource flows for development, by recipient and donor countries [10.b.1]",
+                ""
+              ]
+            },
+            "title": "SDG Series"
+          },
+          {
+            "name": "REF_AREA",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "Reference area"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "USD",
+                ""
+              ]
+            },
+            "title": "Unit of measure"
+          },
+          {
+            "name": "GeoCode",
+            "type": "number",
+            "title": "GeoCode"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Total resource flows for development (e.g. official development assistance, foreign direct investment and other flows)"
+    },
+    {
       "path": "17-4-1/data.csv",
       "name": "17-4-1",
       "profile": "tabular-data-resource",
@@ -1586,7 +1680,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Zimstat_2022_PHC",
+                "Zimstat_ZDHS_2024",
                 ""
               ]
             },
@@ -1702,7 +1796,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "ZERA_and_ZESA",
+                "MOEPD_Zimstat",
                 ""
               ]
             },
@@ -1734,7 +1828,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Number",
+                "Percent",
                 ""
               ]
             },
@@ -1747,7 +1841,7 @@
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Value"
           }
         ]
@@ -1761,7 +1855,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "iso8859-1",
+      "encoding": "utf-8",
       "schema": {
         "fields": [
           {
@@ -1796,7 +1890,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Min_of_Energy",
+                "MoEnergy",
                 ""
               ]
             },
@@ -2993,6 +3087,100 @@
       "title": "Number of countries with nationally determined contributions, long-term strategies, national adaptation plans, strategies as reported in adaptation communications and national communications"
     },
     {
+      "path": "13-b-1/data.csv",
+      "name": "13-b-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "OBS_STATUS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Normal value",
+                ""
+              ]
+            },
+            "title": "Observation status"
+          },
+          {
+            "name": "UNIT_MULT",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Units",
+                ""
+              ]
+            },
+            "title": "Unit multiplier"
+          },
+          {
+            "name": "SOURCE_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "CMMD_reports",
+                ""
+              ]
+            },
+            "title": "SOURCE_DETAIL"
+          },
+          {
+            "name": "SERIES",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Number of least developed countries and small island developing States with nationally determined contributions (Number) [13.b.1]",
+                ""
+              ]
+            },
+            "title": "SDG Series"
+          },
+          {
+            "name": "REF_AREA",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "Reference area"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Boolean or binary measure",
+                ""
+              ]
+            },
+            "title": "Unit of measure"
+          },
+          {
+            "name": "GeoCode",
+            "type": "number",
+            "title": "GeoCode"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Number of least developed countries and small island developing States with nationally determined contributions, long-term strategies, national adaptation plans, strategies as reported in adaptation communications and national communications"
+    },
+    {
       "path": "11-6-1/data.csv",
       "name": "11-6-1",
       "profile": "tabular-data-resource",
@@ -3233,7 +3421,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "EMA",
+                "EMA_ESG_WEBSITE",
                 ""
               ]
             },
@@ -3327,7 +3515,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Zimstat",
+                "MoLGPWNH",
                 ""
               ]
             },
@@ -4869,7 +5057,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Percent",
+                "Number",
                 ""
               ]
             },
@@ -6197,9 +6385,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Zimstat",
-                "ZIMSTAT_MICS_Report_2019",
                 "ZIMSTAT_Population_and_Housing_Census_Report_2022",
+                "ZIMSTAT_MICS_Report_2019",
                 ""
               ]
             },
@@ -6454,6 +6641,7 @@
             "constraints": {
               "enum": [
                 "Percent",
+                "Constant USD",
                 ""
               ]
             },
@@ -8857,6 +9045,100 @@
       "title": "Proportion of countries with migration policies that facilitate orderly, safe, regular and responsible migration and mobility of people"
     },
     {
+      "path": "17-14-1/data.csv",
+      "name": "17-14-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "OBS_STATUS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Normal value",
+                ""
+              ]
+            },
+            "title": "Observation status"
+          },
+          {
+            "name": "UNIT_MULT",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Units",
+                ""
+              ]
+            },
+            "title": "Unit multiplier"
+          },
+          {
+            "name": "SOURCE_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "GOZ_RCO",
+                ""
+              ]
+            },
+            "title": "SOURCE_DETAIL"
+          },
+          {
+            "name": "SERIES",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Countries with mechanisms in place to enhance policy coherence of sustainable development  (1 = YES; 0 = NO) [17.14.1]",
+                ""
+              ]
+            },
+            "title": "SDG Series"
+          },
+          {
+            "name": "REF_AREA",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "Reference area"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Boolean or binary measure",
+                ""
+              ]
+            },
+            "title": "Unit of measure"
+          },
+          {
+            "name": "GeoCode",
+            "type": "number",
+            "title": "GeoCode"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Number of countries with mechanisms in place to enhance policy coherence of sustainable development"
+    },
+    {
       "path": "13-1-2/data.csv",
       "name": "13-1-2",
       "profile": "tabular-data-resource",
@@ -8992,7 +9274,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "DRM_CCA_Plans",
+                "Submitted_DRM_and_CCA_Plans_submitted",
                 ""
               ]
             },
@@ -9118,7 +9400,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Number",
+                "Boolean or binary measure",
                 ""
               ]
             },
@@ -9926,6 +10208,194 @@
       "title": "Existence of independent national human rights institutions in compliance with the Paris Principles"
     },
     {
+      "path": "17-16-1/data.csv",
+      "name": "17-16-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "OBS_STATUS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Normal value",
+                ""
+              ]
+            },
+            "title": "Observation status"
+          },
+          {
+            "name": "UNIT_MULT",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Units",
+                ""
+              ]
+            },
+            "title": "Unit multiplier"
+          },
+          {
+            "name": "SOURCE_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "UNSDF_NDS1",
+                ""
+              ]
+            },
+            "title": "SOURCE_DETAIL"
+          },
+          {
+            "name": "SERIES",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Number of countries reporting progress in multi-stakeholder development effectiveness monitoring frameworks that support the achievement of the sustainable development goals, Provider (1 = YES; 0 = NO) [17.16.1]",
+                ""
+              ]
+            },
+            "title": "SDG Series"
+          },
+          {
+            "name": "REF_AREA",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "Reference area"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Boolean or binary measure",
+                ""
+              ]
+            },
+            "title": "Unit of measure"
+          },
+          {
+            "name": "GeoCode",
+            "type": "number",
+            "title": "GeoCode"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Number of countries reporting progress in multi-stakeholder development effectiveness monitoring frameworks that support the achievement of the sustainable development goals"
+    },
+    {
+      "path": "17-15-1/data.csv",
+      "name": "17-15-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "OBS_STATUS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Normal value",
+                ""
+              ]
+            },
+            "title": "Observation status"
+          },
+          {
+            "name": "UNIT_MULT",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Units",
+                ""
+              ]
+            },
+            "title": "Unit multiplier"
+          },
+          {
+            "name": "SOURCE_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "UNSDF_NDS1",
+                ""
+              ]
+            },
+            "title": "SOURCE_DETAIL"
+          },
+          {
+            "name": "SERIES",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Extent of use of country-owned results frameworks and planning tools by providers of development cooperation - data by provider (%)  [17.15.1]",
+                ""
+              ]
+            },
+            "title": "SDG Series"
+          },
+          {
+            "name": "REF_AREA",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "Reference area"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Percent",
+                ""
+              ]
+            },
+            "title": "Unit of measure"
+          },
+          {
+            "name": "GeoCode",
+            "type": "number",
+            "title": "GeoCode"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Extent of use of country-owned results frameworks and planning tools by providers of development cooperation"
+    },
+    {
       "path": "16-9-1/data.csv",
       "name": "16-9-1",
       "profile": "tabular-data-resource",
@@ -10245,6 +10715,194 @@
       "title": "Number of countries with laws and regulations that guarantee full and equal access to women and men aged 15 years and older to sexual and reproductive health care, information and education"
     },
     {
+      "path": "12-7-1/data.csv",
+      "name": "12-7-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "OBS_STATUS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Normal value",
+                ""
+              ]
+            },
+            "title": "Observation status"
+          },
+          {
+            "name": "UNIT_MULT",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Units",
+                ""
+              ]
+            },
+            "title": "Unit multiplier"
+          },
+          {
+            "name": "SOURCE_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "TBA",
+                ""
+              ]
+            },
+            "title": "SOURCE_DETAIL"
+          },
+          {
+            "name": "SERIES",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Countries implementing sustainable public procurement policies and action plans  (1 = YES; 0 = NO) [12.7.1]",
+                ""
+              ]
+            },
+            "title": "SDG Series"
+          },
+          {
+            "name": "REF_AREA",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "Reference area"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Boolean or binary measure",
+                ""
+              ]
+            },
+            "title": "Unit of measure"
+          },
+          {
+            "name": "GeoCode",
+            "type": "number",
+            "title": "GeoCode"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Number of countries implementing sustainable public procurement policies and action plans"
+    },
+    {
+      "path": "12-1-1/data.csv",
+      "name": "12-1-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "OBS_STATUS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Normal value",
+                ""
+              ]
+            },
+            "title": "Observation status"
+          },
+          {
+            "name": "UNIT_MULT",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Units",
+                ""
+              ]
+            },
+            "title": "Unit multiplier"
+          },
+          {
+            "name": "SOURCE_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "RBZ_MMCZ_FGR_Zimstat",
+                ""
+              ]
+            },
+            "title": "SOURCE_DETAIL"
+          },
+          {
+            "name": "SERIES",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Countries with policies, instruments and mechanism in place for sustainable consumption and production (1 = YES; 0 = NO) [12.1.1]",
+                ""
+              ]
+            },
+            "title": "SDG Series"
+          },
+          {
+            "name": "REF_AREA",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "Reference area"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Boolean or binary measure",
+                ""
+              ]
+            },
+            "title": "Unit of measure"
+          },
+          {
+            "name": "GeoCode",
+            "type": "number",
+            "title": "GeoCode"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Number of countries developing, adopting or implementing policy instruments aimed at supporting the shift to sustainable consumption and production"
+    },
+    {
       "path": "17-18-2/data.csv",
       "name": "17-18-2",
       "profile": "tabular-data-resource",
@@ -10337,6 +10995,100 @@
         ]
       },
       "title": "Number of countries that have national statistical legislation that complies with the Fundamental Principles of Official Statistics"
+    },
+    {
+      "path": "17-18-1/data.csv",
+      "name": "17-18-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "OBS_STATUS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Normal value",
+                ""
+              ]
+            },
+            "title": "Observation status"
+          },
+          {
+            "name": "UNIT_MULT",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Units",
+                ""
+              ]
+            },
+            "title": "Unit multiplier"
+          },
+          {
+            "name": "SOURCE_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "ZIMSTAT_Paris_Report",
+                ""
+              ]
+            },
+            "title": "SOURCE_DETAIL"
+          },
+          {
+            "name": "SERIES",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Open Data Inventory (ODIN) Coverage Index [17.18.1]",
+                ""
+              ]
+            },
+            "title": "SDG Series"
+          },
+          {
+            "name": "REF_AREA",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "Reference area"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Percent",
+                ""
+              ]
+            },
+            "title": "Unit of measure"
+          },
+          {
+            "name": "GeoCode",
+            "type": "number",
+            "title": "GeoCode"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Statistical capacity indicator for Sustainable Development Goal monitoring"
     },
     {
       "path": "11-3-2/data.csv",
@@ -12140,6 +12892,7 @@
             "constraints": {
               "enum": [
                 "Proportion of population practicing open defecation [6.2.1]",
+                "Proportion of population with basic handwashing facilities on premises [6.2.1]",
                 ""
               ]
             },
@@ -13655,6 +14408,194 @@
       "title": "Proportion of population covered by social protection floors/systems, by sex, distinguishing children, unemployed persons, older persons, persons with disabilities, pregnant women, newborns, work-injury victims and the poor and the vulnerable"
     },
     {
+      "path": "10-1-1/data.csv",
+      "name": "10-1-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "OBS_STATUS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Normal value",
+                ""
+              ]
+            },
+            "title": "Observation status"
+          },
+          {
+            "name": "UNIT_MULT",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Units",
+                ""
+              ]
+            },
+            "title": "Unit multiplier"
+          },
+          {
+            "name": "SOURCE_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Pices_ZIMSTAT",
+                ""
+              ]
+            },
+            "title": "SOURCE_DETAIL"
+          },
+          {
+            "name": "SERIES",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Growth rates of household expenditure or income per capita [10.1.1]",
+                ""
+              ]
+            },
+            "title": "SDG Series"
+          },
+          {
+            "name": "REF_AREA",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "Reference area"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Percent",
+                ""
+              ]
+            },
+            "title": "Unit of measure"
+          },
+          {
+            "name": "GeoCode",
+            "type": "number",
+            "title": "GeoCode"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Growth rates of household expenditure or income per capita among the bottom 40 per cent of the population and the total population"
+    },
+    {
+      "path": "10-2-1/data.csv",
+      "name": "10-2-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "OBS_STATUS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Normal value",
+                ""
+              ]
+            },
+            "title": "Observation status"
+          },
+          {
+            "name": "UNIT_MULT",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Units",
+                ""
+              ]
+            },
+            "title": "Unit multiplier"
+          },
+          {
+            "name": "SOURCE_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "ZIMSTAT_WorldBank",
+                ""
+              ]
+            },
+            "title": "SOURCE_DETAIL"
+          },
+          {
+            "name": "SERIES",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Proportion of people living below 50 percent of median income [10.2.1]",
+                ""
+              ]
+            },
+            "title": "SDG Series"
+          },
+          {
+            "name": "REF_AREA",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "Reference area"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Percent",
+                ""
+              ]
+            },
+            "title": "Unit of measure"
+          },
+          {
+            "name": "GeoCode",
+            "type": "number",
+            "title": "GeoCode"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Proportion of people living below 50 per cent of median income, by sex, age and persons with disabilities"
+    },
+    {
       "path": "1-1-1/data.csv",
       "name": "1-1-1",
       "profile": "tabular-data-resource",
@@ -14925,6 +15866,17 @@
             "title": "Sex"
           },
           {
+            "name": "DISABILITY_STATUS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Persons with disability",
+                ""
+              ]
+            },
+            "title": "Disability status"
+          },
+          {
             "name": "UNIT_MEASURE",
             "type": "string",
             "constraints": {
@@ -15267,6 +16219,125 @@
       "title": "Adolescent birth rate (aged 10–14 years; aged 15–19 years) per 1,000 women in that age group"
     },
     {
+      "path": "5-3-1/data.csv",
+      "name": "5-3-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "OBS_STATUS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Normal value",
+                ""
+              ]
+            },
+            "title": "Observation status"
+          },
+          {
+            "name": "UNIT_MULT",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Units",
+                ""
+              ]
+            },
+            "title": "Unit multiplier"
+          },
+          {
+            "name": "SOURCE_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "ZDHS_2023_24",
+                "ZIMSTAT_MICS",
+                ""
+              ]
+            },
+            "title": "SOURCE_DETAIL"
+          },
+          {
+            "name": "SERIES",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Proportion of women aged 20-24 years who were married or in a union before age 15 [5.3.1]",
+                "Proportion of women aged 20-24 years who were married or in a union before age 18 [5.3.1]",
+                ""
+              ]
+            },
+            "title": "SDG Series"
+          },
+          {
+            "name": "REF_AREA",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "Reference area"
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Female",
+                ""
+              ]
+            },
+            "title": "Sex"
+          },
+          {
+            "name": "AGE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "under 15 years old",
+                "under 18 years old",
+                ""
+              ]
+            },
+            "title": "Age"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Percent",
+                ""
+              ]
+            },
+            "title": "Unit of measure"
+          },
+          {
+            "name": "GeoCode",
+            "type": "number",
+            "title": "GeoCode"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Proportion of women aged 20–24 years who were married or in a union before age 15 and before age 18"
+    },
+    {
       "path": "5-a-1/data.csv",
       "name": "5-a-1",
       "profile": "tabular-data-resource",
@@ -15590,7 +16661,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "ZIMSTAT_MoPSLSF",
+                "Min_of_Tourism",
                 ""
               ]
             },
@@ -15622,7 +16693,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Percent",
+                "Number",
                 ""
               ]
             },
@@ -16263,6 +17334,7 @@
             "constraints": {
               "enum": [
                 "ZRP_Press_2024",
+                "MICS_2019",
                 ""
               ]
             },
@@ -16290,6 +17362,18 @@
             "title": "Reference area"
           },
           {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Female",
+                "Male",
+                ""
+              ]
+            },
+            "title": "Sex"
+          },
+          {
             "name": "UNIT_MEASURE",
             "type": "string",
             "constraints": {
@@ -16307,7 +17391,7 @@
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Value"
           }
         ]
@@ -17268,30 +18352,6 @@
       "title": "Worldwide weighted tariff-average"
     },
     {
-      "path": "17-14-1/data.csv",
-      "name": "17-14-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Year"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Number of countries with mechanisms in place to enhance policy coherence of sustainable development"
-    },
-    {
       "path": "5-4-1/data.csv",
       "name": "5-4-1",
       "profile": "tabular-data-resource",
@@ -17388,54 +18448,6 @@
       "title": "Amount in United States dollars committed to public-private partnerships for infrastructure"
     },
     {
-      "path": "17-18-1/data.csv",
-      "name": "17-18-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Year"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Statistical capacity indicator for Sustainable Development Goal monitoring"
-    },
-    {
-      "path": "12-1-1/data.csv",
-      "name": "12-1-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Year"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Number of countries developing, adopting or implementing policy instruments aimed at supporting the shift to sustainable consumption and production"
-    },
-    {
       "path": "14-5-1/data.csv",
       "name": "14-5-1",
       "profile": "tabular-data-resource",
@@ -17506,30 +18518,6 @@
         ]
       },
       "title": "Remittance costs as a proportion of the amount remitted"
-    },
-    {
-      "path": "17-16-1/data.csv",
-      "name": "17-16-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Year"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Number of countries reporting progress in multi-stakeholder development effectiveness monitoring frameworks that support the achievement of the sustainable development goals"
     },
     {
       "path": "10-7-1/data.csv",
@@ -17962,30 +18950,6 @@
         ]
       },
       "title": "Material footprint, material footprint per capita, and material footprint per GDP"
-    },
-    {
-      "path": "17-15-1/data.csv",
-      "name": "17-15-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Year"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Extent of use of country-owned results frameworks and planning tools by providers of development cooperation"
     },
     {
       "path": "3-4-1/data.csv",
@@ -18540,30 +19504,6 @@
       "title": "Number of countries with a national statistical plan that is fully funded and under implementation, by source of funding"
     },
     {
-      "path": "10-2-1/data.csv",
-      "name": "10-2-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Year"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Proportion of people living below 50 per cent of median income, by sex, age and persons with disabilities"
-    },
-    {
       "path": "1-4-2/data.csv",
       "name": "1-4-2",
       "profile": "tabular-data-resource",
@@ -18588,30 +19528,6 @@
       "title": "Proportion of total adult population with secure tenure rights to land, (a) with legally recognized documentation, and (b) who perceive their rights to land as secure, by sex and type of tenure"
     },
     {
-      "path": "10-b-1/data.csv",
-      "name": "10-b-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Year"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Total resource flows for development (e.g. official development assistance, foreign direct investment and other flows)"
-    },
-    {
       "path": "10-7-3/data.csv",
       "name": "10-7-3",
       "profile": "tabular-data-resource",
@@ -18634,30 +19550,6 @@
         ]
       },
       "title": "Number of people who died or disappeared in the process of migration towards an international destinationi"
-    },
-    {
-      "path": "12-7-1/data.csv",
-      "name": "12-7-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Year"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Number of countries implementing sustainable public procurement policies and action plans"
     },
     {
       "path": "14-1-1/data.csv",
@@ -18754,30 +19646,6 @@
         ]
       },
       "title": "Proportion of the population who have experienced a dispute in the past two years and who accessed a formal or informal dispute resolution mechanism, by type of mechanism"
-    },
-    {
-      "path": "13-b-1/data.csv",
-      "name": "13-b-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Year"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Number of least developed countries and small island developing States with nationally determined contributions, long-term strategies, national adaptation plans, strategies as reported in adaptation communications and national communications"
     },
     {
       "path": "14-2-1/data.csv",
@@ -18900,30 +19768,6 @@
       "title": "Agricultural export subsidies"
     },
     {
-      "path": "10-1-1/data.csv",
-      "name": "10-1-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Year"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Growth rates of household expenditure or income per capita among the bottom 40 per cent of the population and the total population"
-    },
-    {
       "path": "1-5-3/data.csv",
       "name": "1-5-3",
       "profile": "tabular-data-resource",
@@ -18946,30 +19790,6 @@
         ]
       },
       "title": "Number of countries that adopt and implement national disaster risk reduction strategies in line with the Sendai Framework for Disaster Risk Reduction 2015–2030"
-    },
-    {
-      "path": "5-3-1/data.csv",
-      "name": "5-3-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Year"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Proportion of women aged 20–24 years who were married or in a union before age 15 and before age 18"
     },
     {
       "path": "16-5-1/data.csv",

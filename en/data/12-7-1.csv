@@ -1,1 +1,2 @@
-Year,Value
+Year,Observation status,Unit multiplier,SOURCE_DETAIL,SERIES,Reference area,UNIT_MEASURE,GeoCode,Value
+2024,Normal value,Units,TBA,Countries implementing sustainable public procurement policies and action plans  (1 = YES; 0 = NO) [12.7.1],,Boolean or binary measure,,1

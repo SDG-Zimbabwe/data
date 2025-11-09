@@ -1,1 +1,3 @@
-Year,Value
+Year,Observation status,Unit multiplier,SOURCE_DETAIL,SERIES,Reference area,UNIT_MEASURE,GeoCode,Value
+2017,Normal value,Units,ZIMSTAT_WorldBank,Proportion of people living below 50 percent of median income [10.2.1],,Percent,,12.7
+2019,Normal value,Units,ZIMSTAT_WorldBank,Proportion of people living below 50 percent of median income [10.2.1],,Percent,,16.6

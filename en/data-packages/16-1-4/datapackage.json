@@ -43,6 +43,7 @@
             "constraints": {
               "enum": [
                 "ZRP_Press_2024",
+                "MICS_2019",
                 ""
               ]
             },
@@ -70,6 +71,18 @@
             "title": "Reference area"
           },
           {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Female",
+                "Male",
+                ""
+              ]
+            },
+            "title": "Sex"
+          },
+          {
             "name": "UNIT_MEASURE",
             "type": "string",
             "constraints": {
@@ -87,7 +100,7 @@
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Value"
           }
         ]

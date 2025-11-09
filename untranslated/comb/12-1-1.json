@@ -1,1 +1,1 @@
-{"data":[],"edges":[]}
+{"data":{"Year":[2024],"OBS_STATUS":["A"],"UNIT_MULT":["0"],"SOURCE_DETAIL":["RBZ_MMCZ_FGR_Zimstat"],"SERIES":["SG_SCP_TOTL"],"REF_AREA":[null],"UNIT_MEASURE":["BOOL"],"GeoCode":[null],"Value":[1]},"edges":{"From":["OBS_STATUS","UNIT_MULT"],"To":["UNIT_MULT","SOURCE_DETAIL"]}}

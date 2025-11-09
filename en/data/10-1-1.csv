@@ -1,1 +1,3 @@
-Year,Value
+Year,Observation status,Unit multiplier,SOURCE_DETAIL,SERIES,Reference area,UNIT_MEASURE,GeoCode,Value
+2017,Normal value,Units,Pices_ZIMSTAT,Growth rates of household expenditure or income per capita [10.1.1],,Percent,,1.7
+2019,Normal value,Units,Pices_ZIMSTAT,Growth rates of household expenditure or income per capita [10.1.1],,Percent,,1.4

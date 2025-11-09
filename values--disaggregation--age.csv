@@ -1,8 +1,9 @@
 Value,en,Disaggregation combinations using this value,Number of indicators
 M12T23,12 to 23 months,26,1
 M24T35,24 to 35 months,23,1
+Y0T14,under 15 years old,2,1
 Y0T15,Under 16 years old,1,1
-Y0T17,under 18 years old,3,1
+Y0T17,under 18 years old,4,2
 Y0T4,under 5 years old,1,1
 Y10T14,10 to 14 years old,3,1
 Y15T19,15 to 19 years old,3,1

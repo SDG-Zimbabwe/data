@@ -39,7 +39,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "ZIMSTAT_MoPSLSF",
+                "Min_of_Tourism",
                 ""
               ]
             }
@@ -68,7 +68,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "PT",
+                "NUMBER",
                 ""
               ]
             }

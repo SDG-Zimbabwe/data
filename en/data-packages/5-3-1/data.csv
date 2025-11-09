@@ -1,1 +1,6 @@
-Year,Value
+Year,Observation status,Unit multiplier,SOURCE_DETAIL,SERIES,Reference area,Sex,Age,UNIT_MEASURE,GeoCode,Value
+2024,Normal value,Units,ZDHS_2023_24,Proportion of women aged 20-24 years who were married or in a union before age 15 [5.3.1],,Female,under 15 years old,Percent,,5.0
+2019,Normal value,Units,ZIMSTAT_MICS,Proportion of women aged 20-24 years who were married or in a union before age 18 [5.3.1],,Female,under 15 years old,Percent,,5.4
+2022,Normal value,Units,ZDHS_2023_24,Proportion of women aged 20-24 years who were married or in a union before age 18 [5.3.1],,Female,under 18 years old,Percent,,16.2
+2023,Normal value,Units,ZDHS_2023_24,Proportion of women aged 20-24 years who were married or in a union before age 18 [5.3.1],,Female,under 18 years old,Percent,,18.9
+2024,Normal value,Units,ZDHS_2023_24,Proportion of women aged 20-24 years who were married or in a union before age 18 [5.3.1],,Female,under 18 years old,Percent,,33.2
