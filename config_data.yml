@@ -57,9 +57,13 @@ inputs:
     import_codes: true
     indicator_id_map:
      EG_EGY_RNEW: 7-b-1
+     EG_EGY_RNEW: 12-a-1
      EN_MAT_FTPRTN: 8-4-1
      EN_MAT_FTPRPC: 8-4-1
      EN_MAT_FTPRPG: 8-4-1
+     EN_MAT_FTPRTN: 12-2-1
+     EN_MAT_FTPRPC: 12-2-1
+     EN_MAT_FTPRPG: 12-2-1
      EN_MAT_DOMCMPT: 12-2-2
      EN_MAT_DOMCMPC: 12-2-2
      EN_MAT_DOMCMPG: 12-2-2
