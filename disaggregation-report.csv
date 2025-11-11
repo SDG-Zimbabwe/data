@@ -4,6 +4,6 @@ DISABILITY_STATUS,Disability status,1,1
 EDUCATION_LEV,Education level,4,5
 OBS_STATUS,Observation status,163,1
 REF_AREA,Reference area,25,10
-SEX,Sex,32,2
+SEX,Sex,33,2
 UNIT_MULT,Unit multiplier,163,1
 URBANISATION,Degree of urbanisation,24,2
