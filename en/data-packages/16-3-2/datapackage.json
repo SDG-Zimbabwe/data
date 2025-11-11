@@ -42,7 +42,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Zimstat",
+                "ZIMSTAT_Crime_Statistics",
                 ""
               ]
             },

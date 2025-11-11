@@ -42,7 +42,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "ZIMSTAT_Labourforce_Report",
+                "ZIMSTAT_MISC",
                 ""
               ]
             },

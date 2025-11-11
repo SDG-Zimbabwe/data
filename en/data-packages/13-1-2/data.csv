@@ -1,2 +1,2 @@
 Year,Observation status,Unit multiplier,SOURCE_DETAIL,SERIES,Reference area,UNIT_MEASURE,GeoCode,Value
-2024,Normal value,Units,Zimbabwe_CivilProtection_Unit_2018,"Countries with legislative and/or regulatory provisions been made for managing disaster risk (1 = YES; 0 = NO) [1.5.3,11.b.1,13.1.2]",,Boolean or binary measure,,1
+2024,Normal value,Units,Zimbabwe Civil Protection Unit,"Countries with legislative and/or regulatory provisions been made for managing disaster risk (1 = YES; 0 = NO) [1.5.3,11.b.1,13.1.2]",,Boolean or binary measure,,1

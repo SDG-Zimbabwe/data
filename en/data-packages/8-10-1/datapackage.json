@@ -42,7 +42,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Reserve_Bank_Of_Zimbabwe",
+                "Reserve Bank of Zimbabwe",
                 ""
               ]
             },

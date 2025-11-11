@@ -43,6 +43,7 @@
             "constraints": {
               "enum": [
                 "ZDHS_2023_24",
+                "ZIMSTAT ZDHS_2023-24",
                 ""
               ]
             },

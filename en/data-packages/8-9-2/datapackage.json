@@ -42,7 +42,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Min_of_Tourism",
+                "Ministry of Tourism",
                 ""
               ]
             },

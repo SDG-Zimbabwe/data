@@ -1,7 +1,7 @@
 Year,Observation status,Unit multiplier,SOURCE_DETAIL,SERIES,Reference area,UNIT_MEASURE,GeoCode,Value
-2019,Normal value,Units,ZDHS,Maternal mortality ratio [3.1.1],,"Per 100,000 population",,462
-2022,Normal value,Units,ZDHS,Maternal mortality ratio [3.1.1],,"Per 100,000 population",,362
-2024,Normal value,Units,ZDHS,Maternal mortality ratio [3.1.1],,"Per 100,000 population",,212
+2019,Normal value,Units,ZIMSTAT ZDHS_2023-24,Maternal mortality ratio [3.1.1],,"Per 100,000 population",,462
+2022,Normal value,Units,ZIMSTAT ZDHS_2023-24,Maternal mortality ratio [3.1.1],,"Per 100,000 population",,362
+2024,Normal value,Units,ZIMSTAT ZDHS_2023-24,Maternal mortality ratio [3.1.1],,"Per 100,000 population",,212
 2022,Normal value,Units,Zimstat_2022_PHC,Maternal mortality ratio [3.1.1],Bulawayo,"Per 100,000 population",ZW_BA,248
 2022,Normal value,Units,Zimstat_2022_PHC,Maternal mortality ratio [3.1.1],Harare,"Per 100,000 population",ZW_HA,303
 2022,Normal value,Units,Zimstat_2022_PHC,Maternal mortality ratio [3.1.1],Manicaland,"Per 100,000 population",ZW_MA,248

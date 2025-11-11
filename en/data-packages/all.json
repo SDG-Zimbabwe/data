@@ -2266,7 +2266,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Min_of_Agric",
+                "Ministry of Lands, Agriculture, Fisheries, Water and Rural Development",
                 ""
               ]
             },
@@ -2505,6 +2505,101 @@
         ]
       },
       "title": "Proportion of bodies of water with good ambient water quality"
+    },
+    {
+      "path": "12-4-2/data.csv",
+      "name": "12-4-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "OBS_STATUS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Normal value",
+                ""
+              ]
+            },
+            "title": "Observation status"
+          },
+          {
+            "name": "UNIT_MULT",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Units",
+                ""
+              ]
+            },
+            "title": "Unit multiplier"
+          },
+          {
+            "name": "SOURCE_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "MoFED",
+                ""
+              ]
+            },
+            "title": "SOURCE_DETAIL"
+          },
+          {
+            "name": "SERIES",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Hazardous waste generated (Tonnes) [12.4.2]",
+                "Municipal waste generated (Tonnes) [12.4.2]",
+                ""
+              ]
+            },
+            "title": "SDG Series"
+          },
+          {
+            "name": "REF_AREA",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "Reference area"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Metric Tons",
+                ""
+              ]
+            },
+            "title": "Unit of measure"
+          },
+          {
+            "name": "GeoCode",
+            "type": "number",
+            "title": "GeoCode"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "(a) Hazardous waste generated per capita; and (b) proportion of hazardous waste treated, by type of treatment"
     },
     {
       "path": "11-3-1/data.csv",
@@ -2876,7 +2971,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Percent",
+                "Kilograms per constant USD",
+                "Metric Tons",
                 ""
               ]
             },
@@ -2972,7 +3068,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Percent",
+                "Kilograms per constant USD",
+                "Metric Tons",
                 ""
               ]
             },
@@ -2991,100 +3088,6 @@
         ]
       },
       "title": "Material footprint, material footprint per capita, and material footprint per GDP"
-    },
-    {
-      "path": "12-4-2/data.csv",
-      "name": "12-4-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
-            "name": "OBS_STATUS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Normal value",
-                ""
-              ]
-            },
-            "title": "Observation status"
-          },
-          {
-            "name": "UNIT_MULT",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Units",
-                ""
-              ]
-            },
-            "title": "Unit multiplier"
-          },
-          {
-            "name": "SOURCE_DETAIL",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "MoFED",
-                ""
-              ]
-            },
-            "title": "SOURCE_DETAIL"
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Municipal waste generated (Tonnes) [12.4.2]",
-                ""
-              ]
-            },
-            "title": "SDG Series"
-          },
-          {
-            "name": "REF_AREA",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "Reference area"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Metric Tons",
-                ""
-              ]
-            },
-            "title": "Unit of measure"
-          },
-          {
-            "name": "GeoCode",
-            "type": "number",
-            "title": "GeoCode"
-          },
-          {
-            "name": "Value",
-            "type": "integer",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "(a) Hazardous waste generated per capita; and (b) proportion of hazardous waste treated, by type of treatment"
     },
     {
       "path": "12-5-1/data.csv",
@@ -4273,7 +4276,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Min_of_Agric",
+                "Ministry of Lands, Agriculture, Fisheries, Water and Rural Development",
                 ""
               ]
             },
@@ -4650,6 +4653,7 @@
             "constraints": {
               "enum": [
                 "UNEP_WCMC",
+                "FCZ",
                 ""
               ]
             },
@@ -4701,6 +4705,100 @@
         ]
       },
       "title": "(a) Mountain Green Cover Index and (b) proportion of degraded mountain land"
+    },
+    {
+      "path": "14-3-1/data.csv",
+      "name": "14-3-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "OBS_STATUS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Normal value",
+                ""
+              ]
+            },
+            "title": "Observation status"
+          },
+          {
+            "name": "UNIT_MULT",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Units",
+                ""
+              ]
+            },
+            "title": "Unit multiplier"
+          },
+          {
+            "name": "SOURCE_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "EMA",
+                ""
+              ]
+            },
+            "title": "SOURCE_DETAIL"
+          },
+          {
+            "name": "SERIES",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Average marine acidity (pH) measured at agreed suite of representative sampling stations [14.3.1]",
+                ""
+              ]
+            },
+            "title": "SDG Series"
+          },
+          {
+            "name": "REF_AREA",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "Reference area"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "pH",
+                ""
+              ]
+            },
+            "title": "Unit of measure"
+          },
+          {
+            "name": "GeoCode",
+            "type": "number",
+            "title": "GeoCode"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Average marine acidity (pH) measured at agreed suite of representative sampling stations"
     },
     {
       "path": "15-4-1/data.csv",
@@ -5214,7 +5312,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Reserve_Bank_Of_Zimbabwe",
+                "Reserve Bank of Zimbabwe",
                 ""
               ]
             },
@@ -5309,7 +5407,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Reserve_Bank_Of_Zimbabwe",
+                "Reserve Bank of Zimbabwe",
                 ""
               ]
             },
@@ -6365,7 +6463,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "ZDHS_2023_24",
+                "ZIMSTAT ZDHS_2023-24",
                 ""
               ]
             },
@@ -6797,7 +6895,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "ZIMSTAT_National_Accounts",
+                "ZIMSTAT - National Accounts",
                 ""
               ]
             },
@@ -7175,7 +7273,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "ZIMSTAT_National_Account_Report",
+                "ZIMSTAT - National Accounts",
                 ""
               ]
             },
@@ -8000,7 +8098,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "ZDHS_2023_24",
+                "ZIMSTAT ZDHS_2023-24",
                 ""
               ]
             },
@@ -8514,7 +8612,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "ZDHS_2023_24",
+                "ZIMSTAT ZDHS_2023-24",
                 ""
               ]
             },
@@ -8609,7 +8707,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "ZDHS_2023_24",
+                "ZIMSTAT ZDHS_2023-24",
                 ""
               ]
             },
@@ -9370,7 +9468,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Zimbabwe_CivilProtection_Unit_2018",
+                "Zimbabwe Civil Protection Unit",
                 ""
               ]
             },
@@ -9464,7 +9562,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Zimbabwe_CivilProtection_Unit_2018",
+                "Zimbabwe Civil Protection Unit",
                 ""
               ]
             },
@@ -9558,7 +9656,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Zimbabwe_CivilProtection_Unit_2018",
+                "Zimbabwe Civil Protection Unit",
                 ""
               ]
             },
@@ -10530,7 +10628,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Min_of_Women",
+                "Ministry of Women Affairs",
                 ""
               ]
             },
@@ -10659,7 +10757,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Percent",
+                "Boolean or binary measure",
                 ""
               ]
             },
@@ -11003,7 +11101,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "ZDHS_2023_24",
+                "ZIMSTAT ZDHS_2023-24",
                 ""
               ]
             },
@@ -11890,7 +11988,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "ZDHS_2023_24",
+                "ZIMSTAT ZDHS_2023-24",
                 "DHIS2_2024",
                 ""
               ]
@@ -12116,7 +12214,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "ZDHS_2023_24",
+                "ZIMSTAT ZDHS_2023-24",
                 "Zimstat_2022_PHC",
                 ""
               ]
@@ -12245,7 +12343,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "ZDHS_2023_24",
+                "ZIMSTAT ZDHS_2023-24",
                 "Zimstat_2022_PHC",
                 ""
               ]
@@ -12374,7 +12472,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "ZDHS_2023_24",
+                "ZIMSTAT ZDHS_2023-24",
                 ""
               ]
             },
@@ -12512,7 +12610,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "ZDHS_2023_24",
+                "ZIMSTAT ZDHS_2023-24",
                 ""
               ]
             },
@@ -13120,7 +13218,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "ZDHS_2023_24",
+                "ZIMSTAT ZDHS_2023-24",
                 ""
               ]
             },
@@ -13329,7 +13427,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "ZDHS_2023_24",
+                "ZIMSTAT ZDHS_2023-24",
                 ""
               ]
             },
@@ -13447,6 +13545,7 @@
             "constraints": {
               "enum": [
                 "ZDHS_2023_24",
+                "ZIMSTAT ZDHS_2023-24",
                 ""
               ]
             },
@@ -13647,7 +13746,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "ZDHS_2023_24",
+                "ZIMSTAT ZDHS_2023-24",
                 ""
               ]
             },
@@ -13764,7 +13863,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "ZDHS_2023_24",
+                "ZIMSTAT ZDHS_2023-24",
                 ""
               ]
             },
@@ -13974,7 +14073,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "ZDHS",
+                "ZIMSTAT ZDHS_2023-24",
                 "Zimstat_2022_PHC",
                 ""
               ]
@@ -14267,7 +14366,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "ZDHS_2023_24",
+                "ZIMSTAT ZDHS_2023-24",
                 ""
               ]
             },
@@ -14395,7 +14494,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "ZIMSTAT_TSR_2024",
+                "ZRP",
                 ""
               ]
             },
@@ -14583,7 +14682,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "ZDHS_2023_24",
+                "ZIMSTAT ZDHS_2023-24",
                 ""
               ]
             },
@@ -14899,7 +14998,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "ZIMSTAT_Labourforce_Report",
+                "ZIMSTAT_MISC",
                 ""
               ]
             },
@@ -15340,8 +15439,8 @@
             "constraints": {
               "enum": [
                 "Zimstat_Mini__PICES__Poverty_Report_2019__LowerLine",
-                "Zimstat_Poverty_Atlas__Report_2021_Males_and_Females",
-                "Zimstat_Poverty_Report_2017_Lower_Line",
+                "ZIMSTAT Poverty Atlas Report_2021_Males_and_Females",
+                "ZIMSTAT Poverty Report_2017(LowerLine)",
                 ""
               ]
             },
@@ -16256,7 +16355,6 @@
               "enum": [
                 "Zimstat",
                 "Zimstat_QLFS",
-                "ZIMSTAT - QLFS Report",
                 ""
               ]
             },
@@ -16605,6 +16703,7 @@
             "constraints": {
               "enum": [
                 "Zimstat_ICDS_2017",
+                "ZIMSTAT ZDHS_2023-24",
                 ""
               ]
             },
@@ -16616,6 +16715,8 @@
             "constraints": {
               "enum": [
                 "Proportion of population living in households with access to basic services [1.4.1]",
+                "Proportion of population using basic drinking water services [1.4.1]",
+                "Proportion of population using basic sanitation services [1.4.1]",
                 ""
               ]
             },
@@ -16698,7 +16799,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "ZDHS_2023_24",
+                "ZIMSTAT ZDHS_2023-24",
                 ""
               ]
             },
@@ -16827,7 +16928,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "ZDHS_2023_24",
+                "ZIMSTAT ZDHS_2023-24",
                 "ZIMSTAT_MICS",
                 ""
               ]
@@ -17228,7 +17329,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Min_of_Tourism",
+                "Ministry of Tourism",
                 ""
               ]
             },
@@ -17322,7 +17423,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "ZIMSTAT_National_Accounts",
+                "ZIMSTAT - National Accounts",
                 ""
               ]
             },
@@ -17902,7 +18003,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Zimstat",
+                "ZIMSTAT_Crime_Statistics",
                 ""
               ]
             },
@@ -18209,7 +18310,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "ZDHS_2023_24",
+                "ZIMSTAT ZDHS_2023-24",
                 ""
               ]
             },
@@ -18325,7 +18426,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "ZDHS_2023_24",
+                "ZIMSTAT ZDHS_2023-24",
                 ""
               ]
             },
@@ -18735,7 +18836,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "ZDHS_2023_24",
+                "ZIMSTAT ZDHS_2023-24",
                 ""
               ]
             },
@@ -19541,30 +19642,6 @@
         ]
       },
       "title": "Proportion of local breeds classified as being at risk of extinction"
-    },
-    {
-      "path": "14-3-1/data.csv",
-      "name": "14-3-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Year"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Average marine acidity (pH) measured at agreed suite of representative sampling stations"
     },
     {
       "path": "3-5-2/data.csv",

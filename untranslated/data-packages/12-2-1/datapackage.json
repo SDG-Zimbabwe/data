@@ -70,7 +70,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "PT",
+                "KG_PER_CON_USD",
+                "T",
                 ""
               ]
             }

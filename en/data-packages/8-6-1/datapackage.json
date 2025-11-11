@@ -44,7 +44,6 @@
               "enum": [
                 "Zimstat",
                 "Zimstat_QLFS",
-                "ZIMSTAT - QLFS Report",
                 ""
               ]
             },

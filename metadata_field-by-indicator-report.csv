@@ -73,7 +73,7 @@ Global Education Monitoring Report",,,,,line
 UNESCO Institute for Statistics (UNESCO-UIS)
 Global Education Monitoring Report",,,,,line
 #13-a-1,complete,UN Climate Change (UNFCCC Secretariat),,,,,line
-#13-b-1,complete,UN Climate Change (UNFCCC Secretariat),,,,,line
+#13-b-1,complete,UN Climate Change (UNFCCC Secretariat),True,,,,line
 #14-1-1,notapplicable,United Nations Environment Programme (UNEP),,,,,line
 #14-2-1,notapplicable,United Nations Environment Programme (UNEP),,,,,line
 #14-3-1,notstarted,Intergovernmental Oceanographic Commission (IOC) of UNESCO,,,,,line
@@ -244,11 +244,11 @@ United Nations Population Fund (UNFPA)",,,,,line
 #5-5-1,complete,Inter-Parliamentary Union (IPU),,,,,line
 #5-5-2,complete,International Labour Organization (ILO),,,,,line
 #5-6-1,complete,United Nations Population Fund (UNFPA),,True,,,line
-#5-6-2,complete,United Nations Population Fund (UNFPA),,,,,line
+#5-6-2,complete,United Nations Population Fund (UNFPA),True,,,,line
 #5-a-1,complete,Food and Agriculture Organization of the United Nations (FAO),,,,,line
 #5-a-2,complete,Food and Agriculture Organization of the United Nations (FAO),True,,,,line
 #5-b-1,complete,International Telecommunication Union (ITU),,True,,,line
-#5-c-1,complete,United Nations Entity for Gender Equality and the Empowerment of Women (UN Women) in collaboration with Organisation for Economic Co-operation and Development (OECD) and United Nations Development Programme (UNDP),,,,,line
+#5-c-1,complete,United Nations Entity for Gender Equality and the Empowerment of Women (UN Women) in collaboration with Organisation for Economic Co-operation and Development (OECD) and United Nations Development Programme (UNDP),True,,,,line
 #6-1-1,complete,"World Health Organization (WHO)
 United Nations Children&apos;s Fund (UNICEF)",,,,,line
 #6-2-1,complete,"World Health Organization (WHO)

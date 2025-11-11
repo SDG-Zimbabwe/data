@@ -42,7 +42,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Zimbabwe_CivilProtection_Unit_2018",
+                "Zimbabwe Civil Protection Unit",
                 ""
               ]
             },

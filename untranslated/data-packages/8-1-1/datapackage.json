@@ -39,7 +39,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "ZIMSTAT_National_Account_Report",
+                "ZIMSTAT - National Accounts",
                 ""
               ]
             }

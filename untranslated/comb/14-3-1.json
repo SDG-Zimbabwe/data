@@ -1,1 +1,1 @@
-{"data":[],"edges":[]}
+{"data":{"Year":[2024],"OBS_STATUS":["A"],"UNIT_MULT":["0"],"SOURCE_DETAIL":["EMA"],"SERIES":["ER_OAW_MNACD"],"REF_AREA":[null],"UNIT_MEASURE":["PH"],"GeoCode":[null],"Value":[7.63]},"edges":{"From":["OBS_STATUS","UNIT_MULT"],"To":["UNIT_MULT","SOURCE_DETAIL"]}}

@@ -39,7 +39,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Min_of_Agric",
+                "Ministry of Lands, Agriculture, Fisheries, Water and Rural Development",
                 ""
               ]
             }

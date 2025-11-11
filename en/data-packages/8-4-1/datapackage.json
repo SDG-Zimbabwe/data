@@ -76,7 +76,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Percent",
+                "Kilograms per constant USD",
+                "Metric Tons",
                 ""
               ]
             },

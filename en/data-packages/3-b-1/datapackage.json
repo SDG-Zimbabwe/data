@@ -42,7 +42,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "ZDHS_2023_24",
+                "ZIMSTAT ZDHS_2023-24",
                 "DHIS2_2024",
                 ""
               ]

@@ -49,6 +49,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "EN_HAZ_GENV",
                 "EN_MWT_GENV",
                 ""
               ]

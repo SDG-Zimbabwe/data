@@ -43,8 +43,8 @@
             "constraints": {
               "enum": [
                 "Zimstat_Mini__PICES__Poverty_Report_2019__LowerLine",
-                "Zimstat_Poverty_Atlas__Report_2021_Males_and_Females",
-                "Zimstat_Poverty_Report_2017_Lower_Line",
+                "ZIMSTAT Poverty Atlas Report_2021_Males_and_Females",
+                "ZIMSTAT Poverty Report_2017(LowerLine)",
                 ""
               ]
             },

@@ -1,17 +1,17 @@
 Year,Observation status,Unit multiplier,SOURCE_DETAIL,SERIES,Reference area,Degree of urbanisation,UNIT_MEASURE,GeoCode,Value
-2015,Normal value,Units,ZDHS_2023_24,Proportion of births attended by skilled health personnel [3.1.2],,,Percent,,78.0
-2019,Normal value,Units,ZDHS_2023_24,Proportion of births attended by skilled health personnel [3.1.2],,,Percent,,84.0
-2023,Normal value,Units,ZDHS_2023_24,Proportion of births attended by skilled health personnel [3.1.2],,,Percent,,88.0
-2024,Normal value,Units,ZDHS_2023_24,Proportion of births attended by skilled health personnel [3.1.2],,,Percent,,84.6
-2024,Normal value,Units,ZDHS_2023_24,Proportion of births attended by skilled health personnel [3.1.2],,Rural,Percent,,89.7
-2024,Normal value,Units,ZDHS_2023_24,Proportion of births attended by skilled health personnel [3.1.2],,Urban,Percent,,95.3
-2024,Normal value,Units,ZDHS_2023_24,Proportion of births attended by skilled health personnel [3.1.2],Bulawayo,,Percent,ZW_BA,95.6
-2024,Normal value,Units,ZDHS_2023_24,Proportion of births attended by skilled health personnel [3.1.2],Harare,,Percent,ZW_HA,95.6
-2024,Normal value,Units,ZDHS_2023_24,Proportion of births attended by skilled health personnel [3.1.2],Manicaland,,Percent,ZW_MA,68.0
-2024,Normal value,Units,ZDHS_2023_24,Proportion of births attended by skilled health personnel [3.1.2],Mashonaland Central,,Percent,ZW_MC,84.2
-2024,Normal value,Units,ZDHS_2023_24,Proportion of births attended by skilled health personnel [3.1.2],Masholanad East,,Percent,ZW_ME,85.1
-2024,Normal value,Units,ZDHS_2023_24,Proportion of births attended by skilled health personnel [3.1.2],Midlands,,Percent,ZW_MI,84.3
-2024,Normal value,Units,ZDHS_2023_24,Proportion of births attended by skilled health personnel [3.1.2],Matabeland North,,Percent,ZW_MN,94.1
-2024,Normal value,Units,ZDHS_2023_24,Proportion of births attended by skilled health personnel [3.1.2],Matabeland South,,Percent,ZW_MS,88.8
-2024,Normal value,Units,ZDHS_2023_24,Proportion of births attended by skilled health personnel [3.1.2],Masvingo,,Percent,ZW_MV,86.0
-2024,Normal value,Units,ZDHS_2023_24,Proportion of births attended by skilled health personnel [3.1.2],Mashonaland West,,Percent,ZW_MW,82.2
+2015,Normal value,Units,ZIMSTAT ZDHS_2023-24,Proportion of births attended by skilled health personnel [3.1.2],,,Percent,,78.0
+2019,Normal value,Units,ZIMSTAT ZDHS_2023-24,Proportion of births attended by skilled health personnel [3.1.2],,,Percent,,84.0
+2023,Normal value,Units,ZIMSTAT ZDHS_2023-24,Proportion of births attended by skilled health personnel [3.1.2],,,Percent,,88.0
+2024,Normal value,Units,ZIMSTAT ZDHS_2023-24,Proportion of births attended by skilled health personnel [3.1.2],,,Percent,,84.6
+2024,Normal value,Units,ZIMSTAT ZDHS_2023-24,Proportion of births attended by skilled health personnel [3.1.2],,Rural,Percent,,89.7
+2024,Normal value,Units,ZIMSTAT ZDHS_2023-24,Proportion of births attended by skilled health personnel [3.1.2],,Urban,Percent,,95.3
+2024,Normal value,Units,ZIMSTAT ZDHS_2023-24,Proportion of births attended by skilled health personnel [3.1.2],Bulawayo,,Percent,ZW_BA,95.6
+2024,Normal value,Units,ZIMSTAT ZDHS_2023-24,Proportion of births attended by skilled health personnel [3.1.2],Harare,,Percent,ZW_HA,95.6
+2024,Normal value,Units,ZIMSTAT ZDHS_2023-24,Proportion of births attended by skilled health personnel [3.1.2],Manicaland,,Percent,ZW_MA,68.0
+2024,Normal value,Units,ZIMSTAT ZDHS_2023-24,Proportion of births attended by skilled health personnel [3.1.2],Mashonaland Central,,Percent,ZW_MC,84.2
+2024,Normal value,Units,ZIMSTAT ZDHS_2023-24,Proportion of births attended by skilled health personnel [3.1.2],Masholanad East,,Percent,ZW_ME,85.1
+2024,Normal value,Units,ZIMSTAT ZDHS_2023-24,Proportion of births attended by skilled health personnel [3.1.2],Midlands,,Percent,ZW_MI,84.3
+2024,Normal value,Units,ZIMSTAT ZDHS_2023-24,Proportion of births attended by skilled health personnel [3.1.2],Matabeland North,,Percent,ZW_MN,94.1
+2024,Normal value,Units,ZIMSTAT ZDHS_2023-24,Proportion of births attended by skilled health personnel [3.1.2],Matabeland South,,Percent,ZW_MS,88.8
+2024,Normal value,Units,ZIMSTAT ZDHS_2023-24,Proportion of births attended by skilled health personnel [3.1.2],Masvingo,,Percent,ZW_MV,86.0
+2024,Normal value,Units,ZIMSTAT ZDHS_2023-24,Proportion of births attended by skilled health personnel [3.1.2],Mashonaland West,,Percent,ZW_MW,82.2

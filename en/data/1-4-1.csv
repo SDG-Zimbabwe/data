@@ -1,2 +1,4 @@
 Year,Observation status,Unit multiplier,SOURCE_DETAIL,SERIES,Reference area,UNIT_MEASURE,GeoCode,Value
 2017,Normal value,Units,Zimstat_ICDS_2017,Proportion of population living in households with access to basic services [1.4.1],,Percent,,36.9
+2024,Normal value,Units,ZIMSTAT ZDHS_2023-24,Proportion of population using basic drinking water services [1.4.1],,Percent,,72.0
+2024,Normal value,Units,ZIMSTAT ZDHS_2023-24,Proportion of population using basic sanitation services [1.4.1],,Percent,,46.0

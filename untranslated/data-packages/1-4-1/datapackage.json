@@ -40,6 +40,7 @@
             "constraints": {
               "enum": [
                 "Zimstat_ICDS_2017",
+                "ZIMSTAT ZDHS_2023-24",
                 ""
               ]
             }
@@ -50,6 +51,8 @@
             "constraints": {
               "enum": [
                 "SP_ACS_BSRV",
+                "SP_ACS_BSRVH2O",
+                "SP_ACS_BSRVSAN",
                 ""
               ]
             }

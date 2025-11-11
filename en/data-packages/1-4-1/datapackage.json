@@ -43,6 +43,7 @@
             "constraints": {
               "enum": [
                 "Zimstat_ICDS_2017",
+                "ZIMSTAT ZDHS_2023-24",
                 ""
               ]
             },
@@ -54,6 +55,8 @@
             "constraints": {
               "enum": [
                 "Proportion of population living in households with access to basic services [1.4.1]",
+                "Proportion of population using basic drinking water services [1.4.1]",
+                "Proportion of population using basic sanitation services [1.4.1]",
                 ""
               ]
             },

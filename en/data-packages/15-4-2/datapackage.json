@@ -43,6 +43,7 @@
             "constraints": {
               "enum": [
                 "UNEP_WCMC",
+                "FCZ",
                 ""
               ]
             },
