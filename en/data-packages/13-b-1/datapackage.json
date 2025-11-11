@@ -53,6 +53,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "Number of least developed countries and small island developing States with national adaptation plans (Number) [13.b.1]",
                 "Number of least developed countries and small island developing States with nationally determined contributions (Number) [13.b.1]",
                 ""
               ]

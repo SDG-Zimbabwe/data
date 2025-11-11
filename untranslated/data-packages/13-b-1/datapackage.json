@@ -49,6 +49,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "EN_NAA_PLAN_DV",
                 "EN_NAD_CONTR_DV",
                 ""
               ]
