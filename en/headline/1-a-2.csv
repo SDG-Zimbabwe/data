@@ -1,1 +1,13 @@
 Year,Value,GeoCode,Observation status,Unit multiplier,UNIT_MEASURE,SERIES
+2022,17.6,,Normal value,Units,Percent,"Proportion of total government spending on essential services, education [1.a.2]"
+2023,8.82,,Normal value,Units,Percent,"Proportion of total government spending on essential services, education [1.a.2]"
+2024,20.82,,Normal value,Units,Percent,"Proportion of total government spending on essential services, education [1.a.2]"
+2022,27.3,,Normal value,Units,Percent,Proportion of total government spending on essential services [1.a.2]
+2023,14.73,,Normal value,Units,Percent,Proportion of total government spending on essential services [1.a.2]
+2024,33.72,,Normal value,Units,Percent,Proportion of total government spending on essential services [1.a.2]
+2022,8.35,,Normal value,Units,Percent,"Proportion of total government spending on essential services, health [1.a.2]"
+2023,5.29,,Normal value,Units,Percent,"Proportion of total government spending on essential services, health [1.a.2]"
+2024,12.86,,Normal value,Units,Percent,"Proportion of total government spending on essential services, health [1.a.2]"
+2022,1.42,,Normal value,Units,Percent,"Proportion of total government spending on essential services, social protection [1.a.2]"
+2023,0.62,,Normal value,Units,Percent,"Proportion of total government spending on essential services, social protection [1.a.2]"
+2024,0.04,,Normal value,Units,Percent,"Proportion of total government spending on essential services, social protection [1.a.2]"

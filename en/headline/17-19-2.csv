@@ -1,1 +1,4 @@
 Year,Value,GeoCode,Observation status,Unit multiplier,UNIT_MEASURE,SERIES
+2022,78.6,,Normal value,Units,Percent,Proportion of countries with birth registration data that are at least 90 percent complete [17.19.2]
+2022,1.0,,Normal value,Units,Boolean or binary measure,Proportion of countries that have conducted at least one population and housing census in the last 10 years [17.19.2]
+2022,64.7,,Normal value,Units,Percent,Proportion of countries with death registration data that are at least 75 percent complete [17.19.2]

@@ -1,2 +1,2 @@
-Year,Observation status,Unit multiplier,SOURCE_DETAIL,SERIES,Reference area,UNIT_MEASURE,GeoCode,Value
-2024,Normal value,Units,ZIMSTAT_Crime_Statistics,Unsentenced detainees as a proportion of overall prison population [16.3.2],,Percent,,22.6
+Year,SERIES,Reference area,UNIT_MEASURE,Observation status,Unit multiplier,GeoCode,Value
+2024,Unsentenced detainees as a proportion of overall prison population [16.3.2],,Percent,Normal value,Units,,22.6

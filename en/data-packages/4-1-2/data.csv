@@ -1,17 +1,17 @@
-Year,Observation status,Unit multiplier,SOURCE_DETAIL,SERIES,Reference area,Sex,Education level,UNIT_MEASURE,GeoCode,Value
-2024,Normal value,Units,EMIS_2024,"Completion rate, by sex, location, wealth quintile and education level (%) [4.1.2]",,,Primary education or less,Percent,,91.44
-2024,Normal value,Units,EMIS_2024,"Completion rate, by sex, location, wealth quintile and education level (%) [4.1.2]",,,Primary and lower secondary education (basic education),Percent,,64.9
-2024,Normal value,Units,EMIS_2024,"Completion rate, by sex, location, wealth quintile and education level (%) [4.1.2]",,Female,Primary education or less,Percent,,92.92
-2024,Normal value,Units,EMIS_2024,"Completion rate, by sex, location, wealth quintile and education level (%) [4.1.2]",,Female,Primary and lower secondary education (basic education),Percent,,64.89
-2024,Normal value,Units,EMIS_2024,"Completion rate, by sex, location, wealth quintile and education level (%) [4.1.2]",,Male,Primary education or less,Percent,,89.96
-2024,Normal value,Units,EMIS_2024,"Completion rate, by sex, location, wealth quintile and education level (%) [4.1.2]",,Male,Primary and lower secondary education (basic education),Percent,,64.92
-2024,Normal value,Units,EMIS_2024,"Completion rate, by sex, location, wealth quintile and education level (%) [4.1.2]",Bulawayo,,Primary education or less,Percent,ZW_BA,110.07
-2024,Normal value,Units,EMIS_2024,"Completion rate, by sex, location, wealth quintile and education level (%) [4.1.2]",Harare,,Primary education or less,Percent,ZW_HA,90.37
-2024,Normal value,Units,EMIS_2024,"Completion rate, by sex, location, wealth quintile and education level (%) [4.1.2]",Manicaland,,Primary education or less,Percent,ZW_MA,91.06
-2024,Normal value,Units,EMIS_2024,"Completion rate, by sex, location, wealth quintile and education level (%) [4.1.2]",Mashonaland Central,,Primary education or less,Percent,ZW_MC,88.45
-2024,Normal value,Units,EMIS_2024,"Completion rate, by sex, location, wealth quintile and education level (%) [4.1.2]",Masholanad East,,Primary education or less,Percent,ZW_ME,87.28
-2024,Normal value,Units,EMIS_2024,"Completion rate, by sex, location, wealth quintile and education level (%) [4.1.2]",Midlands,,Primary education or less,Percent,ZW_MI,93.43
-2024,Normal value,Units,EMIS_2024,"Completion rate, by sex, location, wealth quintile and education level (%) [4.1.2]",Matabeland North,,Primary education or less,Percent,ZW_MN,86.16
-2024,Normal value,Units,EMIS_2024,"Completion rate, by sex, location, wealth quintile and education level (%) [4.1.2]",Matabeland South,,Primary education or less,Percent,ZW_MS,95.32
-2024,Normal value,Units,EMIS_2024,"Completion rate, by sex, location, wealth quintile and education level (%) [4.1.2]",Masvingo,,Primary education or less,Percent,ZW_MV,91.36
-2024,Normal value,Units,EMIS_2024,"Completion rate, by sex, location, wealth quintile and education level (%) [4.1.2]",Mashonaland West,,Primary education or less,Percent,ZW_MW,92.66
+Year,SERIES,Reference area,Sex,Education level,UNIT_MEASURE,Observation status,Unit multiplier,GeoCode,Value
+2024,"Completion rate, by sex, location, wealth quintile and education level (%) [4.1.2]",,,Primary education or less,Percent,Normal value,Units,,91.44
+2024,"Completion rate, by sex, location, wealth quintile and education level (%) [4.1.2]",,,Primary and lower secondary education (basic education),Percent,Normal value,Units,,64.9
+2024,"Completion rate, by sex, location, wealth quintile and education level (%) [4.1.2]",,Female,Primary education or less,Percent,Normal value,Units,,92.92
+2024,"Completion rate, by sex, location, wealth quintile and education level (%) [4.1.2]",,Female,Primary and lower secondary education (basic education),Percent,Normal value,Units,,64.89
+2024,"Completion rate, by sex, location, wealth quintile and education level (%) [4.1.2]",,Male,Primary education or less,Percent,Normal value,Units,,89.96
+2024,"Completion rate, by sex, location, wealth quintile and education level (%) [4.1.2]",,Male,Primary and lower secondary education (basic education),Percent,Normal value,Units,,64.92
+2024,"Completion rate, by sex, location, wealth quintile and education level (%) [4.1.2]",Bulawayo,,Primary education or less,Percent,Normal value,Units,ZW_BA,110.07
+2024,"Completion rate, by sex, location, wealth quintile and education level (%) [4.1.2]",Harare,,Primary education or less,Percent,Normal value,Units,ZW_HA,90.37
+2024,"Completion rate, by sex, location, wealth quintile and education level (%) [4.1.2]",Manicaland,,Primary education or less,Percent,Normal value,Units,ZW_MA,91.06
+2024,"Completion rate, by sex, location, wealth quintile and education level (%) [4.1.2]",Mashonaland Central,,Primary education or less,Percent,Normal value,Units,ZW_MC,88.45
+2024,"Completion rate, by sex, location, wealth quintile and education level (%) [4.1.2]",Masholanad East,,Primary education or less,Percent,Normal value,Units,ZW_ME,87.28
+2024,"Completion rate, by sex, location, wealth quintile and education level (%) [4.1.2]",Midlands,,Primary education or less,Percent,Normal value,Units,ZW_MI,93.43
+2024,"Completion rate, by sex, location, wealth quintile and education level (%) [4.1.2]",Matabeland North,,Primary education or less,Percent,Normal value,Units,ZW_MN,86.16
+2024,"Completion rate, by sex, location, wealth quintile and education level (%) [4.1.2]",Matabeland South,,Primary education or less,Percent,Normal value,Units,ZW_MS,95.32
+2024,"Completion rate, by sex, location, wealth quintile and education level (%) [4.1.2]",Masvingo,,Primary education or less,Percent,Normal value,Units,ZW_MV,91.36
+2024,"Completion rate, by sex, location, wealth quintile and education level (%) [4.1.2]",Mashonaland West,,Primary education or less,Percent,Normal value,Units,ZW_MW,92.66

@@ -1,7 +1,7 @@
-Year,Observation status,Unit multiplier,SOURCE_DETAIL,SERIES,Reference area,UNIT_MEASURE,GeoCode,Value
-2015,Normal value,Units,ZINWA,Proportion of wastewater treated [6.3.1],,Percent,,80.0
-2020,Normal value,Units,MoFEDIP,Proportion of safely treated domestic wastewater flows [6.3.1],,Constant USD,,14.3
-2021,Normal value,Units,MoFEDIP,Proportion of safely treated domestic wastewater flows [6.3.1],,Constant USD,,6.8
-2022,Normal value,Units,MoFEDIP,Proportion of safely treated domestic wastewater flows [6.3.1],,Constant USD,,17.8
-2023,Normal value,Units,MoFEDIP,Proportion of safely treated domestic wastewater flows [6.3.1],,Constant USD,,2.0
-2024,Normal value,Units,MoFEDIP,Proportion of safely treated domestic wastewater flows [6.3.1],,Constant USD,,6.9
+Year,SERIES,Reference area,UNIT_MEASURE,Observation status,Unit multiplier,GeoCode,Value
+2015,Proportion of wastewater treated [6.3.1],,Percent,Normal value,Units,,80.0
+2020,Proportion of safely treated domestic wastewater flows [6.3.1],,Constant USD,Normal value,Units,,14.3
+2021,Proportion of safely treated domestic wastewater flows [6.3.1],,Constant USD,Normal value,Units,,6.8
+2022,Proportion of safely treated domestic wastewater flows [6.3.1],,Constant USD,Normal value,Units,,17.8
+2023,Proportion of safely treated domestic wastewater flows [6.3.1],,Constant USD,Normal value,Units,,2.0
+2024,Proportion of safely treated domestic wastewater flows [6.3.1],,Constant USD,Normal value,Units,,6.9

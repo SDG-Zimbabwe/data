@@ -1,4 +1,4 @@
-Year,Observation status,Unit multiplier,SOURCE_DETAIL,SERIES,Reference area,Sex,UNIT_MEASURE,GeoCode,Value
-2014,Normal value,Units,Labour_Force_Survey,Proportion of women in managerial positions - 19th ICLS (%) [5.5.2],,Female,Percent,,27.6
-2017,Normal value,Units,Labour_Force_Survey,Proportion of women in managerial positions - 19th ICLS (%) [5.5.2],,Female,Percent,,31.0
-2023,Normal value,Units,Labour_Force_Survey,Proportion of women in managerial positions - 19th ICLS (%) [5.5.2],,Female,Percent,,34.0
+Year,SERIES,Reference area,Sex,UNIT_MEASURE,Observation status,Unit multiplier,GeoCode,Value
+2014,Proportion of women in managerial positions - 19th ICLS (%) [5.5.2],,Female,Percent,Normal value,Units,,27.6
+2017,Proportion of women in managerial positions - 19th ICLS (%) [5.5.2],,Female,Percent,Normal value,Units,,31.0
+2023,Proportion of women in managerial positions - 19th ICLS (%) [5.5.2],,Female,Percent,Normal value,Units,,34.0

@@ -1,1 +1,7 @@
 Year,Value,GeoCode,Observation status,Unit multiplier,UNIT_MEASURE,SERIES
+2023,1.228,,Normal value,Units,Kilograms per constant USD,"Material footprint per capita [8.4.1, 12.2.1]"
+2024,0.64,,Normal value,Units,Kilograms per constant USD,"Material footprint per capita [8.4.1, 12.2.1]"
+2023,0.42,,Normal value,Units,Kilograms per constant USD,"Material footprint per unit of GDP [8.4.1, 12.2.1]"
+2024,0.23,,Normal value,Units,Kilograms per constant USD,"Material footprint per unit of GDP [8.4.1, 12.2.1]"
+2023,18576062.7,,Normal value,Units,Metric Tons,"Material footprint [8.4.1, 12.2.1]"
+2024,10060000.0,,Normal value,Units,Metric Tons,"Material footprint [8.4.1, 12.2.1]"

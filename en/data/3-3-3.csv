@@ -1,6 +1,6 @@
-Year,Observation status,Unit multiplier,SOURCE_DETAIL,SERIES,Reference area,UNIT_MEASURE,GeoCode,Value
-2017,Normal value,Units,MOHCC,"Malaria incidence per 1,000 population at risk [3.3.3]",,"Per 1,000 population",,10
-2019,Normal value,Units,MOHCC,"Malaria incidence per 1,000 population at risk [3.3.3]",,"Per 1,000 population",,22
-2020,Normal value,Units,MOHCC,"Malaria incidence per 1,000 population at risk [3.3.3]",,"Per 1,000 population",,32
-2022,Normal value,Units,MOHCC,"Malaria incidence per 1,000 population at risk [3.3.3]",,"Per 1,000 population",,9
-2023,Normal value,Units,MOHCC,"Malaria incidence per 1,000 population at risk [3.3.3]",,"Per 1,000 population",,16
+Year,SERIES,Reference area,UNIT_MEASURE,Observation status,Unit multiplier,GeoCode,Value
+2017,"Malaria incidence per 1,000 population at risk [3.3.3]",,"Per 1,000 population",Normal value,Units,,10
+2019,"Malaria incidence per 1,000 population at risk [3.3.3]",,"Per 1,000 population",Normal value,Units,,22
+2020,"Malaria incidence per 1,000 population at risk [3.3.3]",,"Per 1,000 population",Normal value,Units,,32
+2022,"Malaria incidence per 1,000 population at risk [3.3.3]",,"Per 1,000 population",Normal value,Units,,9
+2023,"Malaria incidence per 1,000 population at risk [3.3.3]",,"Per 1,000 population",Normal value,Units,,16

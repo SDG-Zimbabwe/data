@@ -1,1 +1,4 @@
 Year,Value,GeoCode,Observation status,Unit multiplier,UNIT_MEASURE,SERIES
+2017,36.9,,Normal value,Units,Percent,Proportion of population living in households with access to basic services [1.4.1]
+2024,72.0,,Normal value,Units,Percent,Proportion of population using basic drinking water services [1.4.1]
+2024,46.0,,Normal value,Units,Percent,Proportion of population using basic sanitation services [1.4.1]

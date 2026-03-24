@@ -1,14 +1,14 @@
-Year,Observation status,Unit multiplier,SOURCE_DETAIL,SERIES,Reference area,UNIT_MEASURE,GeoCode,Value
-2019,Normal value,Units,ZIMSTAT ZDHS_2023-24,Maternal mortality ratio [3.1.1],,"Per 100,000 population",,462
-2022,Normal value,Units,ZIMSTAT ZDHS_2023-24,Maternal mortality ratio [3.1.1],,"Per 100,000 population",,362
-2024,Normal value,Units,ZIMSTAT ZDHS_2023-24,Maternal mortality ratio [3.1.1],,"Per 100,000 population",,212
-2022,Normal value,Units,Zimstat_2022_PHC,Maternal mortality ratio [3.1.1],Bulawayo,"Per 100,000 population",ZW_BA,248
-2022,Normal value,Units,Zimstat_2022_PHC,Maternal mortality ratio [3.1.1],Harare,"Per 100,000 population",ZW_HA,303
-2022,Normal value,Units,Zimstat_2022_PHC,Maternal mortality ratio [3.1.1],Manicaland,"Per 100,000 population",ZW_MA,248
-2022,Normal value,Units,Zimstat_2022_PHC,Maternal mortality ratio [3.1.1],Mashonaland Central,"Per 100,000 population",ZW_MC,292
-2022,Normal value,Units,Zimstat_2022_PHC,Maternal mortality ratio [3.1.1],Masholanad East,"Per 100,000 population",ZW_ME,401
-2022,Normal value,Units,Zimstat_2022_PHC,Maternal mortality ratio [3.1.1],Midlands,"Per 100,000 population",ZW_MI,424
-2022,Normal value,Units,Zimstat_2022_PHC,Maternal mortality ratio [3.1.1],Matabeland North,"Per 100,000 population",ZW_MN,365
-2022,Normal value,Units,Zimstat_2022_PHC,Maternal mortality ratio [3.1.1],Matabeland South,"Per 100,000 population",ZW_MS,375
-2022,Normal value,Units,Zimstat_2022_PHC,Maternal mortality ratio [3.1.1],Masvingo,"Per 100,000 population",ZW_MV,377
-2022,Normal value,Units,Zimstat_2022_PHC,Maternal mortality ratio [3.1.1],Mashonaland West,"Per 100,000 population",ZW_MW,377
+Year,SERIES,Reference area,UNIT_MEASURE,Observation status,Unit multiplier,GeoCode,Value
+2019,Maternal mortality ratio [3.1.1],,"Per 100,000 population",Normal value,Units,,462
+2022,Maternal mortality ratio [3.1.1],,"Per 100,000 population",Normal value,Units,,362
+2024,Maternal mortality ratio [3.1.1],,"Per 100,000 population",Normal value,Units,,212
+2022,Maternal mortality ratio [3.1.1],Bulawayo,"Per 100,000 population",Normal value,Units,ZW_BA,248
+2022,Maternal mortality ratio [3.1.1],Harare,"Per 100,000 population",Normal value,Units,ZW_HA,303
+2022,Maternal mortality ratio [3.1.1],Manicaland,"Per 100,000 population",Normal value,Units,ZW_MA,248
+2022,Maternal mortality ratio [3.1.1],Mashonaland Central,"Per 100,000 population",Normal value,Units,ZW_MC,292
+2022,Maternal mortality ratio [3.1.1],Masholanad East,"Per 100,000 population",Normal value,Units,ZW_ME,401
+2022,Maternal mortality ratio [3.1.1],Midlands,"Per 100,000 population",Normal value,Units,ZW_MI,424
+2022,Maternal mortality ratio [3.1.1],Matabeland North,"Per 100,000 population",Normal value,Units,ZW_MN,365
+2022,Maternal mortality ratio [3.1.1],Matabeland South,"Per 100,000 population",Normal value,Units,ZW_MS,375
+2022,Maternal mortality ratio [3.1.1],Masvingo,"Per 100,000 population",Normal value,Units,ZW_MV,377
+2022,Maternal mortality ratio [3.1.1],Mashonaland West,"Per 100,000 population",Normal value,Units,ZW_MW,377

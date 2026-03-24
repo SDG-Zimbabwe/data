@@ -1,4 +1,4 @@
-Year,Observation status,Unit multiplier,SOURCE_DETAIL,SERIES,Reference area,UNIT_MEASURE,GeoCode,Value
-2020,Normal value,Units,SPAR,"International Health Regulations (IHR) capacity, by type of IHR capacity [3.d.1]",,Percent,,52
-2023,Normal value,Units,SPAR,"International Health Regulations (IHR) capacity, by type of IHR capacity [3.d.1]",,Percent,,66
-2024,Normal value,Units,SPAR,"International Health Regulations (IHR) capacity, by type of IHR capacity [3.d.1]",,Percent,,55
+Year,SERIES,Reference area,UNIT_MEASURE,Observation status,Unit multiplier,GeoCode,Value
+2020,"International Health Regulations (IHR) capacity, by type of IHR capacity [3.d.1]",,Percent,Normal value,Units,,52
+2023,"International Health Regulations (IHR) capacity, by type of IHR capacity [3.d.1]",,Percent,Normal value,Units,,66
+2024,"International Health Regulations (IHR) capacity, by type of IHR capacity [3.d.1]",,Percent,Normal value,Units,,55

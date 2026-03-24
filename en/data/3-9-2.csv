@@ -1,2 +1,2 @@
-Year,Observation status,Unit multiplier,SOURCE_DETAIL,SERIES,Reference area,UNIT_MEASURE,GeoCode,Value
-2019,Normal value,Units,MoHCC_WHO_Estimates,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene [3.9.2]",,"Per 1,000 population",,36.2
+Year,SERIES,Reference area,UNIT_MEASURE,Observation status,Unit multiplier,GeoCode,Value
+2019,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene [3.9.2]",,"Per 1,000 population",Normal value,Units,,36.2

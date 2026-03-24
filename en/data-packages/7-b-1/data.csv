@@ -1,3 +1,3 @@
-Year,Observation status,Unit multiplier,SOURCE_DETAIL,SERIES,Reference area,UNIT_MEASURE,GeoCode,Value
-2023,Normal value,Units,MoEnergy,"Installed renewable electricity-generating capacity (watts per capita) [7.b.1, 12.a.1]",,Watts per capita,,15.3
-2024,Normal value,Units,MoEnergy,"Installed renewable electricity-generating capacity (watts per capita) [7.b.1, 12.a.1]",,Watts per capita,,20.0
+Year,SERIES,Reference area,UNIT_MEASURE,Observation status,Unit multiplier,GeoCode,Value
+2023,"Installed renewable electricity-generating capacity (watts per capita) [7.b.1, 12.a.1]",,Watts per capita,Normal value,Units,,15.3
+2024,"Installed renewable electricity-generating capacity (watts per capita) [7.b.1, 12.a.1]",,Watts per capita,Normal value,Units,,20.0

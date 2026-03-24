@@ -1,1 +1,1 @@
-{"Year":[2024,2024],"OBS_STATUS":["A","A"],"UNIT_MULT":["0","0"],"SOURCE_DETAIL":["MoFED","MoFED"],"SERIES":["EN_HAZ_GENV","EN_MWT_GENV"],"REF_AREA":[null,null],"UNIT_MEASURE":["T","T"],"GeoCode":[null,null],"Value":[122,122]}
+{"Year":[2024,2024],"SERIES":["EN_HAZ_GENV","EN_MWT_GENV"],"REF_AREA":[null,null],"UNIT_MEASURE":["T","T"],"OBS_STATUS":["A","A"],"UNIT_MULT":["0","0"],"GeoCode":[null,null],"Value":[122,122]}

@@ -1,11 +1,11 @@
-Year,Observation status,Unit multiplier,SOURCE_DETAIL,SERIES,Reference area,Degree of urbanisation,UNIT_MEASURE,GeoCode,Value
-2019,Normal value,Units,ZDHS_2023_24,Proportion of population practicing open defecation [6.2.1],,,Percent,,64.2
-2022,Normal value,Units,ZDHS_2023_24,Proportion of population practicing open defecation [6.2.1],,,Percent,,68.7
-2023,Normal value,Units,ZDHS_2023_24,Proportion of population practicing open defecation [6.2.1],,,Percent,,78.4
-2024,Normal value,Units,ZDHS_2023_24,Proportion of population practicing open defecation [6.2.1],,,Percent,,45.5
-2024,Normal value,Units,ZDHS_2023_24,Proportion of population practicing open defecation [6.2.1],,Rural,Percent,,42.4
-2024,Normal value,Units,ZDHS_2023_24,Proportion of population practicing open defecation [6.2.1],,Urban,Percent,,50.7
-2019,Normal value,Units,ZIMSTAT ZDHS_2023-24,Proportion of population with basic handwashing facilities on premises [6.2.1],,,Percent,,64.2
-2024,Normal value,Units,ZIMSTAT ZDHS_2023-24,Proportion of population with basic handwashing facilities on premises [6.2.1],,,Percent,,28.8
-2024,Normal value,Units,ZIMSTAT ZDHS_2023-24,Proportion of population with basic handwashing facilities on premises [6.2.1],,Rural,Percent,,21.0
-2024,Normal value,Units,ZIMSTAT ZDHS_2023-24,Proportion of population with basic handwashing facilities on premises [6.2.1],,Urban,Percent,,41.9
+Year,SERIES,Reference area,Degree of urbanisation,UNIT_MEASURE,Observation status,Unit multiplier,GeoCode,Value
+2019,Proportion of population practicing open defecation [6.2.1],,,Percent,Normal value,Units,,64.2
+2022,Proportion of population practicing open defecation [6.2.1],,,Percent,Normal value,Units,,68.7
+2023,Proportion of population practicing open defecation [6.2.1],,,Percent,Normal value,Units,,78.4
+2024,Proportion of population practicing open defecation [6.2.1],,,Percent,Normal value,Units,,45.5
+2024,Proportion of population practicing open defecation [6.2.1],,Rural,Percent,Normal value,Units,,42.4
+2024,Proportion of population practicing open defecation [6.2.1],,Urban,Percent,Normal value,Units,,50.7
+2019,Proportion of population with basic handwashing facilities on premises [6.2.1],,,Percent,Normal value,Units,,64.2
+2024,Proportion of population with basic handwashing facilities on premises [6.2.1],,,Percent,Normal value,Units,,28.8
+2024,Proportion of population with basic handwashing facilities on premises [6.2.1],,Rural,Percent,Normal value,Units,,21.0
+2024,Proportion of population with basic handwashing facilities on premises [6.2.1],,Urban,Percent,Normal value,Units,,41.9

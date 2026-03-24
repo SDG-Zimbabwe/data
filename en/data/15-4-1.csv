@@ -1,11 +1,11 @@
-Year,Observation status,Unit multiplier,SOURCE_DETAIL,SERIES,Reference area,UNIT_MEASURE,GeoCode,Value
-2015,Normal value,Units,UNEP_WCMC,Average proportion of Mountain Key Biodiversity Areas (KBAs) covered by protected areas [15.4.1],,Percent,,87.4811
-2016,Normal value,Units,UNEP_WCMC,Average proportion of Mountain Key Biodiversity Areas (KBAs) covered by protected areas [15.4.1],,Percent,,87.4811
-2017,Normal value,Units,UNEP_WCMC,Average proportion of Mountain Key Biodiversity Areas (KBAs) covered by protected areas [15.4.1],,Percent,,87.4811
-2018,Normal value,Units,UNEP_WCMC,Average proportion of Mountain Key Biodiversity Areas (KBAs) covered by protected areas [15.4.1],,Percent,,87.4811
-2019,Normal value,Units,UNEP_WCMC,Average proportion of Mountain Key Biodiversity Areas (KBAs) covered by protected areas [15.4.1],,Percent,,87.4811
-2020,Normal value,Units,UNEP_WCMC,Average proportion of Mountain Key Biodiversity Areas (KBAs) covered by protected areas [15.4.1],,Percent,,87.4811
-2021,Normal value,Units,UNEP_WCMC,Average proportion of Mountain Key Biodiversity Areas (KBAs) covered by protected areas [15.4.1],,Percent,,87.4811
-2022,Normal value,Units,UNEP_WCMC,Average proportion of Mountain Key Biodiversity Areas (KBAs) covered by protected areas [15.4.1],,Percent,,87.4811
-2023,Normal value,Units,UNEP_WCMC,Average proportion of Mountain Key Biodiversity Areas (KBAs) covered by protected areas [15.4.1],,Percent,,87.4811
-2024,Normal value,Units,UNEP_WCMC,Average proportion of Mountain Key Biodiversity Areas (KBAs) covered by protected areas [15.4.1],,Percent,,87.4811
+Year,SERIES,Reference area,UNIT_MEASURE,Observation status,Unit multiplier,GeoCode,Value
+2015,Average proportion of Mountain Key Biodiversity Areas (KBAs) covered by protected areas [15.4.1],,Percent,Normal value,Units,,87.4811
+2016,Average proportion of Mountain Key Biodiversity Areas (KBAs) covered by protected areas [15.4.1],,Percent,Normal value,Units,,87.4811
+2017,Average proportion of Mountain Key Biodiversity Areas (KBAs) covered by protected areas [15.4.1],,Percent,Normal value,Units,,87.4811
+2018,Average proportion of Mountain Key Biodiversity Areas (KBAs) covered by protected areas [15.4.1],,Percent,Normal value,Units,,87.4811
+2019,Average proportion of Mountain Key Biodiversity Areas (KBAs) covered by protected areas [15.4.1],,Percent,Normal value,Units,,87.4811
+2020,Average proportion of Mountain Key Biodiversity Areas (KBAs) covered by protected areas [15.4.1],,Percent,Normal value,Units,,87.4811
+2021,Average proportion of Mountain Key Biodiversity Areas (KBAs) covered by protected areas [15.4.1],,Percent,Normal value,Units,,87.4811
+2022,Average proportion of Mountain Key Biodiversity Areas (KBAs) covered by protected areas [15.4.1],,Percent,Normal value,Units,,87.4811
+2023,Average proportion of Mountain Key Biodiversity Areas (KBAs) covered by protected areas [15.4.1],,Percent,Normal value,Units,,87.4811
+2024,Average proportion of Mountain Key Biodiversity Areas (KBAs) covered by protected areas [15.4.1],,Percent,Normal value,Units,,87.4811

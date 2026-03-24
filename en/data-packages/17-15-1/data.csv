@@ -1,2 +1,2 @@
-Year,Observation status,Unit multiplier,SOURCE_DETAIL,SERIES,Reference area,UNIT_MEASURE,GeoCode,Value
-2024,Normal value,Units,UNSDF_NDS1,Extent of use of country-owned results frameworks and planning tools by providers of development cooperation - data by provider (%)  [17.15.1],,Percent,,100
+Year,SERIES,Reference area,UNIT_MEASURE,Observation status,Unit multiplier,GeoCode,Value
+2024,Extent of use of country-owned results frameworks and planning tools by providers of development cooperation - data by provider (%)  [17.15.1],,Percent,Normal value,Units,,100

@@ -1,10 +1,10 @@
-Year,Observation status,Unit multiplier,SOURCE_DETAIL,SERIES,Reference area,UNIT_MEASURE,GeoCode,Value
-2016,Normal value,Units,ZIMSTAT_Quarterly_Digest_of_Statistics,Manufacturing employment as a proportion of total employment - 19th ICLS(%) [9.2.2],,Percent,,11.527485371766415
-2017,Normal value,Units,ZIMSTAT_Quarterly_Digest_of_Statistics,Manufacturing employment as a proportion of total employment - 19th ICLS(%) [9.2.2],,Percent,,10.964386733095884
-2018,Normal value,Units,ZIMSTAT_Quarterly_Digest_of_Statistics,Manufacturing employment as a proportion of total employment - 19th ICLS(%) [9.2.2],,Percent,,11.373394386211809
-2019,Normal value,Units,ZIMSTAT_Quarterly_Digest_of_Statistics,Manufacturing employment as a proportion of total employment - 19th ICLS(%) [9.2.2],,Percent,,10.12757620435614
-2020,Normal value,Units,ZIMSTAT_Quarterly_Digest_of_Statistics,Manufacturing employment as a proportion of total employment - 19th ICLS(%) [9.2.2],,Percent,,9.51522880398604
-2021,Normal value,Units,ZIMSTAT_Quarterly_Digest_of_Statistics,Manufacturing employment as a proportion of total employment - 19th ICLS(%) [9.2.2],,Percent,,9.3
-2022,Normal value,Units,ZIMSTAT_Quarterly_Digest_of_Statistics,Manufacturing employment as a proportion of total employment - 19th ICLS(%) [9.2.2],,Percent,,8.0
-2023,Normal value,Units,ZIMSTAT_Quarterly_Digest_of_Statistics,Manufacturing employment as a proportion of total employment - 19th ICLS(%) [9.2.2],,Percent,,8.1
-2024,Normal value,Units,ZIMSTAT_Quarterly_Digest_of_Statistics,Manufacturing employment as a proportion of total employment - 19th ICLS(%) [9.2.2],,Percent,,8.5
+Year,SERIES,Reference area,UNIT_MEASURE,Observation status,Unit multiplier,GeoCode,Value
+2016,Manufacturing employment as a proportion of total employment - 19th ICLS(%) [9.2.2],,Percent,Normal value,Units,,11.527485371766415
+2017,Manufacturing employment as a proportion of total employment - 19th ICLS(%) [9.2.2],,Percent,Normal value,Units,,10.964386733095884
+2018,Manufacturing employment as a proportion of total employment - 19th ICLS(%) [9.2.2],,Percent,Normal value,Units,,11.373394386211809
+2019,Manufacturing employment as a proportion of total employment - 19th ICLS(%) [9.2.2],,Percent,Normal value,Units,,10.12757620435614
+2020,Manufacturing employment as a proportion of total employment - 19th ICLS(%) [9.2.2],,Percent,Normal value,Units,,9.51522880398604
+2021,Manufacturing employment as a proportion of total employment - 19th ICLS(%) [9.2.2],,Percent,Normal value,Units,,9.3
+2022,Manufacturing employment as a proportion of total employment - 19th ICLS(%) [9.2.2],,Percent,Normal value,Units,,8.0
+2023,Manufacturing employment as a proportion of total employment - 19th ICLS(%) [9.2.2],,Percent,Normal value,Units,,8.1
+2024,Manufacturing employment as a proportion of total employment - 19th ICLS(%) [9.2.2],,Percent,Normal value,Units,,8.5

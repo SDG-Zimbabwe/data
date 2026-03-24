@@ -1,2 +1,2 @@
-Year,Observation status,Unit multiplier,SOURCE_DETAIL,SERIES,Reference area,UNIT_MEASURE,GeoCode,Value
-2024,Normal value,Units,MoHCC_WHOEstimates,Prevalence of hepatitis B surface antigen (HBsAg) [3.3.4],,Number,,7
+Year,SERIES,Reference area,UNIT_MEASURE,Observation status,Unit multiplier,GeoCode,Value
+2024,Prevalence of hepatitis B surface antigen (HBsAg) [3.3.4],,Number,Normal value,Units,,7

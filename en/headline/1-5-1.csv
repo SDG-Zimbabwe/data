@@ -1,1 +1,4 @@
 Year,Value,GeoCode,Observation status,Unit multiplier,UNIT_MEASURE,SERIES
+2019,702363,,Normal value,Units,Number,"Number of directly affected persons attributed to disasters per 100,000 population [1.5.1, 11.5.1, 13.1.1]"
+2019,344,,Normal value,Units,Number,"Number of missing persons due to disaster [1.5.1, 11.5.1, 13.1.1]"
+2019,344,,Normal value,Units,Number,"Number of deaths due to disaster [1.5.1, 11.5.1, 13.1.1]"

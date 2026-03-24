@@ -1,4 +1,4 @@
-Year,Observation status,Unit multiplier,SOURCE_DETAIL,SERIES,Reference area,Sex,Age,UNIT_MEASURE,GeoCode,Value
-2022,Normal value,Units,ZIMSTAT ZDHS_2023-24,Proportion of women and girls aged 15 years and older subjected to sexual violence by persons other than an intimate partner in the previous 12 months [5.2.2],,Female,15 to 49 years old,Percent,,0.83
-2023,Normal value,Units,ZIMSTAT ZDHS_2023-24,Proportion of women and girls aged 15 years and older subjected to sexual violence by persons other than an intimate partner in the previous 12 months [5.2.2],,Female,15 to 49 years old,Percent,,0.92
-2024,Normal value,Units,ZIMSTAT ZDHS_2023-24,Proportion of women and girls aged 15 years and older subjected to sexual violence by persons other than an intimate partner in the previous 12 months [5.2.2],,Female,15 to 49 years old,Percent,,0.1
+Year,SERIES,Reference area,Sex,Age,UNIT_MEASURE,Observation status,Unit multiplier,GeoCode,Value
+2022,Proportion of women and girls aged 15 years and older subjected to sexual violence by persons other than an intimate partner in the previous 12 months [5.2.2],,Female,15 to 49 years old,Percent,Normal value,Units,,0.83
+2023,Proportion of women and girls aged 15 years and older subjected to sexual violence by persons other than an intimate partner in the previous 12 months [5.2.2],,Female,15 to 49 years old,Percent,Normal value,Units,,0.92
+2024,Proportion of women and girls aged 15 years and older subjected to sexual violence by persons other than an intimate partner in the previous 12 months [5.2.2],,Female,15 to 49 years old,Percent,Normal value,Units,,0.1

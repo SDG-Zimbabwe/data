@@ -1,16 +1,16 @@
-Year,Observation status,Unit multiplier,SOURCE_DETAIL,SERIES,Reference area,Sex,Education level,UNIT_MEASURE,GeoCode,Value
-2019,Normal value,Units,2023_EMIS,Proportion of children and young people achieving a minimum proficiency level in reading and mathematics [4.1.1],,,,Percent,,61.1
-2021,Normal value,Units,2023_EMIS,Proportion of children and young people achieving a minimum proficiency level in reading and mathematics [4.1.1],,,,Percent,,72.1
-2022,Normal value,Units,2023_EMIS,Proportion of children and young people achieving a minimum proficiency level in reading and mathematics [4.1.1],,,,Percent,,75.3
-2023,Normal value,Units,2023_EMIS,Proportion of children and young people achieving a minimum proficiency level in reading and mathematics [4.1.1],,,,Percent,,70.1
-2019,Normal value,Units,2023_EMIS,Proportion of children and young people achieving a minimum proficiency level in reading and mathematics [4.1.1],,,Primary education or less,Percent,,60.1
-2019,Normal value,Units,2023_EMIS,Proportion of children and young people achieving a minimum proficiency level in reading and mathematics [4.1.1],,Female,,Percent,,66.1
-2021,Normal value,Units,2023_EMIS,Proportion of children and young people achieving a minimum proficiency level in reading and mathematics [4.1.1],,Female,,Percent,,73.5
-2022,Normal value,Units,2023_EMIS,Proportion of children and young people achieving a minimum proficiency level in reading and mathematics [4.1.1],,Female,,Percent,,78.0
-2023,Normal value,Units,2023_EMIS,Proportion of children and young people achieving a minimum proficiency level in reading and mathematics [4.1.1],,Female,,Percent,,72.7
-2019,Normal value,Units,2023_EMIS,Proportion of children and young people achieving a minimum proficiency level in reading and mathematics [4.1.1],,Female,Primary education or less,Percent,,63.1
-2019,Normal value,Units,2023_EMIS,Proportion of children and young people achieving a minimum proficiency level in reading and mathematics [4.1.1],,Male,,Percent,,55.7
-2021,Normal value,Units,2023_EMIS,Proportion of children and young people achieving a minimum proficiency level in reading and mathematics [4.1.1],,Male,,Percent,,70.6
-2022,Normal value,Units,2023_EMIS,Proportion of children and young people achieving a minimum proficiency level in reading and mathematics [4.1.1],,Male,,Percent,,73.0
-2023,Normal value,Units,2023_EMIS,Proportion of children and young people achieving a minimum proficiency level in reading and mathematics [4.1.1],,Male,,Percent,,67.3
-2019,Normal value,Units,2023_EMIS,Proportion of children and young people achieving a minimum proficiency level in reading and mathematics [4.1.1],,Male,Primary education or less,Percent,,56.9
+Year,SERIES,Reference area,Sex,Education level,UNIT_MEASURE,Observation status,Unit multiplier,GeoCode,Value
+2019,Proportion of children and young people achieving a minimum proficiency level in reading and mathematics [4.1.1],,,,Percent,Normal value,Units,,61.1
+2021,Proportion of children and young people achieving a minimum proficiency level in reading and mathematics [4.1.1],,,,Percent,Normal value,Units,,72.1
+2022,Proportion of children and young people achieving a minimum proficiency level in reading and mathematics [4.1.1],,,,Percent,Normal value,Units,,75.3
+2023,Proportion of children and young people achieving a minimum proficiency level in reading and mathematics [4.1.1],,,,Percent,Normal value,Units,,70.1
+2019,Proportion of children and young people achieving a minimum proficiency level in reading and mathematics [4.1.1],,,Primary education or less,Percent,Normal value,Units,,60.1
+2019,Proportion of children and young people achieving a minimum proficiency level in reading and mathematics [4.1.1],,Female,,Percent,Normal value,Units,,66.1
+2021,Proportion of children and young people achieving a minimum proficiency level in reading and mathematics [4.1.1],,Female,,Percent,Normal value,Units,,73.5
+2022,Proportion of children and young people achieving a minimum proficiency level in reading and mathematics [4.1.1],,Female,,Percent,Normal value,Units,,78.0
+2023,Proportion of children and young people achieving a minimum proficiency level in reading and mathematics [4.1.1],,Female,,Percent,Normal value,Units,,72.7
+2019,Proportion of children and young people achieving a minimum proficiency level in reading and mathematics [4.1.1],,Female,Primary education or less,Percent,Normal value,Units,,63.1
+2019,Proportion of children and young people achieving a minimum proficiency level in reading and mathematics [4.1.1],,Male,,Percent,Normal value,Units,,55.7
+2021,Proportion of children and young people achieving a minimum proficiency level in reading and mathematics [4.1.1],,Male,,Percent,Normal value,Units,,70.6
+2022,Proportion of children and young people achieving a minimum proficiency level in reading and mathematics [4.1.1],,Male,,Percent,Normal value,Units,,73.0
+2023,Proportion of children and young people achieving a minimum proficiency level in reading and mathematics [4.1.1],,Male,,Percent,Normal value,Units,,67.3
+2019,Proportion of children and young people achieving a minimum proficiency level in reading and mathematics [4.1.1],,Male,Primary education or less,Percent,Normal value,Units,,56.9

@@ -1,11 +1,11 @@
-Year,Observation status,Unit multiplier,SOURCE_DETAIL,SERIES,Reference area,UNIT_MEASURE,GeoCode,Value
-2015,Normal value,Units,ZIMSTAT_Prices_Department_Base_year_April__2024=100_Average_monthly,Indicator of Food Price Anomalies (IFPA) [2.c.1],,Percent,,-3.3
-2016,Normal value,Units,ZIMSTAT_Prices_Department_Base_year_April__2024=100_Average_monthly,Indicator of Food Price Anomalies (IFPA) [2.c.1],,Percent,,-3.3
-2017,Normal value,Units,ZIMSTAT_Prices_Department_Base_year_April__2024=100_Average_monthly,Indicator of Food Price Anomalies (IFPA) [2.c.1],,Percent,,2.5
-2018,Normal value,Units,ZIMSTAT_Prices_Department_Base_year_April__2024=100_Average_monthly,Indicator of Food Price Anomalies (IFPA) [2.c.1],,Percent,,14.8
-2019,Normal value,Units,ZIMSTAT_Prices_Department_Base_year_April__2024=100_Average_monthly,Indicator of Food Price Anomalies (IFPA) [2.c.1],,Percent,,15.75
-2020,Normal value,Units,ZIMSTAT_Prices_Department_Base_year_April__2024=100_Average_monthly,Indicator of Food Price Anomalies (IFPA) [2.c.1],,Percent,,30.1
-2021,Normal value,Units,ZIMSTAT_Prices_Department_Base_year_April__2024=100_Average_monthly,Indicator of Food Price Anomalies (IFPA) [2.c.1],,Percent,,23.4
-2022,Normal value,Units,ZIMSTAT_Prices_Department_Base_year_April__2024=100_Average_monthly,Indicator of Food Price Anomalies (IFPA) [2.c.1],,Percent,,58.7
-2023,Normal value,Units,ZIMSTAT_Prices_Department_Base_year_April__2024=100_Average_monthly,Indicator of Food Price Anomalies (IFPA) [2.c.1],,Percent,,-4.9
-2024,Normal value,Units,ZIMSTAT_Prices_Department_Base_year_April__2024=100_Average_monthly,Indicator of Food Price Anomalies (IFPA) [2.c.1],,Percent,,9.39
+Year,SERIES,Reference area,UNIT_MEASURE,Observation status,Unit multiplier,GeoCode,Value
+2015,Indicator of Food Price Anomalies (IFPA) [2.c.1],,Percent,Normal value,Units,,-3.3
+2016,Indicator of Food Price Anomalies (IFPA) [2.c.1],,Percent,Normal value,Units,,-3.3
+2017,Indicator of Food Price Anomalies (IFPA) [2.c.1],,Percent,Normal value,Units,,2.5
+2018,Indicator of Food Price Anomalies (IFPA) [2.c.1],,Percent,Normal value,Units,,14.8
+2019,Indicator of Food Price Anomalies (IFPA) [2.c.1],,Percent,Normal value,Units,,15.75
+2020,Indicator of Food Price Anomalies (IFPA) [2.c.1],,Percent,Normal value,Units,,30.1
+2021,Indicator of Food Price Anomalies (IFPA) [2.c.1],,Percent,Normal value,Units,,23.4
+2022,Indicator of Food Price Anomalies (IFPA) [2.c.1],,Percent,Normal value,Units,,58.7
+2023,Indicator of Food Price Anomalies (IFPA) [2.c.1],,Percent,Normal value,Units,,-4.9
+2024,Indicator of Food Price Anomalies (IFPA) [2.c.1],,Percent,Normal value,Units,,9.39

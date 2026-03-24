@@ -1,2 +1,2 @@
-Year,Observation status,Unit multiplier,SOURCE_DETAIL,SERIES,Reference area,UNIT_MEASURE,GeoCode,Value
-2015,Normal value,Units,CAAZ,Freight volume (tonne kilometres) [9.1.2],,Tonne kilometres,,13383
+Year,SERIES,Reference area,UNIT_MEASURE,Observation status,Unit multiplier,GeoCode,Value
+2015,Freight volume (tonne kilometres) [9.1.2],,Tonne kilometres,Normal value,Units,,13383

@@ -1,5 +1,5 @@
-Year,Observation status,Unit multiplier,SOURCE_DETAIL,SERIES,Reference area,UNIT_MEASURE,GeoCode,Value
-2019,Normal value,Units,HIV_estimates,"Number of new HIV infections per 1,000 uninfected population [3.3.1]",,"Per 1,000 uninfected population",,2.81
-2021,Normal value,Units,HIV_estimates,"Number of new HIV infections per 1,000 uninfected population [3.3.1]",,"Per 1,000 uninfected population",,1.51
-2023,Normal value,Units,HIV_estimates,"Number of new HIV infections per 1,000 uninfected population [3.3.1]",,"Per 1,000 uninfected population",,0.96
-2024,Normal value,Units,HIV_estimates,"Number of new HIV infections per 1,000 uninfected population [3.3.1]",,"Per 1,000 uninfected population",,0.91
+Year,SERIES,Reference area,UNIT_MEASURE,Observation status,Unit multiplier,GeoCode,Value
+2019,"Number of new HIV infections per 1,000 uninfected population [3.3.1]",,"Per 1,000 uninfected population",Normal value,Units,,2.81
+2021,"Number of new HIV infections per 1,000 uninfected population [3.3.1]",,"Per 1,000 uninfected population",Normal value,Units,,1.51
+2023,"Number of new HIV infections per 1,000 uninfected population [3.3.1]",,"Per 1,000 uninfected population",Normal value,Units,,0.96
+2024,"Number of new HIV infections per 1,000 uninfected population [3.3.1]",,"Per 1,000 uninfected population",Normal value,Units,,0.91
